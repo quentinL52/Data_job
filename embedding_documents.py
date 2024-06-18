@@ -10,7 +10,7 @@ from api import clef_api_nomic, clef_api_pinecone
 api_nomic = clef_api_nomic()
 pc = Pinecone(api_key=clef_api_pinecone())
 
-cv_text = pdf_loader("CV_Quentin_Loumeau.pdf")
+cv_text = pdf_loader("")
 
 def vecto_cv(cv_texts):
     embeddings = NomicEmbeddings(model="nomic-embed-text-v1.5")
