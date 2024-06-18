@@ -26,11 +26,11 @@ prompt = ChatPromptTemplate.from_messages([("system", system_prompt), ("human", 
 chain = prompt | chat
 # stocker la fonction speech2text qui permet d'enregistrer un message qui sera transcrit en texte et     
 # utilisé en tant que prompt pour communiquer avec le modele
-texte = speech2text(r"C:\Users\quent\Documents\Python Scripts\voice_AI\human.wav")
+texte = speech2text(r"C:\Users\quent\Documents\GitHub\Data_job\audios\human.wav")
 # je defini la reponse en invoquant la chaine avec le texte issus de l'audio
 reponse = chain.invoke({"text": texte})
 # la fonction text2speech va convertir la reponse du modele en audio
 text2speech(reponse.content)
 # poour finir j'utilise la librairie playsound qui permet de lire automatiquement le fichier 
 # audio transcrit du texte de la reponse du modele
-playsound(r"C:\Users\quent\Documents\Python Scripts\voice_AI\system.wav")
+playsound(r"C:\Users\quent\Documents\GitHub\Data_job\audios\system.wav")

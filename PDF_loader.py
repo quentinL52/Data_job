@@ -4,5 +4,3 @@ def pdf_loader(pdf):
     loader = PyPDFLoader(pdf)
     pages = loader.load_and_split()
     return pages
-
-cv = pdf_loader("CV_Quentin_Loumeau.pdf")
