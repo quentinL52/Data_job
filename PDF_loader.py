@@ -5,4 +5,4 @@ def pdf_loader(pdf):
     pages = loader.load_and_split()
     return pages
 
-cv = pdf_loader("CV_Quentin_Loumeau.pdf")
+cv = pdf_loader("")
