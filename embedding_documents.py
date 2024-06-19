@@ -3,9 +3,13 @@ from pinecone import Pinecone as PineconeClient
 from pinecone import Pinecone, ServerlessSpec
 from langchain_pinecone import PineconeVectorStore
 from PDF_loader import pdf_loader
-from api import clef_api_nomic, clef_api_pinecone
-api_nomic = clef_api_nomic()
-api_pinecone = clef_api_pinecone()
+import os
+from dotenv import load_dotenv
+
+# Charge les variables d'environnement du fichier .env
+load_dotenv()
+api_nomic = os.getenv("CLEF_API_NOMIC")
+api_pinecone = os.getenv("CLEF_API_PINECONE")
 
 pc = Pinecone(api_key=api_pinecone)
 index = pc.Index("cv")

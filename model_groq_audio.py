@@ -5,8 +5,14 @@ from langchain_groq import ChatGroq
 from playsound import playsound
 from audio_record import record_audio
 from speech2text import speech2text
-from api import clef_api_groq 
-api_groq = clef_api_groq()
+import os
+from dotenv import load_dotenv
+
+# Charge les variables d'environnement du fichier .env
+load_dotenv()
+api_groq = os.getenv("CLEF_API_GROQ")
+
+
 # fonction pour lire le fichier txt du prompt
 def read_system_prompt(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -26,11 +32,17 @@ prompt = ChatPromptTemplate.from_messages([("system", system_prompt), ("human", 
 chain = prompt | chat
 # stocker la fonction speech2text qui permet d'enregistrer un message qui sera transcrit en texte et     
 # utilisé en tant que prompt pour communiquer avec le modele
-texte = speech2text(r"C:\Users\quent\Documents\Python Scripts\voice_AI\human.wav")
+texte = speech2text("./human.wav")
 # je defini la reponse en invoquant la chaine avec le texte issus de l'audio
 reponse = chain.invoke({"text": texte})
 # la fonction text2speech va convertir la reponse du modele en audio
 text2speech(reponse.content)
 # poour finir j'utilise la librairie playsound qui permet de lire automatiquement le fichier 
 # audio transcrit du texte de la reponse du modele
-playsound(r"C:\Users\quent\Documents\Python Scripts\voice_AI\system.wav")
+# C:\Git\Data_job\system.wav
+#playsound("system.wav")
+
+working_dir = os.getcwd()
+file = "\system.wav"
+path_file = working_dir + file
+playsound(path_file)

@@ -1,10 +1,14 @@
-from api import clef_api_deepgram
-api_deepgram = clef_api_deepgram()
+from deepgram import    (
+                        DeepgramClient,
+                        SpeakOptions,
+                        )
+import os
+from dotenv import load_dotenv
 
-from deepgram import (
-    DeepgramClient,
-    SpeakOptions,
-)
+# Charge les variables d'environnement du fichier .env
+load_dotenv()
+api_deepgram = os.getenv("CLEF_API_DEEPGRAM")
+
 
 filename = "system.wav"
 

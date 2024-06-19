@@ -1,15 +1,19 @@
-from api import clef_api_deepgram
 import sounddevice as sd
 from scipy.io.wavfile import write
 from audio_record import record_audio
+import os
+from dotenv import load_dotenv
+from deepgram import    (
+                        DeepgramClient,
+                        PrerecordedOptions,
+                        FileSource,
+                        )
 
-api_deepgram = clef_api_deepgram()
+# Charge les variables d'environnement du fichier .env
+load_dotenv()
+api_deepgram = os.getenv("CLEF_API_DEEPGRAM")
 
-from deepgram import (
-    DeepgramClient,
-    PrerecordedOptions,
-    FileSource,
-)
+
 # creer la fonction pour transformer l'audio en texte
 def speech2text(audio_file):
     try:
@@ -19,15 +23,14 @@ def speech2text(audio_file):
         with open(audio_file, "rb") as file:
             buffer_data = file.read()
         # definir la source des données et le modele utilisé pour transcrire l'audio
-        payload: FileSource = {
-            
-            "buffer": buffer_data,
-        }
+        payload: FileSource =   {
+                                "buffer": buffer_data,
+                                 }
 
-        options = PrerecordedOptions(
-            model="nova-2",
-            smart_format=True,
-        )
+        options = PrerecordedOptions    (
+                                        model="nova-2",
+                                        smart_format=True,
+                                        )
         # definir la requete a l'api de deepgram en envoyant les données du fichier audio ainsi
         # que les parametres du modele utilisé 
         response = deepgram.listen.prerecorded.v("1").transcribe_file(payload, options)
