@@ -10,4 +10,4 @@ CLEF_API_GROQ = "ici_votre_clef_obtenue_sur_groq.com"
 CLEF_API_NOMIC = "ici_votre_clef_obtenue_sur_nomic"
 CLEF_API_PINECONE = "ici_votre_clef_obtenue_sur_pinecone.com"
 
-Pour générer vos clés d'API, vous devez avoir des comptes sur deepgram, groq, nomic, et pinecone. La création de ses compte est gratuite, et l'utilisation de leurs API est également gratuite.
+Pour générer vos clés d'API, vous devez avoir créé vos comptes sur deepgram, groq, nomic, et pinecone. La création de ces comptes est gratuite, et l'utilisation de leurs API est également gratuite.
