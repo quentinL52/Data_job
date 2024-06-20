@@ -10,7 +10,7 @@ load_dotenv()
 api_deepgram = os.getenv("CLEF_API_DEEPGRAM")
 
 
-filename = "system.wav"
+filename = "./audios/system.wav"
 
 def text2speech(text):
     try:

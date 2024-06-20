@@ -21,7 +21,7 @@ def creer_index(nom):
         # fonction qui sert a creer un index 
         pc.create_index(
             name=index_name, # le nom de l'index
-            dimension=256, # le nombre de vecteur de l'index
+            dimension=768, # le nombre de vecteur de l'index
             metric="cosine", # la metrique de calcul des vecteurs
             spec=ServerlessSpec(cloud="aws", region="us-east-1"), # les infos du serveur du vector store
         )
@@ -32,4 +32,4 @@ def creer_index(nom):
     return index
 
 if __name__ == "__main__":
-    creer_index("coucou")
+    creer_index("cv")

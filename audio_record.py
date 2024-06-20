@@ -3,7 +3,7 @@ import numpy as np
 import wave
 import threading
 
-def record_audio(filename="human.wav", samplerate=44100, channels=2):
+def record_audio(filename="./audios/human.wav", samplerate=44100, channels=2):
     # declarer une variable pour stocker l'audio 
     audio_data = []
 

@@ -32,17 +32,16 @@ prompt = ChatPromptTemplate.from_messages([("system", system_prompt), ("human", 
 chain = prompt | chat
 # stocker la fonction speech2text qui permet d'enregistrer un message qui sera transcrit en texte et     
 # utilisé en tant que prompt pour communiquer avec le modele
-texte = speech2text("./human.wav")
+texte = speech2text("./audios/human.wav")
 # je defini la reponse en invoquant la chaine avec le texte issus de l'audio
 reponse = chain.invoke({"text": texte})
 # la fonction text2speech va convertir la reponse du modele en audio
 text2speech(reponse.content)
 # poour finir j'utilise la librairie playsound qui permet de lire automatiquement le fichier 
 # audio transcrit du texte de la reponse du modele
-# C:\Git\Data_job\system.wav
-#playsound("system.wav")
+
 
 working_dir = os.getcwd()
-file = "\system.wav"
+file = "./audios/system.wav"
 path_file = working_dir + file
 playsound(path_file)
