@@ -147,3 +147,4 @@ win32-setctime==1.1.0
 wrapt==1.16.0
 yarl==1.9.4
 zipp==3.19.2
+APScheduler==3.10.4

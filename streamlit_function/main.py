@@ -1,7 +1,8 @@
 import streamlit as st
-from streamlit_authenticator.utilities.exceptions import CredentialsError, ForgotError, LoginError, RegisterError, ResetError, UpdateError 
 from file_python.manage_log import login_page, reset_password
 from file_python.yaml_config import yaml_config
+from apscheduler.schedulers.background import BackgroundScheduler
+from main_scrap import update
 
 
 
@@ -21,7 +22,13 @@ elif st.session_state["authentication_status"] is False:
 
 elif st.session_state["authentication_status"] is None:
     st.warning('Please enter your username and password')
-st.write(st.session_state.config)
 
 
-st.write(st.session_state)
+# Initialiser le scheduler
+scheduler = BackgroundScheduler()
+
+# Planifier la tâche pour s'exécuter tous les jours à minuit
+scheduler.add_job(update, 'cron', hour=0, minute=0)
+
+# Démarrer le scheduler
+scheduler.start()
