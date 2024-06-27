@@ -1,0 +1,2085 @@
+id,site_annonce,entreprise,publication,poste,contrat,teletravail,profil,description,ville,lien
+5800fc1343a80bab8dcdcbb5d69b1910,hellowork,groupe ima,2024-06-24,data analyst h/f,cdi,télétravail partiel,"vous l'aurez compris, ce poste va nécessiter une expérience professionnelle similaire de 3 à 5 ans minimum, acquise en esn ou entreprise.
+curieux, créatif et diligent, vous êtes force de proposition et pro actif. vous pensez à la stratégie d'entreprise autant qu'aux données.
+
+votre sens de la pédagogie vous permet de transmettre et de partager vos connaissances afin d'accompagner, conseiller et challenger les métiers.
+vous êtes doté(e) d'excellentes capacités de communication orales et écrites ; vous êtes reconnu(e) pour votre esprit d'analyse et de synthèse.
+
+avec votre experience de la data, vous disposez des compétences techniques suivantes : 
+-   maîtrise des langages de programmation et de requêtages tels que python, r ou sql.
+-   excellente compréhension des concepts statistiques et des méthodes d'analyse de données.
+-   capacité à transformer des données brutes en insights exploitables.
+-   compétences en visualisation de données avec des outils tels que tableau ou power bi.
+une connaissance métier, notamment en marketing et relation client sera vivement appréciée, ainsi que des connaissances juridiques et réglementaires de la gestion des données (usage, délais, durée de vie...)","l'entité test and learn d'ima l@b recherche un data analyst pour venir renforcer ses équipes. poste cdi/perenne
+dans le cadre du plan stratégique 2023-2025, la structure opérationnelle ima l@b est au service de l'accélération de l'innovation et de la transformation.  
+l'entité test and learn, au sein d'ima l@b, a pour missions d'accompagner l'ensemble des métiers du groupe dans leur besoin d'expérimentation
+
+la data est un champ d'exploration majeur pour nos programmes d'expérimentations. l'analyse des données doit permettre de rendre plus efficient notre modèle opérationnel, d'étayer nos stratégies, de venir en appui des initiatives pour le développement de nouvelles offres et de nouveaux produits.
+
+dans ce contexte, vous serez amené à :
+-  accompagner toutes les phases des expérimentations menées par ima lab 
+-  travailler en étroite collaboration avec l'ensemble des métiers d'ima pour comprendre les objectifs des projets et traduire ces besoins en analyses de données dans le cadre des expérimentations
+-  créer des tableaux de bord interactifs pour visualiser les résultats et les partager avec les équipes
+-  collecter, nettoyer et analyser des ensembles de données complexes pour identifier des opportunités d'innovation
+-  développer des modèles prédictifs pour anticiper les tendances futures et soutenir la prise de décision
+-  explorer de nouvelles sources de données et proposer des idées novatrices pour améliorer les processus
+-  participer à des projets de recherche et développement en utilisant les dernières technologies et méthodes d'analyse
+-  participer à « l'acculturation data » en la rendant accessible et visuelle pour qu'elle soit au coeur de nos décisions",niort - 79,https://www.hellowork.com/fr-fr/emplois/49473221.html
+2fc3d24783b51505cfce17cbd7a80d69,hellowork,leasecom,2024-06-24,data analyst h/f,cdi,,"vous avez un diplôme de l'enseignement supérieur en informatique avec une expérience réussie d'au moins 5 - 7 ans minimum dans les métiers de la data.
+
+compétences techniques :
+-   maîtrise d'outil de data visualisation (qlik, power bi)
+-   maîtrise du sql
+-   maîtrise d'un langage de programmation orienté objet (idéalement python)
+-   la connaissance d'un etl (talend)
+
+a l'aise en anglais (communication avec les filiales à l'étranger)
+compétences comportementales :
+-   esprit d'équipe et d'initiative
+-   compréhension des enjeux opérationnels et orientation vers les résultats.
+-   rigueur, curiosité et souci du détail
+-   capacité à communiquer avec des personnes techniques et non techniques.
+-   apprentissage rapide et autonomie.
+-   solides compétences de résolution de problèmes
+conditions :
+-   type de contrat : cdi
+-   tickets restaurants, mutuelle famille, rtt
+-   remboursement titre de transport à 50%
+-   localisation : paris
+vous hésitez encore ?
+leasecom c'est aussi :
+* un collectif rse et une labellisation « positive company »
+* une démarche de labellisation classements happyindex®atworkchoosemycompany
+* un cadre de travail agréable et des activités riches et stimulantes
+* un parcours d'intégration ou nous serons aux petits soins pour vous
+* des parcours de formation pour que vous soyez toujours opérationnels
+* des perspectives d'évolution
+* de supers événements toute l'année
+* une ouverture de tous nos postes aux salariés reconnus travailleurs handicapés
+
+et enfin un process de recrutement ultra rapide !","la direction des opérations envisage de créer une équipe analytics qui jouera un rôle central dans la qualité de la donnée, sa cohérence et son homogénéité, dans l'accompagnement au développement commercial, dans l'automatisation de process au travers d'un pilotage rigoureux de la donnée, et enfin dans la gestion des risques (opérationnels et financiers) de l'entreprise.
+l'équipe analytics aura notamment pour mission de :
+-           centraliser et répondre aux besoins en données de l'entreprise à des fins de reporting, pilotage des activités (business intelligence / customer intelligence),
+-           innover en utilisant les données de leasecom de manière statistique afin d'automatiser et d'optimiser les process,
+-           reprendre la gestion du paramétrage de nos grilles de score et travailler à l'évolution de la vision du risque au sein de la société,
+-           garantir la qualité, fiabilité des données émanant du data mart créé par l'équipe. l'ensemble des données de ce data mart sont reprises dans le data catalogue créé et maintenu par cette équipe,
+-           garantir la gouvernance de la donnée dans l'entreprise.
+la raison d'être de cette équipe est de garantir la qualité des données et la pertinence des modèles de score utilisés dans l'entreprise, et d'innover en intégrant des nouvelles techniques de modélisations
+l'objectif à terme est de piloter par la data l'ensemble de l'entreprise.
+au sein de cette équipe le data analyst a comme missions principales :
+*      qualité de données
+
+- définir et mettre en oeuvre des méthodes et outils standards d'évaluation de la qualité et de mise en qualité des données.
+-  collaborer à la mise en place d'une gouvernance autour de la data
+-  concevoir, développer et maintenir des dispositifs de qualités de données permettant de favoriser les contrôles de qualités en amont
+*     business intelligence :
+
+-  collaborer avec les parties prenantes pour identifier et comprendre les besoins de l'entreprise et les traduire en besoins analytics.
+-  concevoir, développer et maintenir des modèles de données, des tableaux de bord et des rapports afin de fournir des informations exploitables et personnalisées aux métiers afin d'être dans l'anticipation
+* analytics :
+
+-  concevoir, développer et maintenir des modèles de scoring afin optimiser la performance des process et l'automatisation",paris 15e - 75,https://www.hellowork.com/fr-fr/emplois/52453490.html
+2fc3d24783b51505cfce17cbd7a80d69,hellowork,leasecom,2024-06-24,data analyst h/f,cdi,,"vous avez un diplôme de l'enseignement supérieur en en traitement de données  avec une expérience réussie d'au moins 2 ans sur des sujets de datavisualisation. une expérience dans le secteur du commerce ou du marketing est un atout.
+
+compétences techniques
+-   maîtrise d'outil de data visualisation (qlik, power bi)
+-   maîtrise du sql
+-   maîtrise d'un langage de programmation orienté objet (idéalement python)
+-   la connaissance d'un etl (talend)
+
+compétences comportementales
+-   esprit d'équipe et d'initiative
+-   compréhension des enjeux opérationnels et orientation vers les résultats.
+-   rigueur, curiosité et souci du détail
+-   capacité à communiquer avec des personnes techniques et non techniques.
+-   apprentissage rapide et autonomie.
+-   solides compétences de résolution de problèmes
+
+conditions
+-   type de contrat : cdi
+-   tickets restaurants, mutuelle famille, rtt
+-   remboursement titre de transport à 50%
+-   localisation : paris
+
+vous hésitez encore ?
+leasecom c'est aussi :
+* un collectif rse et une labellisation « positive company »
+* une démarche de labellisation classements happyindex®atworkchoosemycompany
+* un cadre de travail agréable et des activités riches et stimulantes
+* un parcours d'intégration ou nous serons aux petits soins pour vous
+* des parcours de formation pour que vous soyez toujours opérationnels
+* des perspectives d'évolution
+* de supers événements toute l'année
+* une ouverture de tous nos postes aux salariés reconnus travailleurs handicapés
+
+et enfin un process de recrutement ultra rapide !","au sein d'une nouvelle équipe analytics, vous jouerez un rôle central, en soutenant le développement commercial et en automatisant les processus grâce à un pilotage rigoureux de la donnée. 
+
+vos principales missions seront :
+
+visualisation de données
+* concevoir et développer des tableaux de bord interactifs et des rapports personnalisés pour les équipes commerciales et marketing.
+
+* utiliser des outils de data visualisation comme power bi ou qlik pour présenter des données complexes de manière claire et compréhensible.
+
+analyse de données
+* analyser les performances commerciales des différentes agences et proposer des recommandations pour améliorer les résultats.
+
+* extraire, manipuler et interpréter les données pour identifier les tendances et opportunités de croissance.
+
+* produire des statistiques et des reportings mensuels pour suivre les indicateurs de performance clés (kpi).
+
+suivi et délivrance d'indicateurs
+* collaborer avec les parties prenantes pour identifier et comprendre les besoins de l'entreprise et les traduire en besoins analytics.
+
+* assurer le suivi des performances des agences et proposer des actions correctives basées sur les données analysées.",paris 15e - 75,https://www.hellowork.com/fr-fr/emplois/52453511.html
+9c44fcdbb4508c84dcab1037b33d22fa,hellowork,groupe gema - esi business school / ia school (siège national),2024-06-24,data analyst h/f,alternance,,"-   avoir une bonne compréhension des bases de données.
+-   maîtriser les langages de programmation tels que python, ainsi que les outils et technologies couramment utilisés en ingénierie des données.
+-   avoir des compétences en matière de manipulation et de traitement de données, ainsi qu'une bonne compréhension des principes de l'apprentissage automatique (machine learning).
+-   être autonome, curieux(se) et avoir un esprit d'analyse pour résoudre des problèmes complexes liés aux données.
+-   formation prise en charge à 100% par l'entreprise.
+-   rémunération selon niveau d'études + âge.","l'ia school, l'ecole de l'intelligence artificielle et du management recherche pour son entreprise partenaire, spécialisée dans le secteur du pharmaceutique, un(e) data analyst en contrat d'apprentissage, pour préparer l'une de nos formations diplômantes reconnues par l'etat.
+
+conditions préalables pour postuler à cette offre : réussir le concours d'entrée de l'ia school et finaliser votre inscription à l'école. un chargé d'admission vous contactera dans les meilleurs délais.
+
+l'alternance au sein de l'ia school, c'est avant tout une formation diplômante reconnue par l'etat et complètement gratuite pour l'étudiant(e), alliée à une expérience en entreprise rémunérée
+
+missions :
+-  participer à la conception, au développement et à la maintenance des pipelines de données, en utilisant des technologies et des outils tels que hadoop, spark, python, sql, etc.
+-  collecter, nettoyer et traiter les données provenant de différentes sources, en veillant à leur qualité et à leur intégrité.
+-  contribuer à la modélisation de données et à la création de schémas pour assurer une structure cohérente et une bonne performance des bases de données.
+-  collaborer avec les équipes métier pour comprendre leurs besoins en matière de données et proposer des solutions techniques appropriées.
+-  optimiser les processus existants pour améliorer l'efficacité et la fiabilité des flux de données.
+-  effectuer des analyses de données et générer des rapports pour aider à la prise de décision et à l'identification de tendances.
+-  veiller à la conformité des pratiques de gestion des données avec les réglementations en vigueur, telles que le rgpd.",paris - 75,https://www.hellowork.com/fr-fr/emplois/49462682.html
+fede8dc5f05e590e9da9bb5b3994b73a,hellowork,groupe gema - esi business school / ia school (siège national),2024-06-24,data analyst h/f,alternance,,"-   avoir une bonne compréhension des bases de données.
+-   maîtriser les langages de programmation tels que python, ainsi que les outils et technologies couramment utilisés en ingénierie des données.
+-   avoir des compétences en matière de manipulation et de traitement de données, ainsi qu'une bonne compréhension des principes de l'apprentissage automatique (machine learning).
+-   être autonome, curieux(se) et avoir un esprit d'analyse pour résoudre des problèmes complexes liés aux données.
+-   formation prise en charge à 100% par l'entreprise.
+-   rémunération selon niveau d'études + âge.","l'ia school, l'ecole de l'intelligence artificielle et du management recherche pour son entreprise partenaire, spécialisée dans le secteur du pharmaceutique, un(e) data analyst en contrat d'apprentissage, pour préparer l'une de nos formations diplômantes reconnues par l'etat.
+
+conditions préalables pour postuler à cette offre : réussir le concours d'entrée de l'ia school et finaliser votre inscription à l'école. un chargé d'admission vous contactera dans les meilleurs délais.
+
+l'alternance au sein de l'ia school, c'est avant tout une formation diplômante reconnue par l'etat et complètement gratuite pour l'étudiant(e), alliée à une expérience en entreprise rémunérée
+
+missions :
+-  participer à la conception, au développement et à la maintenance des pipelines de données, en utilisant des technologies et des outils tels que hadoop, spark, python, sql, etc.
+-  collecter, nettoyer et traiter les données provenant de différentes sources, en veillant à leur qualité et à leur intégrité.
+-  contribuer à la modélisation de données et à la création de schémas pour assurer une structure cohérente et une bonne performance des bases de données.
+-  collaborer avec les équipes métier pour comprendre leurs besoins en matière de données et proposer des solutions techniques appropriées.
+-  optimiser les processus existants pour améliorer l'efficacité et la fiabilité des flux de données.
+-  effectuer des analyses de données et générer des rapports pour aider à la prise de décision et à l'identification de tendances.
+-  veiller à la conformité des pratiques de gestion des données avec les réglementations en vigueur, telles que le rgpd.",aix-en-provence - 13,https://www.hellowork.com/fr-fr/emplois/49468628.html
+8e5cec701bbf9987163ea9f8145cc593,hellowork,groupe gema - esi business school / ia school (siège national),2024-06-24,data analyst h/f,alternance,,"-   avoir une bonne compréhension des bases de données.
+-   maîtriser les langages de programmation tels que python, ainsi que les outils et technologies couramment utilisés en ingénierie des données.
+-   avoir des compétences en matière de manipulation et de traitement de données, ainsi qu'une bonne compréhension des principes de l'apprentissage automatique (machine learning).
+-   être autonome, curieux(se) et avoir un esprit d'analyse pour résoudre des problèmes complexes liés aux données.
+-   formation prise en charge à 100% par l'entreprise.
+-   rémunération selon niveau d'études + âge.","l'ia school, l'ecole de l'intelligence artificielle et du management recherche pour son entreprise partenaire, spécialisée dans le secteur du pharmaceutique, un(e) data analyst en contrat d'apprentissage, pour préparer l'une de nos formations diplômantes reconnues par l'etat.
+
+conditions préalables pour postuler à cette offre : réussir le concours d'entrée de l'ia school et finaliser votre inscription à l'école. un chargé d'admission vous contactera dans les meilleurs délais.
+
+l'alternance au sein de l'ia school, c'est avant tout une formation diplômante reconnue par l'etat et complètement gratuite pour l'étudiant(e), alliée à une expérience en entreprise rémunérée
+
+missions :
+-  participer à la conception, au développement et à la maintenance des pipelines de données, en utilisant des technologies et des outils tels que hadoop, spark, python, sql, etc.
+-  collecter, nettoyer et traiter les données provenant de différentes sources, en veillant à leur qualité et à leur intégrité.
+-  contribuer à la modélisation de données et à la création de schémas pour assurer une structure cohérente et une bonne performance des bases de données.
+-  collaborer avec les équipes métier pour comprendre leurs besoins en matière de données et proposer des solutions techniques appropriées.
+-  optimiser les processus existants pour améliorer l'efficacité et la fiabilité des flux de données.
+-  effectuer des analyses de données et générer des rapports pour aider à la prise de décision et à l'identification de tendances.
+-  veiller à la conformité des pratiques de gestion des données avec les réglementations en vigueur, telles que le rgpd.",toulouse - 31,https://www.hellowork.com/fr-fr/emplois/49469385.html
+30809257a8b150e5f0458681e0a06573,hellowork,groupe gema - esi business school / ia school (siège national),2024-06-24,data analyst h/f,alternance,,"-   avoir une bonne compréhension des bases de données.
+-   maîtriser les langages de programmation tels que python, ainsi que les outils et technologies couramment utilisés en ingénierie des données.
+-   avoir des compétences en matière de manipulation et de traitement de données, ainsi qu'une bonne compréhension des principes de l'apprentissage automatique (machine learning).
+-   être autonome, curieux(se) et avoir un esprit d'analyse pour résoudre des problèmes complexes liés aux données.
+-   formation prise en charge à 100% par l'entreprise.
+-   rémunération selon niveau d'études + âge.","l'ia school, l'ecole de l'intelligence artificielle et du management recherche pour son entreprise partenaire, spécialisée dans le secteur du pharmaceutique, un(e) data analyst en contrat d'apprentissage, pour préparer l'une de nos formations diplômantes reconnues par l'etat.
+
+conditions préalables pour postuler à cette offre : réussir le concours d'entrée de l'ia school et finaliser votre inscription à l'école. un chargé d'admission vous contactera dans les meilleurs délais.
+
+l'alternance au sein de l'ia school, c'est avant tout une formation diplômante reconnue par l'etat et complètement gratuite pour l'étudiant(e), alliée à une expérience en entreprise rémunérée
+
+missions :
+-  participer à la conception, au développement et à la maintenance des pipelines de données, en utilisant des technologies et des outils tels que hadoop, spark, python, sql, etc.
+-  collecter, nettoyer et traiter les données provenant de différentes sources, en veillant à leur qualité et à leur intégrité.
+-  contribuer à la modélisation de données et à la création de schémas pour assurer une structure cohérente et une bonne performance des bases de données.
+-  collaborer avec les équipes métier pour comprendre leurs besoins en matière de données et proposer des solutions techniques appropriées.
+-  optimiser les processus existants pour améliorer l'efficacité et la fiabilité des flux de données.
+-  effectuer des analyses de données et générer des rapports pour aider à la prise de décision et à l'identification de tendances.
+-  veiller à la conformité des pratiques de gestion des données avec les réglementations en vigueur, telles que le rgpd.",lyon - 69,https://www.hellowork.com/fr-fr/emplois/49463175.html
+6b0bb8945d3326eb4de11baa3cd83a3b,hellowork,groupe gema - esi business school / ia school (siège national),2024-06-24,data analyst h/f,alternance,,"-   avoir une bonne compréhension des bases de données.
+-   maîtriser les langages de programmation tels que python, ainsi que les outils et technologies couramment utilisés en ingénierie des données.
+-   avoir des compétences en matière de manipulation et de traitement de données, ainsi qu'une bonne compréhension des principes de l'apprentissage automatique (machine learning).
+-   être autonome, curieux(se) et avoir un esprit d'analyse pour résoudre des problèmes complexes liés aux données.
+-   formation prise en charge à 100% par l'entreprise.
+-   rémunération selon niveau d'études + âge.","l'ia school, l'ecole de l'intelligence artificielle et du management recherche pour son entreprise partenaire, spécialisée dans le secteur du pharmaceutique, un(e) data analyst en contrat d'apprentissage, pour préparer l'une de nos formations diplômantes reconnues par l'etat.
+
+conditions préalables pour postuler à cette offre : réussir le concours d'entrée de l'ia school et finaliser votre inscription à l'école. un chargé d'admission vous contactera dans les meilleurs délais.
+
+l'alternance au sein de l'ia school, c'est avant tout une formation diplômante reconnue par l'etat et complètement gratuite pour l'étudiant(e), alliée à une expérience en entreprise rémunérée
+
+missions :
+-  participer à la conception, au développement et à la maintenance des pipelines de données, en utilisant des technologies et des outils tels que hadoop, spark, python, sql, etc.
+-  collecter, nettoyer et traiter les données provenant de différentes sources, en veillant à leur qualité et à leur intégrité.
+-  contribuer à la modélisation de données et à la création de schémas pour assurer une structure cohérente et une bonne performance des bases de données.
+-  collaborer avec les équipes métier pour comprendre leurs besoins en matière de données et proposer des solutions techniques appropriées.
+-  optimiser les processus existants pour améliorer l'efficacité et la fiabilité des flux de données.
+-  effectuer des analyses de données et générer des rapports pour aider à la prise de décision et à l'identification de tendances.
+-  veiller à la conformité des pratiques de gestion des données avec les réglementations en vigueur, telles que le rgpd.",bordeaux - 33,https://www.hellowork.com/fr-fr/emplois/49468070.html
+f5be0a5be3e7be2ccaeae42b58360042,hellowork,groupe gema - esi business school / ia school (siège national),2024-06-24,data analyst h/f,alternance,,"-   avoir une bonne compréhension des bases de données.
+-   maîtriser les langages de programmation tels que python, ainsi que les outils et technologies couramment utilisés en ingénierie des données.
+-   avoir des compétences en matière de manipulation et de traitement de données, ainsi qu'une bonne compréhension des principes de l'apprentissage automatique (machine learning).
+-   être autonome, curieux(se) et avoir un esprit d'analyse pour résoudre des problèmes complexes liés aux données.
+-   formation prise en charge à 100% par l'entreprise.
+-   rémunération selon niveau d'études + âge.","l'ia school, l'ecole de l'intelligence artificielle et du management recherche pour son entreprise partenaire, spécialisée dans le secteur du pharmaceutique, un(e) data analyst en contrat d'apprentissage, pour préparer l'une de nos formations diplômantes reconnues par l'etat.
+
+conditions préalables pour postuler à cette offre : réussir le concours d'entrée de l'ia school et finaliser votre inscription à l'école. un chargé d'admission vous contactera dans les meilleurs délais.
+
+l'alternance au sein de l'ia school, c'est avant tout une formation diplômante reconnue par l'etat et complètement gratuite pour l'étudiant(e), alliée à une expérience en entreprise rémunérée
+
+missions :
+-  participer à la conception, au développement et à la maintenance des pipelines de données, en utilisant des technologies et des outils tels que hadoop, spark, python, sql, etc.
+-  collecter, nettoyer et traiter les données provenant de différentes sources, en veillant à leur qualité et à leur intégrité.
+-  contribuer à la modélisation de données et à la création de schémas pour assurer une structure cohérente et une bonne performance des bases de données.
+-  collaborer avec les équipes métier pour comprendre leurs besoins en matière de données et proposer des solutions techniques appropriées.
+-  optimiser les processus existants pour améliorer l'efficacité et la fiabilité des flux de données.
+-  effectuer des analyses de données et générer des rapports pour aider à la prise de décision et à l'identification de tendances.
+-  veiller à la conformité des pratiques de gestion des données avec les réglementations en vigueur, telles que le rgpd.",rennes - 35,https://www.hellowork.com/fr-fr/emplois/49469862.html
+6de2a1539d09bb4b20411a4c9046c578,hellowork,groupe gema - esi business school / ia school (siège national),2024-06-24,data analyst h/f,alternance,,"-   avoir une bonne compréhension des bases de données.
+-   maîtriser les langages de programmation tels que python, ainsi que les outils et technologies couramment utilisés en ingénierie des données.
+-   avoir des compétences en matière de manipulation et de traitement de données, ainsi qu'une bonne compréhension des principes de l'apprentissage automatique (machine learning).
+-   être autonome, curieux(se) et avoir un esprit d'analyse pour résoudre des problèmes complexes liés aux données.
+-   formation prise en charge à 100% par l'entreprise.
+-   rémunération selon niveau d'études + âge.","l'ia school, l'ecole de l'intelligence artificielle et du management recherche pour son entreprise partenaire, spécialisée dans le secteur du pharmaceutique, un(e) data analyst en contrat d'apprentissage, pour préparer l'une de nos formations diplômantes reconnues par l'etat.
+
+conditions préalables pour postuler à cette offre : réussir le concours d'entrée de l'ia school et finaliser votre inscription à l'école. un chargé d'admission vous contactera dans les meilleurs délais.
+
+l'alternance au sein de l'ia school, c'est avant tout une formation diplômante reconnue par l'etat et complètement gratuite pour l'étudiant(e), alliée à une expérience en entreprise rémunérée
+
+missions :
+-  participer à la conception, au développement et à la maintenance des pipelines de données, en utilisant des technologies et des outils tels que hadoop, spark, python, sql, etc.
+-  collecter, nettoyer et traiter les données provenant de différentes sources, en veillant à leur qualité et à leur intégrité.
+-  contribuer à la modélisation de données et à la création de schémas pour assurer une structure cohérente et une bonne performance des bases de données.
+-  collaborer avec les équipes métier pour comprendre leurs besoins en matière de données et proposer des solutions techniques appropriées.
+-  optimiser les processus existants pour améliorer l'efficacité et la fiabilité des flux de données.
+-  effectuer des analyses de données et générer des rapports pour aider à la prise de décision et à l'identification de tendances.
+-  veiller à la conformité des pratiques de gestion des données avec les réglementations en vigueur, telles que le rgpd.",lille - 59,https://www.hellowork.com/fr-fr/emplois/49469237.html
+40bbe2b294cf969d29817922d9041606,hellowork,groupe gema - esi business school / ia school (siège national),2024-06-24,data analyst h/f,alternance,,"-   avoir une bonne compréhension des bases de données.
+-   maîtriser les langages de programmation tels que python, ainsi que les outils et technologies couramment utilisés en ingénierie des données.
+-   avoir des compétences en matière de manipulation et de traitement de données, ainsi qu'une bonne compréhension des principes de l'apprentissage automatique (machine learning).
+-   être autonome, curieux(se) et avoir un esprit d'analyse pour résoudre des problèmes complexes liés aux données.
+-   formation prise en charge à 100% par l'entreprise.
+-   rémunération selon niveau d'études + âge.","l'ia school, l'ecole de l'intelligence artificielle et du management recherche pour son entreprise partenaire, spécialisée dans le secteur du pharmaceutique, un(e) data analyst en contrat d'apprentissage, pour préparer l'une de nos formations diplômantes reconnues par l'etat.
+
+conditions préalables pour postuler à cette offre : réussir le concours d'entrée de l'ia school et finaliser votre inscription à l'école. un chargé d'admission vous contactera dans les meilleurs délais.
+
+l'alternance au sein de l'ia school, c'est avant tout une formation diplômante reconnue par l'etat et complètement gratuite pour l'étudiant(e), alliée à une expérience en entreprise rémunérée
+
+missions :
+-  participer à la conception, au développement et à la maintenance des pipelines de données, en utilisant des technologies et des outils tels que hadoop, spark, python, sql, etc.
+-  collecter, nettoyer et traiter les données provenant de différentes sources, en veillant à leur qualité et à leur intégrité.
+-  contribuer à la modélisation de données et à la création de schémas pour assurer une structure cohérente et une bonne performance des bases de données.
+-  collaborer avec les équipes métier pour comprendre leurs besoins en matière de données et proposer des solutions techniques appropriées.
+-  optimiser les processus existants pour améliorer l'efficacité et la fiabilité des flux de données.
+-  effectuer des analyses de données et générer des rapports pour aider à la prise de décision et à l'identification de tendances.
+-  veiller à la conformité des pratiques de gestion des données avec les réglementations en vigueur, telles que le rgpd.",strasbourg - 67,https://www.hellowork.com/fr-fr/emplois/49470420.html
+ab7db88782c8eaf2bf36500efa716bc3,hellowork,axa investment managers,2024-06-24,business data analyst h/f,cdi,,"partagez votre expertise unique
+
+nous accueillons différentes combinaisons de compétences et d'expériences.
+
+vos diplômes et expériences :
+-   formation de type bac +5 (université ou école de commerce)
+-   au moins une première expérience dans un établissement financier
+-   gestion de manière industrialisée de données financières, particulièrement celles dédiées à la gestion d'actifs
+
+vos connaissances et compétences :
+-   connaissance des instruments financiers (modélisation, fonctionnement, etc.)
+-   capacité à communiquer activement et de manière appropriée vers les clients et vers les fournisseurs de données
+-   connaissance avancée sur excel, sql, python et outils de meta data management
+-   anglais courant et financier
+-   bonne connaissance du fonctionnement d'un asset manager et/ou compagnie d'assurance
+
+nous aimerions en savoir plus sur vous ! envoyez-nous votre cv.","la defense, paris - hybride
+
+permanent
+
+axa im est un gestionnaire d'actifs international faisant partie du groupe axa, leader mondial de l'assurance. notre équipe comprend de nombreuses compétences et expériences pour mieux répondre aux besoins de nos clients.
+
+votre rôle de business data analyst sera rattaché au head of axa solution et vous ferez partie du département axa im global coo - investment support.
+
+decouvrez votre opportunité
+
+le business data analyst est le garant de :
+-  la qualité des données administrées pour les clients axa, en maintenant le support opérationnel (axa entités, auditeurs, risk, axa) grâce notamment aux outils innovants.
+-  de la mise en place de solutions de manière transverses (business, fonctionnelle, technique) et cohérentes avec la politique data d'axa im, pour toute évolution liée à la data.
+-  du respect du niveau de service avec le client notamment via à vis du groupe axa
+
+vos rôles et responsabilités :
+
+1- expertises-en data management
+-  développer une connaissance transversale des familles des données (définitions, modélisation des instruments financiers, fournisseurs de données, règles métier etc.)
+-  développer une connaissance approfondie et transversale des modèles de données implémentés chez data management, et des applications (fonctionnalités, contrôles etc.)
+-  développer une connaissance approfondie des flux de données et du cycle de vie de chaque donnée et des types de valorisations des instruments financiers.
+
+2- analyse et contrôle de la qualité
+-  développer des méthodes d'analyse et de remédiations massives de la qualité de la donnée
+-  exploiter les indicateurs de qualité existant, et en créer de nouveaux le cas échéant
+-  opérer les contrôles qualité définis dans la data management control policy et la pricing policy ship.
+-  effectuer un suivi et un contrôle de second niveau des activités de contrôle effectuées par l'équipe data management offshore (axa business services, inde) : création et suivi des kpi, participation aux gouvernances opérationnelles.
+-  suivre les flux providers en collaboration avec les équipes technology, et communiquer sur de potentiels problèmes de qualité, de délais de livraison des données
+-  s'assurer que les données référencées respectent les standards définis dans la politique data (notamment la procédure de modification des données)
+
+3- support aux clients
+-  répondre de façon réactive, efficace et détaillée aux demandes de support des clients (demandes d'information, de vérification, d'extractions etc.)
+-  assurer, en collaboration avec les autres membres de l'équipe, la continuité du service selon les horaires définis par le manager et selon les besoins des clients
+-  assurer la livraison des rapports ad hoc (closing reports, reports règlementaires ; cut-off reports etc.) selon le format convenu et les délais impartis
+-  assurer les formations aux nouveaux collaborateurs d'axa im le cas échéant
+
+4- clients & providers gouvernance
+-  suivi des relations avec les data providers en collaboration avec l'équipe market data (qualité des services, coûts, nouvelles offres disponibles)
+-  suivi et respect des gouvernances opérationnelles avec les clients
+-  assurer une veille sur les changements annoncés/ prévus (fournisseurs de données, équipe de gestion axa im, régulateurs, changements techniques) et impactant l'activité des clients.
+
+5- efficacité opérationnelle
+-  s'assurer d'une bonne compréhension des besoins exprimés par les clients et anticiper les impacts potentiels
+-  développer une hauteur de vue permettant de challenger les processus opérationnels et l'impact business.
+-  simplifier et rationnaliser les contrôles existants et identifier les nouveaux contrôles à mettre en place
+-  définir, proposer et mettre en place de nouveaux contrôles pour équipes onshore (paris) et offshore (inde)
+-  contribuer au suivi des activités offshore dans un but d'amélioration permanent des processus de production
+
+6- documentation
+-  maintenir à jour la documentation opérationnelles (procédures, documentation de processus, service level agreement avec les clients et/ou les fournisseurs de données).
+-  assurer le compte-rendu des gouvernances dédiées (support, projets, clients...)",puteaux - 92,https://www.hellowork.com/fr-fr/emplois/52425468.html
+9e022b74141f291a056cb4c7fec09397,hellowork,agap2 it,2024-06-24,data analyst - engineer h/f,cdi,,"expérience avérée en tant que data analyst ou data engineer, avec une spécialisation experte en power bi
+
+compétences solides en migration de solutions vba (excel) vers power bi
+
+connaissance approfondie des outils de gestion de la qualité des données, sharepoint et datalake
+
+compétences en gestion de projets agiles, avec une expérience pratique de la méthodologie scrum ou similaire
+
+diplôme universitaire en informatique, gestion de données, ou domaine connexe","analyser et définir les besoins en données des différentes équipes métier
+
+concevoir et développer des solutions de reporting et d'analyse de données avec power bi, en transformant des données brutes en insights exploitables
+
+migrer des solutions existantes en vba (excel) vers power bi, assurant une transition fluide et efficace
+
+superviser la qualité des données, en utilisant des outils de gestion de la qualité de la donnée, intégrés avec sharepoint et datalake
+
+collaborer avec les équipes de développement et les parties prenantes pour garantir l'alignement des solutions développées avec les besoins métier
+
+documenter les processus de migration et de développement, créant des guides et des formations pour les utilisateurs finaux
+
+participer à l'amélioration continue des processus et des méthodologies de gestion et de traitement des données
+
+assurer une communication transparente et régulière avec les parties prenantes internes et externes",gironde - 33,https://www.hellowork.com/fr-fr/emplois/50796181.html
+87834d7ca090ba94d4c775e4927aa2fd,hellowork,la marine nationale,2024-06-24,data analyst rh h/f,cdd,,"diplôme de niveau 6 ou 7 dans le domaine de la data ou de la rh ;
+bonne connaissance du pack office, en particulier d'excel (vba)
+appétence pour les outils statistiques et de datavisualisation (qliksense)
+la connaissance d'un langage informatique est un plus (python)
+qualités professionnelles, intellectuelles et personnelles requises :
+esprit d'initiative, et autonomie ;
+sens de l'analyse et de la synthèse ;
+organisation et méthode ;
+sociabilité, travail en équipe.
+
+pré-requis :
+
+savoir nager
+être de nationalité française
+avoir accompli sa journée défense et citoyenneté (jdc - ex japd)
+être physiquement et médicalement apte
+être âgé de 21 à moins de 30 ans au 1er janvier de l'année de recrutement
+age(s) :
+entre 18 et 26 ans (voa/vac, formations, commissariat, maistrance)
+27 à 33 ans (osc, commissariat, osc ops, maistrance)
+
+parcours de recrutement :
+
+candidature sur lamarinerecrute.fr
+entretien de motivation
+tests d'aptitudes
+entretien avec l'unité
+affectation en unité","le poste est au sein du bureau « etudes, pilotage et prospective » (e2p) composé de quatre sections : pré-recrutement, data, formation et informatique.
+l'officier recruté sera le chef de la section data, composée également :
+
+d'un volontaire officier aspirant en charge de la formation sur les outils de data ;
+
+d'un officier marinier supérieur en charge du contrôle de gestion et pilotage ;
+
+d'un alternant.
+
+les missions de la section data comprennent la mise en oeuvre de la stratégie de gestion des données, le suivi des indicateurs de performance, les statistiques globales de recrutement ainsi que le développement du nouveau si de recrutement.
+
+missions :
+
+en tant que chef de section, il manage une équipe de 3 personnes.
+
+activités principales :
+
+stratégie data :
+
+il élabore la stratégie de gestion des données des viviers de recrutement ;
+il s'assure de la fiabilité des données sur l'ensemble des systèmes d'information ;
+il met en place et produit des tableaux de bord adaptés à chaque acteur ;
+il suit la performance des dispositifs marketing et de pré-recrutement mis en place.
+
+développement si :
+il participe au développement et au déploiement du nouveau si de recrutement en interarmées en tant qu'adjoint au référent fonctionnel.
+
+activités annexes :
+
+il pilote des projets de génération de nouveaux viviers :
+en interne le « e-cirfa », une entité spécialisée dans le sourcing (5 personnels militaires)
+en externe le marché avec un cabinet de recrutement.
+
+lieu du poste :
+
+poste basé à paris (fort neuf de vincennes, paris 12) jusqu'à l'été 2024 puis à tours (base de défense).
+
+formation initiale d'officiers de 4 semaines à l'ecole navale - lanvéoc (29).
+
+rémunération :",paris 1er - 75,https://www.hellowork.com/fr-fr/emplois/52440867.html
+b1d7363a8b5bac6f61112bfaacf57e1c,hellowork,bnp paribas,2024-06-24,stage - data analyst h/f,stage,télétravail partiel,,"stage - data analyst h/f - 6 mois
+
+missions, équipe et environnement de travail, ça donne quoi ?
+
+le poste est à montreuil, au sein de la maison des flux. le département cash management regroupe plusieurs équipes aux métiers très divers, tous regroupés au sein d'un même bâtiment.
+
+ces équipes (commerciales, produits, marketing, communication, techniques, support, moa, advisory, implémentation...) collaborent quotidiennement pour améliorer les méthodes de gestion de trésorerie des entreprises clientes.  
+ 
+vous serez installé avec l'équipe pmd (proposal management desk), équipe internationale composée de 10 collaborateurs qui répond aux appels d'offre cash management, ce qui vous permettra d'évoluer dans un environnement tourné clients et multiculturel, mais aussi convivial et bienveillant.
+
+vous aurez l'occasion de collaborer régulièrement avec les diverses équipes du département cash management.
+
+dans le cadre de votre fonction, vous serez amené à mettre en place un nouvel outil de workflow pour les demandes rfp (request for proposal) en provenance des commerciaux. cet outil sera basé sur la suite de microsoft (teams, forms, power bi, power automate) déployé au sein de bnp paribas et permet aux commerciaux d'effectuer des demandes aux équipes proposal faisant suite à la réception de rfp des clients du cash management.  
+ 
+en parallèle de cela, vous participerez à la mise en place de l'intelligence artificielle générative au sein de l'équipe proposal management. 
+ 
+en étroite collaboration avec l'équipe de data scientists spécialisés en cash management, vous aiderez à intégrer l'ia générative au sein de l'équipe, afin de renforcer l'efficacité des réponses aux demandes de propositions commerciales (rfp).
+
+cette mission consistera notamment à examiner si les solutions d'ia génératives propriétaires, comme copilot (microsoft), ou celles développées au sein du groupe bnp (llm as a service, rag as a service), correspondent bien aux besoins des opérationnels métier.
+
+vous serez également chargé d'analyser et de reporter les répercussions et impacts de ces technologies sur les opérations courantes. 
+ 
+si la partie commerciale vous intéresse aussi, vous pourrez aussi participer à la mise à jour de la base de données produits de l'équipe.
+
+nos tuteurs et tutrices se forment en continu pour mieux vous accompagner dans toutes les composantes de votre alternance, toujours avec bienveillance.  
+une partie de leur temps de travail est d'ailleurs dédiée à votre encadrement : conseils de méthodes de travail, aide à la maîtrise du temps, développement d'une posture professionnelle... de quoi vous sentir bien dès votre arrivée !
+
+trois temps forts d'évaluation de votre alternance sont prévus, à l'issue de votre période d'essai, à mi-parcours et en n de contrat.
+
+ce stage, basé à montreuil sous bois, est à pourvoir pour une durée de 6 mois.
+
+vos perspectives d'évolution ?
+
+ce stage vous permettra d'acquérir une vision transverse du cash management, d'avoir une première expérience de la gestion de projet, du développement et de la mise en place de l'intelligence artificielle avec un cas d'utilisation concrète dans le monde bancaire. 
+ 
+vous serez à la tête d'une compétence globale et transversale, tant technique que métier. vous serez également en mesure d'apprécier les besoins et contraintes tant coté client que coté bancaire et devenir un interlocuteur incontournable du cash management. 
+ 
+vous serez très autonome.
+
+d'autres opportunités pourront s'offrir à vous, favorisant votre insertion professionnelle : 
+           -   le graduate programme vous permet de booster votre avenir, de développer vos compétences et votre leadership grâce à des missions à responsabilité ; 
+           -   le volontariat international en entreprise vous donne l'opportunité d'enrichir votre parcours avec une expérience internationale unique de 12 à 24 mois.
+
+travailler au sein de bnp paribas, c'est :
+
+un package et des avantages :  
+          -   une gratification mensuelle brute attractive, supérieure au minimum prévu par la loi  
+          -   un accès au restaurant d'entreprise ou à des tickets restaurant 
+          -   des activités sociales et culturelles via le comité d'entreprise 
+          -   en fonction de l'environnement, le télétravail peut être possible et est à organiser avec le tuteur selon les règles de l'entreprise  
+          -   cinq jours de révisions pour vos examens si vous êtes en contrat d'apprentissage 
+ 
+nos alternants et alternantes nous recommandent depuis une dizaine d'années avec le label happy trainees ! 
+ 
+rejoignez un groupe engagé et prenez part à notre grand projet de transformation vers la construction d'un monde plus durable.  découvrez nos engagements pour notre clientèle et la société.  
+ 
+engagez-vous à nos côtés sur votre temps professionnel, à travers notre programme onemillionhourstohelp.
+
+etes-vous notre prochain stagiaire data analyst h/f ?
+
+vous préparez un diplôme master ou équivalent (>4 ans) reconnu rncp en école de commerce / école d'ingénieur ou équivalent universitaire avec une spécialisation en data analyse/data scientist, intelligence artificielle et/ou en master management des systèmes d'information
+
+votre niveau en anglais est courant.
+
+vous avez des connaissances en connaissances en matière de data, analyse de données, conception et présentation des produits et services, modèles prédictifs, data processing, développement informatique.
+
+et vous maitrisez les outils ihm javascript, data viz blending analytics power bi, gestion des bases de donnees standard sql, pack ms office microsoft excel, pack ms office microsoft word, pack ms office microsoft powerpoint, pack ms office microsoft onenote, langage it python
+
+votre adaptabilité et votre capacité à collaborer vous permettent de créer des liens de confiance et satisfaire vos clients.  ajoutez à cela un bon sens de l'organisation et une bonne capacité d'analyse pour finir de nous convaincre !
+
+processus de recrutement
+
+si votre cv est retenu par notre équipe de recrutement, vous passerez des tests en ligne, puis un à deux entretiens au maximum avec des managers opérationnels.  
+ 
+n'oubliez pas d'indiquer sur votre cv : 
+-  la formation que vous préparez dans le cadre de votre stage / alternance 
+-  la durée et vos disponibilités 
+-  votre mobilité géographique 
+ 
+besoin de conseils pour préparer votre candidature ? cliquez ici !  
+ 
+si vous êtes en situation d'handicap, vous pouvez envoyer votre cv et lettre de motivation à ****@****.**.
+
+dans un monde qui change, la diversité, l'équité et l'inclusion sont des valeurs clés pour le bien-être et la performance des équipes. chez bnp paribas, nous souhaitons accueillir et retenir tous les talents sans distinction : c'est ainsi que nous construirons, ensemble, la finance de demain, innovante, responsable et durable.
+
+enfin, nous attachons une importance particulière à ce que nos futurs collaborateurs agissent au quotidien avec responsabilité éthique et professionnelle.",paris - 75,https://www.hellowork.com/fr-fr/emplois/52422323.html
+4dc8724ad101b00be2159f45203c0ed0,hellowork,leasecom,2024-06-24,data analyst alternance h/f,alternance,,"titulaire d'un bac +3 et en préparation d'un bac +5, vous disposez d'une maîtrise de sql, vous avez un esprit de synthèse et d'analyse, vous avez une grande capacité d'adaptation et une véritable curiosité technologique.
+outils : talend (etl) / qlik sense (reporting)
+connaissances sql
+conditions :
+-   type de contrat : contrat d'apprentissage
+-   tickets restaurants, mutuelle famille, rtt
+-   remboursement titre de transport à 50%
+-   localisation : carquefou - véhiculé pour se rendre dans nos locaux
+
+vous hésitez encore ?
+leasecom c'est aussi :
+* un collectif rse et une labellisation « positive company »
+* une démarche de labellisation classements happyindex®atworkchoosemycompany
+* un cadre de travail agréable et des activités riches et stimulantes
+* un parcours d'intégration ou nous serons aux petits soins pour vous
+* des parcours de formation pour que vous soyez toujours opérationnels
+* des perspectives d'évolution
+* de supers événements toute l'année
+* une ouverture de tous nos postes aux salariés reconnus travailleurs handicapés
+
+et enfin un process de recrutement ultra rapide !","rattaché(e) au pôle data, nous vous proposons de rejoindre notre équipe si où vous aurez pour principales missions le traitement d'analyse de base de données de nature commerciale, de données financières et du back office prévisionnel.
+vous serez accompagné(e) par votre tuteur tout au long de votre alternance pour apprendre le métier de data analyst.
+a ce titre vous participerez pleinement à la vie de l'équipe et vous prendrez part à diverses missions : 
+* développement, évolution et maintenance des flux de synchronisation etl entre les différents outils.
+* mise en place de reporting et à l'analyse des données issues du datamart.
+* à travailler sur les différents projets de développement de l'entreprise (études des nouvelles innovations bi dans le domaine du cloud, big data).",carquefou - 44,https://www.hellowork.com/fr-fr/emplois/52453519.html
+b5c07d07e30acf87ce25c2ce61203f64,hellowork,leasecom,2024-06-24,data analyst en alternance h/f,alternance,,"profil :
+* vous êtes étudiant (e) de bac +4/5 en école d'ingénieurs (type ensai, ensae, centrale...) avec une spécialisation en data analytics, data science ou mathématiques.
+* vous maîtrisez des outils bureautiques tels que word, excel, et powerpoint.
+* vous avez des qualités de rédaction et d'expression orale.
+* vous êtes reconnu pour votre rigueur, votre autonomie, votre aisance relationnelle votre capacité à travailler en équipe, ainsi que pour vos qualités d'analyse et de synthèse.
+
+conditions :
+·       type de contrat : contrat d'apprentissage de 12 à 24 mois
+·       tickets restaurants, 37h hebdo, 10 à 12j de rtt / an, remboursement à 50% du titre de transport.
+·       localisation : paris 15eme
+
+vous hésitez encore ?
+leasecom c'est aussi :
+* un collectif rse et une labellisation « positive company »
+* une démarche de labellisation classements happyindex®atworkchoosemycompany
+* un cadre de travail agréable et des activités riches et stimulantes
+* un parcours d'intégration ou nous serons aux petits soins pour vous
+* des parcours de formation pour que vous soyez toujours opérationnels
+* des perspectives d'évolution
+* de supers événements toute l'année
+* une ouverture de tous nos postes aux salariés reconnus travailleurs handicapés
+
+et enfin, un process de recrutement ultra rapide !","la direction des opérations envisage de créer une équipe analytics qui jouera un rôle central dans la qualité de la donnée, sa cohérence et son homogénéité, dans l'accompagnement au développement commercial, dans l'automatisation de process au travers d'un pilotage rigoureux de la donnée, et enfin dans la gestion des risques (opérationnels et financiers) de l'entreprise. 
+l'équipe analytics aura notamment pour mission de :
+* centraliser et répondre aux besoins en données de l'entreprise à des fins de reporting, pilotage des activités (business intelligence / customer intelligence), 
+* innover en utilisant les données de leasecom de manière statistique afin d'automatiser et d'optimiser les process,
+* reprendre la gestion du paramétrage de nos grilles de score et travailler à l'évolution de la vision du risque au sein de la société,
+* garantir la qualité, fiabilité des données émanant du data mart créé par l'équipe. l'ensemble des données de ce data mart sont reprises dans le data catalogue créé et maintenu par cette équipe,
+* garantir la gouvernance de la donnée dans l'entreprise.
+
+la raison d'être de cette équipe est de garantir la qualité des données et la pertinence des modèles de score utilisés dans l'entreprise, et d'innover en intégrant des nouvelles techniques de modélisations
+l'objectif à terme est de piloter par la data l'ensemble de l'entreprise.
+au sein de cette équipe l'alternant data analyst aura comme missions principales :
+* analytics :
+  - concevoir, développer et maintenir des modèles de scoring afin optimiser la performance des process et l'automatisation, notamment reprise du score d'octroi et amélioration du gini et création d'un score pour les partenaires en définissant des partenaires type.
+ 
+* qualité de données
+  - participer à la définition et la mise en oeuvre des méthodes et outils standards d'évaluation de la qualité et de mise en qualité des données.
+  - collaborer à la mise en place d'une gouvernance autour de la data
+  - participer à la conception, développement et maintien des dispositifs de qualités de données permettant de favoriser les contrôles de qualités en amont
+ 
+* business intelligence
+  - collaborer avec les parties prenantes pour identifier et comprendre les besoins de l'entreprise et les traduire en besoins analytics.
+  - concevoir, développer et maintenir des modèles de données, des tableaux de bord et des rapports afin de fournir des informations exploitables et personnalisées aux métiers afin d'être dans l'anticipation
+
+alors, prêt à relever le défi ?",paris 15e - 75,https://www.hellowork.com/fr-fr/emplois/52453487.html
+dbccd42274ba855558c445541416e5ed,hellowork,enedis,2024-06-24,data analyst en ressources humaines h/f,alternance,télétravail occasionnel,"étudiant(e) en statistiques, informatique, sciences des données ou domaine connexe.
+connaissance et utilisation de power bi (l'expérience préalable est un plus notamment en dataviz et data analyse).
+compétences en analyse de données et en gestion de bases de données.
+capacité à travailler de manière autonome et en équipe.
+capacité à résoudre des problèmes et à s'adapter rapidement.
+
+ce que vous allez apprendre :
+expérience pratique en analyse de données rh et en résolution de problèmes.
+collaboration au sein d'une équipe professionnelle et dynamique.
+possibilité de contribuer de manière significative à l'amélioration des processus de recrutement.
+
+postulez en joignant votre cv, votre lettre de motivation personnalisée & vos derniers bulletins de note.
+enedis ouvre ses postes à toutes les compétences, toutes les énergies et toutes les personnalités sans exclusion.
+conformément aux engagements pris par enedis en faveur de l'accueil et de l'intégration des personnes en situation de handicap, cet emploi est ouvert à toutes et à tous sous réserve de l'aptitude médicale délivrée par la médecine du travail.","au sein de l'équipe recrutement enedis, nous accueillons pour notre site de douai :1 stagiaire en tant que data analyst. vous travaillerez en étroite collaboration avec notre équipe pour développer un tableau de bord de recrutement innovant à l'aide de power bi. cette opportunité de stage offre un environnement d'apprentissage dynamique, une expérience pratique en analyse de données et en ressources humaines et la possibilité de contribuer à l'optimisation de nos processus de recrutement.
+vos missions & responsabilités :
+collaborer avec l'équipe d'encadrants pour comprendre les besoins en matière de suivi du recrutement et de pilotage d'activité.
+contribuer à l'élaboration d'un cahier des charges détaillé pour exploiter les données issues du si officiel.
+créer des recettes pour le tableau de bord, en veillant à la qualité et à la sécurité des données.
+concevoir, développer et mettre en oeuvre un tableau de bord interactif en utilisant power bi.
+collecter, nettoyer, organiser et calculer automatiquement les données sur power bi.
+analyser les données et fournir des indicateurs visant à améliorer les processus de recrutement.
+collaborer avec l'équipe pour assurer une adoption efficace du tableau de bord et proposer des évolutions complémentaires pertinentes.",douai - 59,https://www.hellowork.com/fr-fr/emplois/52443654.html
+b06bdf4fba30370ea1602d4924974445,hellowork,matmut,2024-06-24,alternance - data analyst h/f,alternance,,"et si c'était toi ?
+
+tu es étudiant(e) et tu souhaites intégrer un master dont la spécialité est l'étude et l'analyse des données data/sas.
+
+tu es en mesure d'analyser des sources d'informations (data/sas) liées à un domaine d'activité en particulier et d'utiliser les outils de recherche, de veille et de collecte d'informations.
+
+tu es une personne rigoureuse et capable de faire preuve de discrétion.
+
+tu disposes de capacités d'analyse, de synthèse, d'adaptation et d'organisation.
+
+tu as envie d'un employeur mutualiste, engagé, proche de ses sociétaires et de ses collaborateurs ?
+
+à la matmut, nous croyons que sens et ambition sont indissociables. notre mutualisme, ancré dans la réalité, agit et met en mouvement chacune et chacun d'entre nous. pour répondre aux besoins de nos 4, 5 millions de clients sociétaires et 6 500 collaborateurs, nous nous adaptons chaque jour aux évolutions de la société.
+groupe complet d'assurance, les valeurs mutualistes sont à la base de notre fonctionnement. notre modèle, sans actionnaires, fait partie de notre adn depuis plus de 60 ans. chacun d'entre nous met ainsi son énergie et son expertise au profit du bien commun.
+
+concrètement, nous travaillons au service et avec nos clients sociétaires, qui contribuent à la prise de décision et à notre stratégie de développement. chacun d'entre nous s'implique à leurs côtés. chacun d'entre nous reste proche d'eux, notamment avec nos 480 agences partout en france. ensemble, nous agissons pour que la société soit plus solidaire, plus inclusive, et plus active face aux changements climatiques.
+
+toi aussi, tu partages ce sens de l'engagement ?
+
+alors échangeons !
+
+a compétences égales, ce poste est ouvert aux travailleurs en situation de handicap ou assimilés au sens de l'article l. 5212-13 du code du travail. l'ues matmut s'engage en faveur de la diversité, l'égalité professionnelle, l'emploi des travailleurs handicapés.","en recherche d'une alternance pour 2024 ?
+
+rattaché(e) à la direction anti-fraude, tu occuperas le poste de data analyst en alternance.
+
+ton quotidien ?
+
+dans le cadre de la réalisation d'études, tu auras à recueillir, centraliser et analyser :
+
+-  des données quantitatives et qualitatives
+-  et/ou des informations utiles pour l'appréciation d'une situation
+
+-  exploiter des données chiffrées afin de faire émerger des informations lisibles et pertinentes permettant ladite appréciation d'une situation
+-  vérifier la fiabilité des informations collectées et la pertinence des résultats
+-  recueillir et centraliser les besoins en termes de données
+-  rédiger et mettre en forme des rapports d'études
+-  effectuer un reporting de son activité à la hiérarchie.",rouen - 76,https://www.hellowork.com/fr-fr/emplois/52438645.html
+6270f97e4265f8225691fa2ee49081fd,hellowork,carrefour,2024-06-24,data analyst - en alternance h/f,alternance,télétravail partiel,,"vous cherchez à travailler dans une entreprise dynamique où votre travail rime avec impact social et environnemental ? bienvenue chez nous !
+
+carrefour recherche un(e) :
+
+data analyst - en alternance (f/h)
+vos missions- vous participerez au déploiement des nouvelles technologies et des nouveaux processus autour d'une approche data centric.
+-  recueil et extraction des sources de données pertinentes et de qualité pour traduction ensuite en données statistiques
+-  traitement, exploitation et intégration des données dans un data warehouse (entrepôt de données)
+-  création de dashboards, mise en place de kpis et reporting des performances pour donner une vision cohérente des résultats aux différentes équipes métiers
+-  mise en place de process/requêtes et automatisation
+-  production d'analyses métiers et de recommandations
+-  vous devrez avoir un sens critique pour remettre en cause l'existant et proposer de nouvelles approches.
+-  vous serez amené à appréhender des technologies liées à l'analyse de données autour d'un contexte avec une forte volumétrie.
+votre profil
+-  de formation bac +3 minimum en filière mathématiques, statistiques ou informatique.
+-  vous souhaitez préparer un diplôme de niveau bac +4 - bac +5 en alternance.
+-  vous êtes curieux, rigoureux, autonome et savez être force de proposition avec une appétence pour l'analyse de données, la bi, le changement et l'innovation.
+-  vous êtes à l'aise avec les outils sql, python, javascript. la connaissance de l'environnement gcp est un plus.
+-  vous aimez travailler en mode projet sur des sujets nombreux et variés.
+-  votre intégration dans les équipes nécessite des qualités de communication, une écoute active et un bon relationnel ainsi que des capacités d'analyse, de précision et de synthèse.
+
+informations complémentaires :
+-  lieu : massy, gare rer b et rer c
+-  date de début : 02/09/2024
+-  durée : 1 ou 2 ans
+-  remboursement des frais de transport à hauteur de 50%
+-  un accès à un large choix de restauration au sein du campus
+
+chez carrefour, nous avons à coeur de ne passer à côté d'aucun talent et sommes fiers de compter des équipes représentatives de la société dans son ensemble. nous encourageons ainsi tous types de profils à postuler à cette offre et garantissons un processus de recrutement dénué de toutes formes de discriminations.",massy - 91,https://www.hellowork.com/fr-fr/emplois/50842153.html
+f29082f2063c17516caa0854666c3afd,hellowork,filhet allard,2024-06-24,data analyst sap bi h/f,cdi,télétravail partiel,"vous avez une formation en statistique/informatique et bénéficiez d'une  expérience d'au moins 2  ans sur l'outil sap bi.
+vous maîtrisez sap business object  (plateforme sap businessobjects bi 4.3) : bi (webi/console d'administration cmc) + universe design tool,
+la connaissance de sas est un plus.
+
+avantages
+ce que nous offrons :
+-  des locaux modernes comprenant : restaurant d'entreprise, salle de sport équipée avec des cours collectifs (yoga, cardio boxe...), parking gratuit et mise à disposition d'une application de covoiturage (karos) ;
+-  possibilité de télétravail jusqu'à 2 jours par semaine ;
+-  package : 12 jours de rtt, prime de participation (jusqu'à 1, 5 mois de salaire ces deux dernières années), prise en charge de la mutuelle à 66%, prévoyance avec des garanties confortables et retraite supplémentaire ;
+-  flexibilité des horaires ;
+-  comité d'entreprise offrant de nombreux avantages : chèques vacances/cadeaux et réductions pour les activités sportives et culturelles (cinéma, concerts, matchs...) ;
+-  réductions sur les produits d'assurance amv.
+le groupe filhet-allard s'engage en matière de diversité et d'égalité professionnelle, tous ses postes sont ouverts aux personnes en situation de handicap.","l'équipe statistique, composée de 4 personnes, a pour mission de répondre aux demandes de statistiques et d'études formulées par les différents entités du groupe.
+en contact avec les responsables de service, elle met à leur disposition des reportings ou études spécifiques sur des sujets variés (étude de sinistralité, création de listing...).
+pour compléter cette équipe, nous créons un poste de data analyst sap bi.
+en tant qu'expert sap bi, vous aurez pour missions :
+la mise en place du nouveau portail groupe (sap bi)  : création et modifications des univers, mise en place de la sécurité...
+la mise en place de reporting et l'optimisation des requêtes existantes : définition en amont des besoins avec les métiers
+le maintient et l'évolution des développements réalisés par le prestataire sur fa iard
+la participation aux études du service, notamment avec les métiers amv dans le cadre de la refonte de leurs suivis
+l'accompagnement de l'équipe dans leur montée en compétence sur l'outil",mérignac - 33,https://www.hellowork.com/fr-fr/emplois/49433567.html
+550eabd03dae1f10fba935022df46710,hellowork,engie,2024-06-24,alt- appui data analyst h/f,cdi,,,"au sein de la direction des clients professionnel, nous recrutons notre data analyst en alternance pour faire partie du data office et travailler autour de sujets à fort enjeux pour la data gouvernance :
+
+alternance - data analyst en alternance (h/f) - (tour t1 paris la défense)
+
+tes missions :
+
+-             créer / mettre à jour des indicateurs de qualité via sql
+
+-             créer / mettre à jour de rapports de suivi d'indicateurs de qualité sous power bi
+
+-             analyser en base de données des problèmes de qualité des données ou faire des études d'incohérences
+
+-             participer aux évolutions de la base de données data quality
+
+-             mettre en qualité des données dans les bases de données de référence de la dcp
+
+tes compétences :
+
+de formation ingénieur en data management, tu disposes d'une expérience en management et en analyse de la donnée :
+
+-             tu connais les langages sql et/ou python
+
+-             tu as construit des rapports sous power bi ou autre outil de data visualisation équivalent
+
+naturellement tu disposes de :
+
+-             a un bon relationnel
+
+-             fait preuve d'initiative
+
+-             a l'esprit critique
+
+-             es curieux(se)
+
+pourquoi nous rejoindre ?
+
+notre promesse :
+
+rejoindre la direction clients professionnels (dcp) france retail, c'est participer à la commercialisation de l'électricité et du  gaz ainsi que des services associés auprès de petits professionnels tels que les artisans, les commerçants, les restaurants ou encore les agriculteurs ! c'est intégrer une communauté de collaborateurs dynamiques et engagés dans l'accompagnement vers la transition énergétique des clients professionnels. l'aventure te tente ? rejoins nous !
+
+les atouts d'une alternance chez engie :
+
+-             la confrontation aux enjeux d'une entreprise mondialement connue
+
+-             une mutuelle
+
+-             le remboursement des transports à hauteur de 50%
+
+-             un comité d'entreprise
+
+-             des solutions d'aide au logement
+
+en tant qu'employeur responsable, france retail du groupe engie valorise la diversité des profils de ses collaborateurs et s'engage en faveur de l'égalité des chances",courbevoie - 92,https://www.hellowork.com/fr-fr/emplois/52436849.html
+cc903c1e3765647739350294cf071ff7,hellowork,charli group,2024-06-24,data analyst - capacity management h/f,cdi,télétravail partiel,"compétences techniques :
+
+sql : manipuler et écrire des requêtes sql complexes.
+
+modélisation datamart : proposer et implémenter des modélisations de datamart.
+
+préparation des données : utiliser dataiku pour la préparation des données. data
+
+visualization : maîtrise des outils de dataviz comme tableau pour créer des visualisations claires et efficaces.
+
+anglais : lu, écrit & parlé","nous recherchons un data analyst confirmé pour rejoindre notre équipe à partir de septembre 2024. le candidat retenu sera responsable des analyses liés au capacity management, de la compréhension des données de facturation, et de la mise en place de modèles pour estimer la consommation future.
+
+missions :
+
+capacity management : gérer et optimiser la capacité des ressources.
+
+analyse des données de facturation : comprendre et analyser les données de facturation pour des insights pertinents.
+
+modélisation : mettre en place des modèles pour estimer la consommation future.
+
+critique et analyse : faire preuve de sens critique pour évaluer et améliorer les processus existants.
+
+anticipation des évolutions : anticiper les évolutions futures et proposer des solutions adaptées.",île-de-france,https://www.hellowork.com/fr-fr/emplois/52442257.html
+82836575547ee8bc3296aed3c3b5e0c8,hellowork,veolia water technologies,2024-06-24,alternant·e data analyst dev informatique h/f,alternance,,"pour rejoindre l'équipe, nous recherchons une personne :
+
+de formation bac +2 (dut, bts), bac +3 à bac +5 dans le domaine de l'informatique.
+
+compétences : rigoureux·se, organisé·e, entreprenant·e, curieux·se, capacité à travailler en équipe.
+
+savoirs (connaissances spécifiques, techniques, informatiques...) : une expertise des outils google est indispensable. 
+ 
+environnement technique : 
+-  sql  
+-  un outil de data viz (power bi, tableau, looker, qlik...) 
+ 
+aptitudes / savoir-être : 
+-  excellent relationnel, travail en équipe 
+-  capacité d'analyse 
+-  curiosité 
+-  pédagogie","au sein de l'équipe des opérations et rattaché.e au directeur des opérations, vous participerez à l'élaboration d'outils digitaux pour consolider le suivi opérationnel des projets sur l'ensemble du territoire.
+
+en tant qu'alternant·e, vous serez amené·e à : 
+-  animer des ateliers d'expression de besoins, 
+-  identifier, intégrer et croiser les sources de données (structurées ou non structurées), 
+-  préparer et analyser des données, création d'un outil de consolidation de datas projets sur google sheet à partir d'un logiciel de gestion crm (lien dynamique entre le crm et la synthèse google sheet), 
+-  créer des dashboards avec des indicateurs de suivi de la performance opérationnelle, 
+-  communiquer et/ou présenter les résultats obtenus, 
+-  développement d'outils de suivi du contract management et de la gestion des contentieux/sinistres.
+
+le détail des projets se fera lors d'un échange avec le manager.
+
+durée du contrat d'alternance : 12 à 24 mois. le·la candidat·e est libre du choix de son école (nom à communiquer lors de l'envoi de la candidature).
+
+rémunération : rémunération de l'apprenti de 50 à 90% du smic ou smc selon l'âge du candidat, le niveau de diplôme et la typologie de contrat (apprentissage ou de professionnalisation).",rennes - 35,https://www.hellowork.com/fr-fr/emplois/50789224.html
+8dd14e7c1fe3fe62b27823d49a7e3fd5,hellowork,carrefour,2024-06-24,data analyst & developpeur bi - alternance h/f,alternance,télétravail partiel,,"vous cherchez à travailler dans une entreprise dynamique où votre travail rime avec impact social et environnemental ?
+
+bienvenue chez nous ! la direction recrute un(e) :
+data analyst & developpeur bi - alternance les missions : interlocuteur(rice) privilégié(e) d'une ou plusieurs directions métier, vous l'aidez à résoudre ses enjeux business grâce à la data.
+
+vos missions consistent notamment à :
+
+[data analyst]
+-  conduire des analyses end-to-end pour accompagner le business dans sa compréhension des ruptures de tendances, en étant efficace dans la collecte, le traitement et la visualisation des données.
+-  concevoir des tableaux de bord pour la prise de décision tout en tenant compte des besoins métiers.
+-  contribuer activement au niveau d'expertise et aux compétences de l'équipe data en se tenant au courant des évolutions du secteur et en partageant les bonnes pratiques.
+[developpeur bi]
+-  concevoir des tableaux de bord end-to-end (qlik sense, looker, e-mail) ou faire évoluer un reporting existant selon les besoins business priorisés
+-  accompagner la conception et la mise en oeuvre d'architectures de données et de pipelines de données, de la collecte au suivi.
+-  - contribuer activement au niveau d'expertise et aux compétences de l'équipe data en se tenant au courant des évolutions du secteur et en partageant les bonnes pratiques.
+profil :- vous préparez un master en école de commerce ou école d'ingénieur, ou une école spécialisée en big data.
+-  maîtrise d'un langage de manipulation de données : sql en priorité (python apprécié)
+-  esprit analytique et structuré
+-  capacité d'apprentissage en autonomie
+-  capacité d'écoute et de recueil du besoin
+-  etat d'esprit positif et engagé
+-  manipulation de données type excel, tableau croisé dynamique : recommandé
+-  connaissance outil de visualisation des données type data studio : recommandé
+-  connaissance google cloud platform (big query, google cloud storage) : recommandé
+
+informations complémentaires :- date de début : 02/09/2024 (possible de démarrer avant)- durée : 2 ans
+-  lieu : massy
+-  50% du titre de transport pris en charge par carrefour
+-  avantages propres au campus / site : parking, restauration, salle de sport, conciergerie
+-  un comité d'entreprise dynamique
+
+envie de rejoindre l'aventure ?
+
+chez carrefour, nous avons à coeur de ne passer à côté d'aucun talent et sommes fiers de compter des équipes représentatives de la société dans son ensemble. nous encourageons ainsi tous types de profils à postuler à cette offre et garantissons un processus de recrutement dénué de toutes formes de discriminations.",massy - 91,https://www.hellowork.com/fr-fr/emplois/50842169.html
+d80d35494403cc1a5143d776ec5eeaeb,hellowork,sup de vinci rennes,2024-06-24,data analyst en alternance - bac+4 - bac+5 - lannilis h/f,alternance,,"issu(e) d'un bac +3 minimum en informatique ?
+
+vos points forts sont :
+-   connaissance des bases de données et du sql
+-   connaissance des différents langages de programmations
+-   vous êtes rigoureux, organisé, avec un bon esprit d'analyse
+
+à noter : sup de vinci présentera à cette entreprise partenaire uniquement des candidats ayant passé les tests d'admission et qui seront admissibles dans son établissement.
+
+pour candidater, merci de nous transmettre votre dossier d'admission via ce lien : https://candidature.supdevinci.fr","vous souhaitez intégrer une école à taille humaine ? vous êtes intéressé.es par le monde des données ? sup de vinci propose une formation complète, en mastère big data & ia. 
+ 
+l'école sup de vinci, rennes, accompagne l'une de ses entreprises partenaires dans son projet de recrutement d'un profil data analyst en alternance pour la rentrée de septembre 2024. 
+ 
+vos principales missions :
+-  collecter les données
+-  analyser les données
+-  réalisation de tableau de bord
+-  gestion des indicateurs de performances",rennes - 35,https://www.hellowork.com/fr-fr/emplois/52438960.html
+7a91b58c15ce29f128be904781e3c879,hellowork,leasecom,2024-06-24,stage data analyste h/f,stage,,"profil :
+* vous êtes étudiant (e) de bac +4/5 en université, école de commerce, école d'ingénieur, avec une spécialisation ou appétence en gestion des risques et/ou contrôle interne.
+* vous maîtrisez des outils bureautiques tels que word, excel, et powerpoint.
+* vous avez des qualités de rédaction et d'expression orale.
+* vous êtes reconnu pour votre rigueur, votre autonomie, votre aisance relationnelle votre capacité à travailler en équipe, ainsi que pour vos qualités d'analyse et de synthèse.
+
+conditions :
+·       stage d'une durée de 6 mois
+·       tickets restaurants
+·       remboursement titre de transport à 50%
+·       localisation : paris 15eme
+
+vous hésitez encore ?
+leasecom c'est aussi :
+* un collectif rse et une labellisation « positive company »
+* une démarche de labellisation classements happyindex®atworkchoosemycompany
+* un cadre de travail agréable et des activités riches et stimulantes
+* un parcours d'intégration ou nous serons aux petits soins pour vous
+* des parcours de formation pour que vous soyez toujours opérationnels
+* des perspectives d'évolution
+* de supers événements toute l'année
+* une ouverture de tous nos postes aux salariés reconnus travailleurs handicapés
+
+et enfin, un process de recrutement ultra rapide !","la direction des opérations envisage de créer une équipe analytics qui jouera un rôle central dans la qualité de la donnée, sa cohérence et son homogénéité, dans l'accompagnement au développement commercial, dans l'automatisation de process au travers d'un pilotage rigoureux de la donnée, et enfin dans la gestion des risques (opérationnels et financiers) de l'entreprise. 
+l'équipe analytics aura notamment pour mission de :
+* centraliser et répondre aux besoins en données de l'entreprise à des fins de reporting, pilotage des activités (business intelligence / customer intelligence), 
+* innover en utilisant les données de leasecom de manière statistique afin d'automatiser et d'optimiser les process,
+* reprendre la gestion du paramétrage de nos grilles de score et travailler à l'évolution de la vision du risque au sein de la société,
+* garantir la qualité, fiabilité des données émanant du data mart créé par l'équipe. l'ensemble des données de ce data mart sont reprises dans le data catalogue créé et maintenu par cette équipe,
+* garantir la gouvernance de la donnée dans l'entreprise.
+
+la raison d'être de cette équipe est de garantir la qualité des données et la pertinence des modèles de score utilisés dans l'entreprise, et d'innover en intégrant des nouvelles techniques de modélisations
+l'objectif à terme est de piloter par la data l'ensemble de l'entreprise.
+au sein de cette équipe le stagiaire data analyst aura comme missions principales :
+* analytics :
+  - concevoir, développer et maintenir des modèles de scoring afin optimiser la performance des process et l'automatisation, notamment reprise du score d'octroi et amélioration du gini et création d'un score pour les partenaires en définissant des partenaires type.
+ 
+* qualité de données
+  - participer à la définition et la mise en oeuvre des méthodes et outils standards d'évaluation de la qualité et de mise en qualité des données.
+  - collaborer à la mise en place d'une gouvernance autour de la data
+  - participer à la conception, développement et maintien des dispositifs de qualités de données permettant de favoriser les contrôles de qualités en amont
+ 
+* business intelligence
+  - collaborer avec les parties prenantes pour identifier et comprendre les besoins de l'entreprise et les traduire en besoins analytics.
+  - concevoir, développer et maintenir des modèles de données, des tableaux de bord et des rapports afin de fournir des informations exploitables et personnalisées aux métiers afin d'être dans l'anticipation
+
+alors, prêt à relever le défi ?",paris 15e - 75,https://www.hellowork.com/fr-fr/emplois/52453531.html
+73f5f5c90068664de0ed9afb85949653,hellowork,crit,2024-06-24,#50291 - analyste de données anglais courant h/f,intérim,,"reprenons notre check-list pour en savoir plus sur ce poste et faisons une escale sur vos compétences de base nécessaires à votre réussite sur le poste
+avant l'embarquement, vérifions que nous n'avons rien oublié, dans vos bagages : de l'envie, motivation, rigueur et de l'assiduité !
+
+info équipe : hybride à une partie les acheteurs + une partie sur le projet en support de stratégie, multiculturelle, dynamique
+formation souhaitée mais non obligatoire : bac +5
+expérience minimum souhaitée : 2-3 ans
+expérience airbus : oui en idéal
+bonne maîtrise excel et analyser des données, click sens ou power bi ou tableau / anglais / courant
+
+qualités (qualités) :
+motivation
+autonomie
+proactivité
+
+dans l'aéronautique, on lit le plan de vol jusqu'au bout pour assurer la qualité du voyage de l'avion... alors si vous avez bien tout lu, n'oubliez pas le nom de code : ""embarquement immédiat pour airbus""
+tous nos postes sont ouverts aux candidats en situation de handicap.","crit aéro, partenaire des recrutements pour airbus, pionnier de l'aérospatiale durable pour un monde sûr et solidaire, vous propose un poste d'analyste de données.
+valérie, notre commandante de bord pour ce recrutement vous explique pourquoi rejoindre airbus : ""tout simplement, venez partager votre mindset & vos compétences en travaillant avec des équipes multiculturelles pour contribuer à un avenir plus sûr & plus sain dans les airs » 
+nous nous engageons pour un long voyage, crit tertiaire recrute en mission de travail temporaire, pour ce poste le salaire dépendra de votre profil en adéquation avec la grille de la convention de la métallurgie
+pour préparer ce voyage, après la réalisation d'une pré qualification téléphonique, vous serez convié(e) à un entretien avec notre équipe dans le but d'étudier votre parcours, échanger sur vos attentes...
+on vous dit tout !! faisons escale sur votre plan de vol et les attentes du poste 
+nous recherchons un support de projet d'approvisionnement pour rejoindre notre équipe de pièces détachées airbus. le candidat sélectionné travaillera avec des chefs de projet pour soutenir la gestion de projets spéciaux en fournissant des informations basées sur les données pour la prise de décision. 
+- gestion de base de données : gérer la mise à jour des données commerciales
+- soutenir le développement de la stratégie des pièces détaillées
+- analyser et comprendre la conformité des processus à l'aide de données internes
+- gérer et reporting la gouvernance et les kpi du département
+- soutenir l'activité quotidienne de l'équipe projet transversale
+- fournir une mise à jour continue sur les progrès clés du projet
+- suivi des actions clés et des risques du projet
+vous avez une première expérience sur le secteur aéronautique ou de l'industrie ? l'embarquement approche
+le saviez-vous : en 10 ans, le pourcentage de femmes occupant un poste dans l'aéronautique est passé de 18% à 23% selon le gifas...",blagnac - 31,https://www.hellowork.com/fr-fr/emplois/52448853.html
+77e610a4f5526c5956b09617ab4dab9c,hellowork,ey,2024-06-24,data strategist expérimenté h/f,cdi,télétravail partiel,,"au sein d'ey consulting, ey data & analytics est en charge d'accompagner nos clients sur les problématiques autour de la data : de la stratégie, à la mise en oeuvre opérationnelle de projets data (analytics, intelligence artificielle, business intelligence...).
+
+ey data & analytics en france c'est :
+-  une équipe de plus de 100 consultants data, aux profils très divers, permettant de couvrir l'ensemble des problématiques et de s'enrichir mutuellement
+-  un lab d'une surface de 600m² dédiée à l'innovation autour de la data
+-  le leader mondial du conseil en innovation (rapport forrester)
+-  une équipe expérimentée, gage d'excellence pour encadrer les projets et vous faire grandir
+-  des projets d'une grande diversité, auprès des plus grands clients nationaux et internationaux
+
+pour renforcer nos équipes, ey data & analytics recrute un data strategist (h/f).
+
+vous rejoindrez la communauté data strategy européenne forte d'une vingtaine de collaborateurs à paris. une équipe expérimentée, dynamique, enthousiaste et multiculturelle et vous aurez l'occasion d'intervenir sur des projets transformatifs et innovants, en france ou à l'étranger.
+
+vos missions
+
+vous accompagnerez nos clients dans la définition et la mise en oeuvre de trajectoire data alignée avec leurs objectifs stratégiques. vous contribuerez à des projets au croisement des stratégies métiers et des nouvelles technologies, notamment dans les initiatives de transformation liée à la donnée.
+
+a ce poste, vous êtes amené(e) à intervenir auprès de directeurs généraux, des directions opérationnelles métier, des chief data officer (cdo), des directeurs des systèmes d'information et des directeurs du digital ou de la transformation pour réaliser des missions à forte valeur ajoutée.
+
+vos principales missions seront :
+-  accompagnement de chief data officer dans la structuration du data office, l'animation et l'évangélisation, la définition de trajectoire, l'identification de cas d'usage, le pilotage de poc
+-  analyse de maturité data, audit de l'existant
+-  elaboration de trajectoire et schéma directeur data pour aligner les initiatives et projets data avec la stratégie business
+-  animation d'atelier, idéation, définition et valorisation de nouveaux cas d'usages data
+-  structuration et pilotage de programme de transformation / d'innovation data
+-  définition et mise en oeuvre d'organisation data et de la gouvernance nécessaire
+-  mise en oeuvre de démarche d'amélioration de la qualité de donnée, pilotage du cycle de vie
+-  aide aux choix d'outils (bi, mdm, analytics...) et benchmarks de solutions
+-  conduite du changement et accompagnement des organisations vers une culture data et la professionnalisation de la gestion et de la valorisation des données
+
+votre profil
+-  de formation supérieure (école de commerce ou d'ingénieur), vous possédez une expérience de 2 ans minimum en cabinet de conseil, de stratégie ou d'organisation.
+-  les missions auxquelles vous avez participé vous ont permis d'acquérir et de cultiver une réelle connaissance sectorielle sur un ou deux secteurs (industrie, grande distribution, énergie, santé...).
+-  vous disposez d'expériences significatives en data strategy, data gouvernance, data management et/ou dans la mise en oeuvre et le pilotage de programme de transformation et d'innovation data.
+-  vous maîtrisez les technologies gouvernance, mdm, dqm, analytics, ia, bi et les outils de collecte, stockage et valorisation des données ainsi que les nombreux cas d'usage de la donnée dans différents secteurs d'activité pour permettre au client d'identifier les solutions appropriées.
+-  vous avez la capacité à comprendre des enjeux et problématiques business et à en déduire des axes d'optimisation grâce à la data.
+-  reconnu(e) pour vos capacités d'écoute et de communication ainsi que pour votre sens du service, vous êtes à l'aise pour échanger en anglais dans un environnement professionnel.
+
+vivez l'expérience ey, rejoignez-nous !
+
+dans le cadre de sa politique diversité, ey étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap.",la défense - 92,https://www.hellowork.com/fr-fr/emplois/41667448.html
+193c4a38c97fb05c81b26826c7ad8844,hellowork,davricourt,2024-06-24,senior techlead data h/f,cdi,télétravail partiel,"compétences techniques :  - minimum 8 ans d'expérience dans le domaine de la data.
+-  expertise avancée en teradata, datawarehouse, bi, sql, talend, et data.
+-  teradata : avancé - datawarehouse : avancé - bi : avancé - sql : confirmé - talend : avancé - data : confirmé - soft skills attendues :  compétences non-techniques :   - problem solving + - rigueur - qualité des développements - prise de recul - a l'aise en réunion technique ou en présence du métier - capacité de synthèse vous êtes reconnu(e) pour votre esprit d'analyse et vos capacités de synthèse et d'adaptation.  ce que nous cherchons avant tout, ce sont des personnalités qui participent au développement de davricourt et forment un réseau de talents interconnectés qui ne craint pas d'affirmer sa différence. vous êtes unique, nous sommes différents, rencontrons-nous ! 
+le davripackage
+-   salaire compétitif - primes de participation et d'intéressement - épargne salariale - mutuelle et prévoyance - plateforme ce - actions de formation
+intéressé(e) ?
+si vous êtes arrivé(e) à la fin de cette offre, c'est qu'elle vous a forcément attirée, alors surtout n'hésitez pas à postuler ! en cas de doute, notre équipe recrutement saura répondre à vos questions.  l'offre d'emploi ne correspond pas tout à fait à vos compétences mais nos valeurs vous ressemblent et notre ambition vous motive ? alors vous pouvez consulter l'ensemble de nos offres sur davricourt.com  et après ?  notre processus de recrutement est simplifié : un seul entretien est prévu par nos équipes recrutement et commerciale à la suite duquel nous présentons votre profil au client.  nb : en l'absence de retour de la part de l'équipe recrutement sous 1 semaine, veuillez considérer que votre candidature n'a pas été retenue. merci de votre compréhension.","dans le cadre d'une assistance technique chez l'un de nos clients se trouvant sur lille, nous recherchons :
+un/une techlead data sénior.
+
+vos missions au quotidien :
+
+le candidat idéal devra démontrer une expertise approfondie en sql, une expérience avérée dans la construction de datawarehouses, et une maîtrise des outils tels que talend et teradata. ce rôle implique la révision de codes, l'évaluation de solutions, la rédaction de spécifications techniques et l'animation d'ateliers techniques. de plus, le candidat contribuera à l'optimisation du processus de livraison pour accélérer le time to market.
+
+-  expérience significative dans le domaine de la data.
+-  expertise avancée en sql.
+-  expérience démontrée dans la construction de datawarehouses.
+-  maîtrise des outils talend et teradata.
+-  compétences solides en bi et modélisations etoile/flocon.
+-  expérience dans la revue de codes et l'évaluation de solutions.
+-  capacité à rédiger des spécifications techniques de manière claire et efficace.
+-  animation d'ateliers techniques.
+-  contribution à l'optimisation du processus de livraison pour accélérer le time to market.
+
+et après ?
+en tant que véritable partie prenante de davricourt, vous vous verrez proposer des projets techniques et à forte valeur ajoutée par nos équipes.",lille - 59,https://www.hellowork.com/fr-fr/emplois/52423711.html
+b75a011688b5ec4b7c781f08cdd4bd23,hellowork,europcar france,2024-06-24,senior digital tracking m - f h/f,cdi,,"qualifications
+
+previous experience
+
+at least 3 years of web analytics experience in large size companies with multiple toolsets.
+
+experience regarding digital marketing strategies and customer experience.
+
+education level
+
+bachelor's degree in business administration or related area. masters or graduate degree preferred.
+
+languages
+
+english fluent
+
+computer skills
+
+web analytics tools (google universal analytics, webtrends)
+
+tag management tools (tag commander/gtm)
+
+cookie monitoring (didomi)
+
+pack office / google suite
+
+additional information
+
+all qualified applicants will receive consideration for employment without regard to race, sex, color, religion, national origin or on a basis of disabilityze","main objectives
+
+-  create tagging plans for new features or needs and update existing tagging plans for europcar international digital analytics site & app
+-  implement partners tags in gdpr compliance with tms
+-  support analytics ecommerce & countries teams
+-  ensure quality of data collected by web-analytics tool
+
+-  set up and configure tracking tools (google analytics, google tag manager, adobe analytics, tag commander etc.).
+-  ensure the proper functioning of tags and their deployment across various platforms and company websites and apps ecosystem.
+-  identify opportunities for improvement and make recommendations based on data analysis.
+-  collaborate with marketing and it teams to optimize campaigns and improve roi.
+-  stay informed about the latest trends and innovations in tracking and data analysis.
+-  propose and implement new tracking solutions or tools to enhance the accuracy and quality of collected data.
+-  provide technical support to marketing and development teams to resolve issues related to tracking tools.
+-  ensure data collection practices comply with current regulations (gdpr, ccpa, etc.).
+-  implement measures to ensure the security of collected data and prevent data breaches.
+-  work closely with development, marketing, and product teams to ensure tracking projects align with business objectives.
+-  oversee the development and deployment of tracking projects from start to finish, ensuring timelines and budgets are met.
+
+internal and external relationships
+
+-  internal : online experience, ecommerce, countries teams, it
+-  external : digital agencies (tag commander, converteo, google...)",paris - 75,https://www.hellowork.com/fr-fr/emplois/52444021.html
+193c4a38c97fb05c81b26826c7ad8844,hellowork,davricourt,2024-06-24,senior techlead data h/f,cdi,télétravail partiel,"compétences techniques :  - minimum 8 ans d'expérience dans le domaine de la data.
+-  expertise avancée en teradata, datawarehouse, bi, sql, talend, et data.
+-  teradata : avancé - datawarehouse : avancé - bi : avancé - sql : confirmé - talend : avancé - data : confirmé - soft skills attendues :  compétences non-techniques :   - problem solving + - rigueur - qualité des développements - prise de recul - a l'aise en réunion technique ou en présence du métier - capacité de synthèse vous êtes reconnu(e) pour votre esprit d'analyse et vos capacités de synthèse et d'adaptation.  ce que nous cherchons avant tout, ce sont des personnalités qui participent au développement de davricourt et forment un réseau de talents interconnectés qui ne craint pas d'affirmer sa différence. vous êtes unique, nous sommes différents, rencontrons-nous ! 
+le davripackage
+-   salaire compétitif - primes de participation et d'intéressement - épargne salariale - mutuelle et prévoyance - plateforme ce - actions de formation
+intéressé(e) ?
+si vous êtes arrivé(e) à la fin de cette offre, c'est qu'elle vous a forcément attirée, alors surtout n'hésitez pas à postuler ! en cas de doute, notre équipe recrutement saura répondre à vos questions.  l'offre d'emploi ne correspond pas tout à fait à vos compétences mais nos valeurs vous ressemblent et notre ambition vous motive ? alors vous pouvez consulter l'ensemble de nos offres sur davricourt.com  et après ?  notre processus de recrutement est simplifié : un seul entretien est prévu par nos équipes recrutement et commerciale à la suite duquel nous présentons votre profil au client.  nb : en l'absence de retour de la part de l'équipe recrutement sous 1 semaine, veuillez considérer que votre candidature n'a pas été retenue. merci de votre compréhension.","dans le cadre d'une assistance technique chez l'un de nos clients se trouvant sur lille, nous recherchons :
+un/une techlead data sénior.
+
+vos missions au quotidien :
+
+le candidat idéal devra démontrer une expertise approfondie en sql, une expérience avérée dans la construction de datawarehouses, et une maîtrise des outils tels que talend et teradata. ce rôle implique la révision de codes, l'évaluation de solutions, la rédaction de spécifications techniques et l'animation d'ateliers techniques. de plus, le candidat contribuera à l'optimisation du processus de livraison pour accélérer le time to market.
+
+-  expérience significative dans le domaine de la data.
+-  expertise avancée en sql.
+-  expérience démontrée dans la construction de datawarehouses.
+-  maîtrise des outils talend et teradata.
+-  compétences solides en bi et modélisations etoile/flocon.
+-  expérience dans la revue de codes et l'évaluation de solutions.
+-  capacité à rédiger des spécifications techniques de manière claire et efficace.
+-  animation d'ateliers techniques.
+-  contribution à l'optimisation du processus de livraison pour accélérer le time to market.
+
+et après ?
+en tant que véritable partie prenante de davricourt, vous vous verrez proposer des projets techniques et à forte valeur ajoutée par nos équipes.",lille - 59,https://www.hellowork.com/fr-fr/emplois/52423711.html
+be78cf57ab94588574b08884849d3672,hellowork,servier,2024-06-24,analyste global network en alternance h/f,alternance,télétravail partiel,,"www.servier.com
+
+la supply chain est une entité corporate rattachée en central à la direction industrie qui pilote l'ensemble du réseau logistique qui permet la livraison de produits ou services depuis les sites de production jusqu'aux 66 filiales de distribution du groupe ou autres clients présents dans 150 pays.
+
+mission principale = accompagner les équipes distribution de la supply chain en tant qu'analyste logistique sur l'ensemble des territoires couverts par les laboratoires servier ;
+
+au cours de la mission, l'analyste global network en alternance interviendra sur l'ensemble des opérations distribution avec pour objectifs principaux :
+-  analyse des données opérationnelles relatives à la distribution pour les partenaires actuels (plateforme de distribution régionale, entrepôts locaux, commissionnaire de transports) afin d'identifier les leviers de performance et d'optimisation de nos flux logistiques
+
+synthèse et partage des résultats d'analyse, proposition et suivi du plan d'action d'amélioration de la performance, en collaboration avec les experts métiers
+-  suivi budgétaire des différentes équipes de la distribution : du recueil des données jusqu'à la communication aux managers.
+
+activités dans le périmètre :
+
+performance distribution
+-  mettre à jour les indicateurs kpi's de la distribution, comparer les kpi's des différents partenaires, et réaliser une synthèse mensuelle pour les managers.
+
+cette évaluation de la performance est réalisée grâce au suivi des indicateurs contractuels ainsi qu'aux données disponibles au sein du groupe servier (application power bi ou extraction de nos erp). une bonne collaboration avec les équipes en charge des opérations est attendue afin de faciliter la collection des données et leur analyse (achats, qualité, gestionnaire plateforme, partenaire)
+-  être force de proposition pour améliorer la performance basée sur les kpi's, faire valider les propositions, et piloter les plans d'action transverses inter streams associés
+-  être l'interlocuteur du responsable performance supply chain pour la fourniture des indicateurs
+
+suivi budgétaire
+-  réaliser la consolidation du suivi budgétaire : accompagnement / relance des streams de l'organisation customer care pour avoir les éléments en date et heure ; réaliser une synthèse mensuelle à destination des managers
+-  être force de proposition sur ce processus
+
+vos points forts
+-  très bon sens relationnel, attitude positive au travail,
+-  capacité à analyser des données dans un objectif d'optimisation de supply chain,
+-  niveau très avancé attendu sur excel
+-  capacité à se faire comprendre de façon simple et directe, réactivité, adaptabilité,
+-  bonne rédaction,
+-  travail collaboratif,
+-  anglais (oral et écrit)
+
+profil recherché
+-  alternant niveau master ii
+-  formation universitaire, iut ou commerce international
+
+notre proposition
+-  intégration à une équipe expérimentée et hyper dynamique
+-  durée de l'alternance : 12 mois
+-  période du début de contrat :
+-  type de contrat : apprentissage ou professionnalisation
+-  lieu : suresnes et télétravail
+
+pour vous accompagner dans votre recherche d'alternance, nous vous invitons à découvrir sur www.servier-campus.com le parcours « les clés pour réussir ma carrière ». vous y trouverez des astuces concrètes pour votre cv, votre lettre de motivation, votre projet professionnel et réussir vos entretiens.
+
+en tant qu'employeur responsable, nous encourageons la diversité au sein de nos équipes et sommes engagés en faveur de l'emploi des personnes en situation de handicap.
+
+quel que soit votre domaine d'expertise, votre travail au sein du groupe servier contribue à faire avancer le progrès thérapeutique au bénéfice des patients. vous ferez partie d'équipes reconnues pour leur excellence scientifique et développerez votre plein potentiel dans un environnement professionnel qui vous encourage à vous développer. des parcours d'intégration sur mesure, des opportunités de mobilité, des formations de qualité, un management responsable, un esprit d'équipe... tout cela et plus encore dans un lieu de travail axé sur votre bien-être.
+
+chez servier, nous sommes engagés dans le progrès thérapeutique au service des besoins des patients. nous mettons la diversité de nos collaborateurs comme une source de richesse pour l'accomplissement de cette vocation.",suresnes - 92,https://www.hellowork.com/fr-fr/emplois/48111216.html
+0093d83e8ebbd4943b3de51f9ce195a3,hellowork,axa im,2024-06-24,business data analyst h/f,cdi,télétravail partiel,,"votre rôle de business data analyst sera rattaché au head of axa solution et vous ferez partie du département axa im global coo - investment support.
+
+decouvrez votre opportunité
+
+le business data analyst est le garant de :
+-  la qualité des données administrées pour les clients axa, en maintenant le support opérationnel (axa entités, auditeurs, risk, axa) grâce notamment aux outils innovants.
+-  de la mise en place de solutions de manière transverses (business, fonctionnelle, technique) et cohérentes avec la politique data d'axa im, pour toute évolution liée à la data.
+-  du respect du niveau de service avec le client notamment via à vis du groupe axa
+
+vos rôles et responsabilités :
+
+1- expertises-en data management
+-  développer une connaissance transversale des familles des données (définitions, modélisation des instruments financiers, fournisseurs de données, règles métier etc.)
+-  développer une connaissance approfondie et transversale des modèles de données implémentés chez data management, et des applications (fonctionnalités, contrôles etc.)
+-  développer une connaissance approfondie des flux de données et du cycle de vie de chaque donnée et des types de valorisations des instruments financiers.
+
+2- analyse et contrôle de la qualité
+-   développer des méthodes d'analyse et de remédiations massives de la qualité de la donnée
+-  exploiter les indicateurs de qualité existant, et en créer de nouveaux le cas échéant
+-  opérer les contrôles qualité définis dans la data management control policy et la pricing policy ship.
+-  effectuer un suivi et un contrôle de second niveau des activités de contrôle effectuées par l'équipe data management offshore (axa business services, inde) : création et suivi des kpi, participation aux gouvernances opérationnelles.
+-  suivre les flux providers en collaboration avec les équipes technology, et communiquer sur de potentiels problèmes de qualité, de délais de livraison des données
+-  s'assurer que les données référencées respectent les standards définis dans la politique data (notamment la procédure de modification des données)
+
+3- support aux clients
+-  répondre de façon réactive, efficace et détaillée aux demandes de support des clients (demandes d'information, de vérification, d'extractions etc.)
+-  assurer, en collaboration avec les autres membres de l'équipe, la continuité du service selon les horaires définis par le manager et selon les besoins des clients
+-  assurer la livraison des rapports ad hoc (closing reports, reports règlementaires ; cut-off reports etc.) selon le format convenu et les délais impartis
+-  assurer les formations aux nouveaux collaborateurs d'axa im le cas échéant
+
+4- clients & providers gouvernance
+-  suivi des relations avec les data providers en collaboration avec l'équipe market data (qualité des services, coûts, nouvelles offres disponibles)
+-  suivi et respect des gouvernances opérationnelles avec les clients
+-  assurer une veille sur les changements annoncés/ prévus (fournisseurs de données, équipe de gestion axa im, régulateurs, changements techniques) et impactant l'activité des clients.
+
+5- efficacité opérationnelle
+-  s'assurer d'une bonne compréhension des besoins exprimés par les clients et anticiper les impacts potentiels
+-  développer une hauteur de vue permettant de challenger les processus opérationnels et l'impact business.
+-  simplifier et rationnaliser les contrôles existants et identifier les nouveaux contrôles à mettre en place
+-  définir, proposer et mettre en place de nouveaux contrôles pour équipes onshore (paris) et offshore (inde)
+-  contribuer au suivi des activités offshore dans un but d'amélioration permanent des processus de production
+
+6- documentation
+-  maintenir à jour la documentation opérationnelles (procédures, documentation de processus, service level agreement avec les clients et/ou les fournisseurs de données).
+-  assurer le compte-rendu des gouvernances dédiées (support, projets, clients...)
+
+votre profilpartagez votre expertise unique
+
+nous accueillons différentes combinaisons de compétences et d'expériences.
+
+vos diplômes et expériences :
+-  formation de type bac +5 (université ou école de commerce)
+-  au moins une première expérience dans un établissement financier
+-  gestion de manière industrialisée de données financières, particulièrement celles dédiées à la gestion d'actifs
+
+vos connaissances et compétences :
+-  connaissance des instruments financiers (modélisation, fonctionnement, etc.)
+-  capacité à communiquer activement et de manière appropriée vers les clients et vers les fournisseurs de données
+-  connaissance avancée sur excel, sql, python et outils de meta data management
+-  anglais courant et financier
+-  bonne connaissance du fonctionnement d'un asset manager et/ou compagnie d'assurance
+
+nous aimerions en savoir plus sur vous ! envoyez-nous votre cv.
+
+pourquoi nous rejoindre ?
+
+nous nous engageons à vous offrir un environnement où vous pourrez :
+
+développez votre potentiel : intégrer une entreprise engagée sur le développement de ses collaborateurs via une mobilité interne dynamique et une large offre de parcours de formation personnalisés.
+
+personnalisez votre manière de travailler : travailler pour une entreprise qui s'engage à garantir flexibilité et équilibre à ses employés, en vous offrant une large gamme d'avantages (intéressement, télétravail, avantages sociaux compétitifs, etc.).
+
+epanouissez-vous par la diversité de notre communauté : jouer un rôle au sein d'une entreprise inclusive qui reconnaît et valorise activement les différences individuelles dans un environnement de travail diversifié et inclusif.
+
+faites avancer le monde : rejoindre un employeur responsable qui agit en faveur des causes sociétales et environnementales en tant qu'investisseur, assureur et entreprise, notamment au travers de l'association axa atout coeur. dans le cadre de notre engagement en faveur de la durabilité et de la responsabilité environnemental, nous célèbrerons votre arrivée en plantant un arbre.
+
+votre environnement de travail
+
+le groupe axa est un leader mondial de l'assurance et de la gestion d'actifs, avec 160 000 collaborateurs au service de 105 millions de clients dans 62 pays.
+nous protégeons et conseillons nos clients à chaque étape de leur vie, en proposant des produits et services qui répondent à leurs besoins dans les domaines de l'assurance, de la prévoyance, de l'épargne et de la gestion des actifs.
+
+notre mission : agir pour le progrès humain en protégeant ce qui compte
+
+nos valeurs : customer first, intégrité, courage et one axa
+
+grâce à notre approche de conviction, nous sélectionnons les investissements en actions, obligations, alternatifs et dans les stratégies multi-actifs qui recèlent selon nous des meilleures opportunités à l'échelle internationale. nous gérons à ce jour plus de 887 milliards d'euros d'actifs.
+
+page d'accueil   axa im fr (axa-im.fr)
+
+axa im est un employeur garantissant l'égalité des chances et nous encourageons les candidats présentant un handicap ou toute autre caractéristique protégée à postuler. nous nous engageons à fournir des aménagements raisonnables si nécessaires aux candidats qualifiés et aux employés handicapés pendant le processus de recrutement et dans l'exercice de leurs fonctions professionnelles essentielles.
+
+inclusion and diversity   careers   axa im corporate (axa-im.com)",puteaux - 92,https://www.hellowork.com/fr-fr/emplois/52420566.html
+cab366fe6c6f99d9f3c642cbbb2a9642,hellowork,artefact,2024-06-24,stage data analyst - paris h/f,stage,,,"tu es ?
+-  niveau académique master (bac +4/5) dans un environnement de travail data-driven
+-  tu recherches ton stage de fin d'études
+-  tu as eu une expérience dans un environnement de travail axé sur les données
+-  tu maîtrises l'une de ces technologie de collecte de données (google analytics, adobe analytics, base de données sql, base de données crm, données transactionnelles) ou un outil de visualisation de données (tableau, data studio, qliksense...)
+idéalement, tu as des connaissances ou êtes intéressé par une ou plusieurs des technologies suivantes :- un outil publicitaire, lié au tracking et/ou à l'analytics dans un contexte marketing (google analytics, adobe analytics, dmp, dsp, adservers, dv 360...)
+-  une ressource google cloud platform (big query, google cloud storage) ou son équivalent dans azure ou aws
+en bonus, tu as une connaissance de base en statistiques et une connaissance de base d'un langage de programmation parmi javascript, sql, python et/ou r serait grandement appréciée.
+pourquoi postuler ?
+-  développement professionnel :  cdi à la clé (90% de conversion) ; socle de formation (trainings day mensuel, retex, cafe tech) ; développement des compétences via des outils internes innovants
+-  développement personnel : collaborez avec les experts dans leur domaine, tu apprendras des meilleurs ; feedbacks réguliers via parrain, managers, équipes et rh.
+-  environnement de travail unique : culture start-up (salle de sport privée, afterworks, tutoiement...) ; équipe jeune (moyenne d'âge 26 ans);  flexibilité télétravail, horaires; séminaires d'équipe, entreprise ; localisation idéale dans paris 9ème !
+
+chez artefact, nous recrutons nos collaborateurs uniquement en fonction de nos besoins et des qualités propres de chaque candidat. nous assurons le développement de leurs compétences professionnelles et de leurs responsabilités sans discrimination d'aucune sorte. le groupe s'engage à reconnaître et promouvoir tous les talents, quels que soient leurs croyances, âge, handicap, parentalité, origine ethnique, nationalité, identité de genre, orientation sexuelle, appartenance à une organisation politique, religieuse, syndicale ou à une minorité, ou toute autre caractéristique qui pourrait faire l'objet d'une discrimination.",paris 1er - 75,https://www.hellowork.com/fr-fr/emplois/48129730.html
+930f97cfd00f7aed42a09998d5ab1131,hellowork,centre hospitalier d'angoulême,2024-06-24,analyste des données de l'activité hospitalièrecentre hospitalier d'angoulême angouleme h/f,cdd,,,"établissement qui recrute : centre hospitalier d'angoulême 
+ 
+le centre hospitalier d'angoulême est à la recherche d'un(e) analyste des données de l'activité hospitalière. vous trouverez ci-dessus l'offre et le profil de poste. candidature à adresser à monsieur le directeur des ressources humaines et des relations sociales avec votre cv et lettre de motivation exclusivement par mail à l'adresse : ****@****.**",angoulême - 16,https://www.hellowork.com/fr-fr/emplois/50847762.html
+9fc0dd4e5be445c8e9df7fbcd9a40ea0,hellowork,devoteam,2024-06-24,squad leader advanced analytics - expert powerbi h/f,cdi,,,"devoteam data driven est l'équipe spécialiste de la data du groupe devoteam, leader du conseil en stratégie digitale, plateformes technologiques, data, et cybersécurité. nous sommes présents dans 8 pays et comptons plus de 1000 collaborateurs emea dont 300 en france.
+
+dans un univers en constante évolution, notre ambition est d'accompagner les organisations qui ont décidé de placer les données au coeur de leur stratégie. nous les aidons à transformer la valeur de leurs données en succès durable.
+
+90% des données mondiales ont été générées au cours des deux dernières années... chaque organisation est engagée dans cette opportunité de passer à la vitesse supérieure.
+
+c'est là que nous intervenons. nos partenaires 100% cloud et data (databricks, dataiku, snowflake, powerbi et tableau) et nos 3 domaines d'expertise (data strategy, data foundation et data for business) nous permettent d'aider nos clients dans leur quête d'agilité, de compétitivité et de croissance.
+
+pourquoi nous rejoindre ?
+
+être formé(e) en continu : devoteam data driven a développé un programme solide de formations & certifications (partenariats avec databricks, snowflake, powerbi, tableau, dataiku, etc.) notamment sur les technologies cloud (gcp, aws, azure...)
+
+intervenir sur des sujets variés et pointus : devoteam data driven intervient dans de nombreux secteurs d'activité (retail, luxe, média, télécoms, banque, industrie...) pour des grands comptes internationaux
+
+rejoindre une société spécialisée : devoteam data driven ne fait que de la data  la garantie d'intervenir sur des sujets précis au coeur de votre expertise
+
+intégrer une équipe : devoteam data driven c'est avant tout une équipe à taille humaine bénéficiant de l'écosystème d'un grand groupe
+
+le groupe devoteam oeuvre pour l'égalité des chances, pour la promotion de ses collaboratrices et de ses collaborateurs au mérite et lutte activement contre toute forme de discrimination. nous sommes persuadés que la diversité contribue à la créativité, au dynamisme et à l'excellence de notre organisation. tous nos postes sont ouverts aux personnes en situation de handicap
+
+devoteam data driven cherche à renforcer son expertise et sa communauté power bi au sein de la squad advanced analytics pour intervenir sur les différents projets de nos clients grands comptes.
+
+pour accompagner notre développement, nous recherchons un(e) squad leader et expert(e) power bi de minimum 8 ans d'expérience, qui pilotera la squad advanced analytics et rejoindra notre équipe d'experts.
+
+qui êtes-vous ?
+
+diplômé(e) d'école d'ingénieurs ou d'un master 2 en informatique, vous êtes doté(e) d'un excellent relationnel, d'un sens prononcé du service et de la qualité et une envie d'apprendre.
+
+vous aimez travailler en équipe et votre niveau d'anglais est courant.
+
+vous êtes reconnu(e) pour les compétences suivantes :
+-  maîtrise des concepts de base de l'informatique décisionnelle (modélisation, alimentation, restitution...)
+-  capacité à préparer et mener des ateliers métiers
+-  capacité à appréhender le contexte métier
+-  capacité à encadrer sur power bi des développeurs
+-  capacité à former des utilisateurs et équipes projet
+-  a minima certification microsoft power bi data analyst (pl-300)
+
+au sein de la direction des opérations et rattaché au tribe leader, votre mission sera d'animer, de fédérer et de faire grandir un collectif d'experts en data analytics et d'autre part d'intervenir en missions sur un périmètre en relation avec votre domaine d'expertise.
+
+rôle du squad lead
+
+1/ partie technique :
+-  apporter son expertise dans le cadre de projets et d'avant-ventes complexes
+-  développer et communiquer la vision de l'entreprise dans son domaine d'expertise
+-  benchmark de solutions et conseil auprès de nos clients sur les solutions technologiques à adopter, en lien avec leurs besoins
+-  entretenir la relation avec les partenaires, et en particulier powerbi
+-  participation à des projets internes et partage de connaissances au sein de nos équipes
+-  accompagner et former les équipes internes et externes
+
+2/ partie management :
+-  assurer le suivi des consultants et career manager de la squad (bien-être, épanouissement, développement des compétences)
+-  participer à la croissance de l'équipe (recrutement)
+-  animer la vie d'équipe (cohésion, rituels, identité)
+-  gérer l'occupation des consultants (planning, affectations)
+-  piloter les objectifs de l'équipe (objectifs collectifs et individuels)
+-  accompagner la carrière des consultants (feuilles de route, évaluations, augmentations)
+-  être le point de relais du tribe manager auprès de l'équipe (descente d'information, remontée d'alertes)
+-  s'assurer du bon déroulement des projets et être le point d'escalade en cas de difficultés
+
+rôle d'expert powerbi :
+
+au sein d'équipes projets, vous pourrez être en charge des missions suivantes :
+-  cadrage du besoin, conception et analyse fonctionnelles et techniques
+-  maîtrise de la plateforme complète, installation et dimensionnement
+-  développement et supervision de solutions power bi
+-  définition et application des pratiques de gouvernance et des mesures de sécurité pour les solutions power bi
+-  réalisation de poc (proof of concept)
+-  rédaction de documentation fonctionnelle et/ou technique
+-  formation d'utilisateurs(rices) et équipe projet",levallois-perret - 92,https://www.hellowork.com/fr-fr/emplois/44224590.html
+09bbc95c97fb7844852c825e71c292ee,hellowork,naos,2024-06-24,digital data analytics - web gtm ga server side h/f,cdi,,"vous êtes :
+-  diplômé d'une école d'ingénieur ou de commerce, d'un master en ingénierie informatique ou marketing.
+-   maîtrise de l'anglais professionnel
+-   au moins 5 ans d'expérience sur des sujets de collecte, d'analyse de données et de stratégie data marketing autour, gcp, ga4...
+-   compétences en gestion des données : comprendre les principes de base de la gestion des données, y compris la collecte, le stockage, la normalisation et la gestion de la qualité des données.
+
+-  une bonne connaissance du web en général, et des problématiques de performance business sur le web en particulier
+-  la maîtrise ou connaissance des outils de data management (webanalyse, data viz, tms, cmp, cdp, s2s...)
+
+la maîtrise ou connaissance de solutions d'optimisation de site (a/b testing, personnalisation...)
+
+-   rigoureux, organisé, avec un esprit de synthèse
+-   pragmatique, rationnel et curieux
+-  pro-actif, team player vous aimez travailler sur des projets impliquant de nombreux métiers et expertises
+-   une sensibilité aux sujets de transformation digitale est souhaitée
+
+alors postulez dès maintenant ! rejoignez l'aventure naos !
+
+nos offres d'emploi sont ouvertes aux personnes en situation de handicap.","vous souhaitez participer à un projet d'entreprise ambitieux et challengeant ?
+naos, acteur international majeur du skincare, recherche un(e) un digital data analytics specialist  (gtm, ga, server side) en cdi à partir de juin 2023.
+au sein de l'équipe « consumer digital experience » nous sommes à la recherche d'une personne qui va nous permettre de mettre la performance de nos plateformes web au service d'une meilleure expérience conso, tout en garantissant le respect de l'utilisation des données, la conformité avec les réglementations et l'évolution des plateformes dans leur gestion des cookies, 3rd party data...
+dans ce cadre, vos missions principales seront les suivantes :
+1/ mission de conseil & upskilling
+
+-  conseils et recommandations sur les sujets data actuelles : ga4, rgpd, solutions de tracking exemptées de consentement, server side... : analyse d'impacts et contribution à l'élaboration de nos roadmaps produit
+
+-  accompagnement de nos filiales sur la prise en main des outils type ga4, compréhension du paramétrage du plan de tracking.
+-  veille sur les évolutions des outils analytics, et nouvelles réglementations mise en conformité rgpd, tendances quant aux usages autour des données personnelles, analyse d'impacts et d'opportunités pour naos dans le but de l'intégrer dans nos roadmaps produit
+
+2/ expertise opérationnelle
+-   travaillez avec l'equipe produit pour assurer la mise en place du suivi de la performance de nos sites ecommerce et sites vitrines, sur nos 4 marques et auprès de nos 30 filiales :
+  -audit et optimisation du plan de tracking de nos marques si nécessaire
+ -définition des plans de taggage + paramétrage des dispositifs de suivi de performance pour les nouveaux sites ou services
+- mise en place et suivi du plan de tracking google analytics v4
+- conception et amélioration de tableaux de bord personnalisés google data studio
+
+-   en collaboration avec l'équipe data architecte ainsi que les différents experts métiers (media, d2c, crm...)  vous développer des dashboard digitaux répondant aux besoins des différents équipes digitales, pays et marque.
+-  recommandation et paramétrage des modules de recueil du consentement rgpd (tarteaucitron, cmp v2...)
+-  suivi de l'implémentation server-side : accompagnement et conseils ainsi que la mise+ mise en place de tags (ga4, google ads, meta capi, tiktok...)
+
+notre processus type de recrutement :
+il est susceptible de changer légèrement.
+1.     pré-sélection des cv. au vu du nombre important de candidatures, ce processus peut parfois prendre jusqu'à 3 semaines.
+2.    premier contact d'une quinzaine de minutes pour préciser vos aspirations : par téléphone ou via entretien vidéo différé easyrecrue.
+3.    entretiens avec différents interlocuteurs.
+4.    éventuellement, il pourra vous être demandé de réaliser une étude de cas.",aix-en-provence - 13,https://www.hellowork.com/fr-fr/emplois/49452246.html
+b438e1b1e1074023e58c9359b966119b,hellowork,safran,2024-06-24,apprenti·e ingénieur·e data sur le domaine qualité h/f,alternance,,"de formation bac +5
+vous êtes autonome et dynamique,
+vous avez une appétence pour les sujets data,
+vous aimez le contact et faites preuve d'esprit d'équipe,
+vous avez un bon esprit de synthèse,
+vous maîtrisez rapidement les nouveaux outils informatiques qui vous sont proposés.
+des connaissances sur la modélisation de données (merise, uml) est un plus pour ce poste.
+
+alors n'hésitez pas à postuler !
+
+vos objectifs et missions principales en tant que data steward :
+-  contribuer à la définition et à la modélisation des données en pilotant les uses cases data de la direction (sur les processus qualité, pour des programmes de transformation digitale comme cnum...)
+-  alimenter le dictionnaire (collibra) de données sur le périmètre qualité
+-  piloter les chantiers de qualité de données et apporter son support au propriétaire de la donnée (data owner) en vue de son amélioration
+-  mener des actions de communication au sein de la direction autour de data (sensibilisation, bonnes pratiques...)
+
+vos objectifs et missions principales en tant que data analyst :
+-  piloter et supporter la consolidation des indicateurs de la direction
+-  mesurer la performance des processus qualité existant et cible","pourquoi nous rejoindre?
+safran aircraft engines, acteur majeur de l'aéronautique mondiale, est engagé dans une forte dynamique de transformation digitale afin notamment de contribuer à bâtir l'aviation de demain. safran recrute des femmes et des hommes de tous niveaux d'expérience et offre des opportunités variées en terme d'évolution et de mobilité. vous pourrez bénéficier de son modèle social et engagé.
+
+au sein de la direction qualité, progrès et transformation digitale (dqptd), le pôle data 4.0 structure la démarche data au sein de safran aircraft engines. dans ce contexte en forte dynamique, la direction qualité cherche à se renforcer avec un(e) apprenti(e) ingénieur data dont le rôle garantir la cohérence, la qualité et la pérennité des données (missions de data steward) mais également d'avoir un rôle opérationnel en effectuant des analyses de données (missions de data analyst).
+
+vous serez encadré-e par le data manager du domaine.",évry-courcouronnes - 91,https://www.hellowork.com/fr-fr/emplois/52435847.html
+165a0a0dc685a4aa43d3a5a878223210,hellowork,lgm,2024-06-24,consultant amoa si - aix-en-provence h/f,cdi,télétravail partiel,"votre profil et les qualités attendues pour ce poste :
+
+de formation bac +5, vous avez à minima 5 ans d'expérience sur un poste similaire, et disposez d'une appétence pour le secteur industriel (idéalement aéronautique).
+
+vos années d'expérience vous ont permis de capitaliser sur de la méthodologie projet tant sur des approches agiles (scrum, safe...) que cycle en v.
+
+la maîtrise de l'anglais (à l'oral et à l'écrit) est à un impératif pour ce poste.
+
+vous maitrisez les outils suivants :
+-  niveau confirmé en uml
+-  niveau confirmé en sql
+-  sharepoint avancé
+-  microsoft office avancé
+-  vba
+
+la connaissance de la gestion de configuration (au sens industriel) serait un plus.
+
+vous disposez d'excellentes qualités relationnelles avec l'ensemble de vos interlocuteurs (développeurs, experts métier, utilisateurs, chefs de projets, etc.), faites preuve d'esprit d'analyse et de synthèse, et savez travailler en autonomie. vous avez le goût du challenge, êtes rigoureux(se) et organisé(e).
+
+ce que vous nous proposons :
+-  un projet directement au sein de notre agence aixoise
+-  un process de recrutement simple et fluide (3 étapes en 3 semaines maximum)
+-  une intégration avant et après votre arrivée avec des points réguliers
+-  un parcours d'évolution, grâce à notre référentiel riche de 12 filières et plus de 100 emplois différents
+-  une montée en compétences individualisée et efficace, grâce à notre système de formation ayant fait ses preuves depuis 30 ans (plateforme e-learning en libre-service, meetup internes, parrainage, etc.)
+-  une entreprise qui vous permettra de vous épanouir et d'apporter votre contribution à faire de lgm un endroit où tout le monde se sent bien : nos process posent un cadre, pas des barrières.
+-  divers avantages (prise en charge à 100% du titre de transport en commun, accord de télétravail, accord de participation/intéressement...)
+
+#li-sb3","la direction digital & software
+
+depuis plus de 30 ans, lgm a développé au fils des années un savoir-faire dans les systèmes d'information et les technologies numériques et a créé en 2022 une direction digital & software afin de renforcer son expertise dans le domaine, pour accélérer la digitalisation de ses activités métiers et ainsi accompagner plus fortement ses clients dans leurs projets de transformation digitale.
+
+la digital & software factory lgm, c'est aujourd'hui 70 collaborateurs regroupés dans une organisation globale, qui conçoivent et mettre en oeuvre des solutions digitales adaptées aux besoins et enjeux métiers à travers une offre de services « 360 » :
+-     benchmark et design de solutions 
+-     développement d'applications métier 
+-     déploiement et intégration de solutions « off the shelf » 
+-     data management 
+-     testing & automation  
+-     support & tma 
+-     conduite de changement 
+-     pilotage et gouvernance de projets si
+
+le poste
+
+pour accompagner le développement de ses activités, la direction digital & software recrute un(e) consultant amoa si/ business analyst expérimenté(e) h/f pour renforcer ses équipes au sein de son agence aixoise.
+
+a ce titre, vos principales missions sont les suivantes :
+-  vous assurez la gestion du backlog d'une tierce maintenance applicative (tma) d'une application développée spécifiquement pour les besoins métiers de gestion de configuration aéronautique ;
+-  vous rédigez les spécifications techniques et fonctionnelles ;
+-  vous réalisez les recettes applicatives et documentaires ;
+-  vous préparez les meetings en lien avec le suivi du projet.",aix-en-provence - 13,https://www.hellowork.com/fr-fr/emplois/48110616.html
+67df554079f6fcc98197b8db69a2db5d,hellowork,lgm,2024-06-24,business analyst - aix-en-provence h/f,cdi,télétravail partiel,"de formation bac +5, vous avez entre 3 et 5 ans d'expérience sur un poste similaire, acquise idéalement dans le secteur industriel (spatial, défense ou aéronautique).
+
+vos années d'expérience vous ont permis de capitaliser sur de la méthodologie projet tant sur des approches agiles (scrum, safe...) que cycle en v.
+
+vous maitrisez les notions d'analyses de risques et d'opportunités, de conduite du changement, d'études make or buy, ou encore l'analyse d'un roi, ainsi qu'un audit fonctionnel.
+
+vous avez déjà utilisé les outils suivants :
+-  jira/gitlab (ou équivalent)
+-  kanban
+-  gantt
+-  microsoft office
+-  vba
+
+enfin, la connaissance des éléments suivants serait un plus :
+-  méthodologies de modélisation de processus et de modèles de données (uml, sadt, bpmn, etc.)
+-  rédaction gherkin
+-  power bi
+-  tests automatisés
+-  approche devops
+-  lean management
+-  notions de cybersécurité.
+
+vous disposez d'excellentes qualités relationnelles avec l'ensemble de vos interlocuteurs (développeurs, experts métier, utilisateurs, chefs de projets, etc.), faites preuve d'autonomie et d'intelligence émotionnelle. vous avez le goût du challenge,  êtes rigoureux(se) et organisé(e).
+
+ce que vous nous proposons :
+-  un projet directement au sein de nos locaux à aix-en-provence
+-  un process de recrutement simple et fluide
+-  une intégration avant et après votre arrivée avec des points réguliers
+-  un parcours d'évolution, grâce à notre référentiel riche de 12 filières et plus de 100 emplois différents
+-  une montée en compétences individualisée et efficace, grâce à notre système de formation ayant fait ses preuves depuis 30 ans (plateforme e-learning en libre-service, meetup internes, parrainage, etc.)
+-  une entreprise qui vous permettra de vous épanouir et d'apporter votre contribution à faire de lgm un endroit où tout le monde se sent bien : nos process posent un cadre, pas des barrières.
+-  divers avantages (prise en charge à 100% du titre de transport en commun, accord de télétravail 2 jours par semaine après deux mois d'ancienneté, accord de participation/intéressement...)
+
+ce poste est en lien avec des activités de défense et pourra nécessiter la mise en oeuvre d'une procédure d'habilitation.
+
+#li-sb3","la direction digitale & software
+
+depuis plus de 30 ans, lgm a développé au fils des années un savoir-faire dans les systèmes d'information et les technologies numériques et a créé en 2022 une direction digital & software afin de renforcer son expertise dans le domaine, pour accélérer la digitalisation de ses activités métiers et ainsi accompagner plus fortement ses clients dans leurs projets de transformation digitale.
+
+la digital & software factory lgm, c'est aujourd'hui 70 collaborateurs regroupés dans une organisation globale, qui conçoivent et mettre en oeuvre des solutions digitales adaptées aux besoins et enjeux métiers à travers une offre de services « 360 » :
+-  benchmark et design de solutions
+-  développement d'applications métier
+-  déploiement et intégration de solutions « off the shelf »
+-  data management
+-  testing & automation
+-  support & tma
+-  conduite de changement
+-  pilotage et gouvernance de projets si
+
+le poste
+
+pour accompagner le développement de ses activités, la direction digital & software recrute plusieurs business analyst h/f pour renforcer ses équipes aixoises.
+
+a ce titre, vos principales missions sont les suivantes :
+-  en phase d'avant-vente, vous analysez les besoins en transformation digitale de nos clients ainsi que leurs cahiers des charges ;
+-  vous participez à la définition de l'organisation proposée dans le cadre du projet (à titre d'exemple : vous aidez à la décision entre un framework agile ou cycle en v, etc.) ;
+-  vous dirigez la phase de recueil, de définition & de spécification du besoin ;
+-  vous êtes le garant du respect et de la maintenance des spécifications en phase de développement ;
+-  vous participez à la validation fonctionnelle des exigences spécifiées;
+-  vous gérez des projets de transformation digitale, simples ou plus complexes, à la hauteur de votre maîtrise du périmètre fonctionnel;
+-  vous réalisez des projets d'analyse des processus et de proposition d'amélioration ;
+-  vous participez aux projets de conseil en stratégie digitale (cartographie applicative, dossier de programme de digitalisation, etc.)",aix-en-provence - 13,https://www.hellowork.com/fr-fr/emplois/48110713.html
+501bb07dd82066119a805788d6b36062,hellowork,bnp paribas,2024-06-24,data scientist h/f,cdi,télétravail partiel,,"data scientist - h/f
+
+missions, équipe et environnement de travail, ça donne quoi ?
+
+en tant que data scientist vos responsabilités seront les suivantes
+-  etudier la faisabilité des solutions proposées et donner un avis d'expert.
+-  explorer et nettoyer les données.
+-  proposer et mettre en oeuvre les modèles de machine learning adaptés.
+-  présenter et vulgariser les résultats des analyses et des solutions développées.
+-  mettre en place un tableau de bord pour le suivi des modèles en production.
+
+au sein de la direction actuariat & data science, vous rejoindrez le département analytics france, composé de 5 data scientists et 5 analytics manager.
+
+ce département a pour objectif de mettre en oeuvre des solutions industrielles de data science pour l'ensemble de business unit et fonctions de cardif france, en déployant des algorithmes grâce à domino, notre plateforme de data science.
+
+vous prendrez part aux projets d'entreprise à composante analytics et travaillerez en étroite collaboration avec l'analytics manager et les différents métiers concernés. ces projets pourront avoir des finalités variées : améliorer l'efficacité de nos processus, prévenir le risque de fraude, simplifier un parcours client, optimiser la distribution d'un produit chez un partenaire...
+
+notre équipe, axée sur la création de valeur business, a déjà déployé une dizaine modèles en production au service des métiers. dans le cadre de notre plan d'accélération ia, vous aurez l'opportunité de développer des solutions innovantes et à fort impact. vous travaillerez sur des sujets d'actualité comme l'utilisation de llm pour des systèmes de question-réponse (rag) et la synthèse d'informations..., ainsi que des techniques de computer vision pour l'automatisation du traitement des documents numérisés.
+
+le poste est situé au siège de bnp paribas cardif, à nanterre, accessible en 15 minutes par navette depuis la défense ou par le rer a (gare de rueil-malmaison).
+
+des déplacements occasionnels en ile de france sont à prévoir.
+
+et après ?
+
+ce poste vous permettra de participer une diversité de projet, ainsi qu'à différentes sessions de partage de connaissances techniques entre les membres de l'équipe, ainsi vous accélérerez votre montée en compétences.
+
+vous développerez aussi votre réseau : de par votre rôle central dans un projet analytics, vous serez en contact régulier avec divers interlocuteurs d'autres bu ou directions.
+
+enfin, le groupe bnp paribas ayant à coeur de faciliter la mobilité interne, vous aurez l'occasion d'évoluer vers d'autres postes au sein de cardif ou dans une autre entité du groupe en france ou à l'étranger.
+
+travailler chez bnp paribas c'est :
+
+un package rémunération et des avantages :
+-  un fixe annuel brut et un variable individuel (défini en fonction de votre performance et de celle de votre équipe).
+-  plan épargne entreprise/retraite, intéressement et participation, couverture santé et prévoyance, activités sociales et culturelles via le comité d'entreprise...
+-  ail par semaine à définir avec votre manager
+-  pour notre clientèle et la société. 
+engagez-vous à nos côtés sur votre temps professionnel, à travers notre programme onemillionhourstohelp.
+-  
+
+etes-vous notre prochain data scientist h/f ?
+
+oui si vous avez 3 ans d'expérience dans la réalisation de modèles de machine learning à usage opérationnel, avec au moins une expérience significative en nlp.
+
+votre parcours vous permet d'avoir de très bonnes compétences en programmation sur python, une bonne maîtrise du fonctionnement des modèles de langage (llm) et/ou des techniques de traitement d'images.
+
+vous êtes curieux et rigoureux.
+
+vous avez démontré de solide capacité d'analyse.
+
+vous savez travailler dans un esprit collaboratif et faire preuve de pédagogie.
+
+enfin vos qualités de communicant finiront de nous convaincre.
+
+les prochaines étapes / les étapes du recrutement
+
+si votre cv est retenu par notre équipe de recrutement, vous serez amené à passer un à trois entretiens au maximum avec des rh (staffing business partner) et/ou manager opérationnel.
+
+dans un monde qui change, la diversité, l'équité et l'inclusion sont des valeurs clés pour le bien-être et la performance des équipes. chez bnp paribas, nous souhaitons accueillir et retenir tous les talents sans distinction : c'est ainsi que nous construirons, ensemble, la finance de demain, innovante, responsable et durable. 
+enfin, nous attachons une importance particulière à ce que nos futurs collaborateurs agissent au quotidien avec responsabilité éthique et professionnelle. 
+à tout moment pendant le processus de recrutement, les informations figurant sur votre cv, vos données d'identification et vos antécédents pourront être vérifiés.
+
+dans un monde qui change, la diversité, l'équité et l'inclusion sont des valeurs clés pour le bien-être et la performance des équipes. chez bnp paribas, nous souhaitons accueillir et retenir tous les talents sans distinction : c'est ainsi que nous construirons, ensemble, la finance de demain, innovante, responsable et durable
+
+enfin, nous attachons une importance particulière à ce que nos futurs collaborateurs et collaboratrices agissent au quotidien avec responsabilité éthique et professionnelle. à tout moment pendant le processus de recrutement, les informations figurant sur votre cv, vos données d'identification et vos antécédents pourront être vérifiés.",nanterre - 92,https://www.hellowork.com/fr-fr/emplois/52447190.html
+c664b386bed7cba33822f5034d647af3,hellowork,lesieur,2024-06-24,responsable analyse et developpement des ventes h/f,cdi,télétravail partiel,,"we are looking for : responsable analyse et developpement des ventes - h/f
+
+located at  
+11-13 rue de monceau, paris, 75008 
+france
+
+permanent contract
+
+avril is an industrial and financial leader in the french vegetable oil and protein sector. created at the initiative of the farming community, the group's growth over the past 40 years is founded on a unique value-creation model : reinvesting all profits back into the sector, in favor of the french farm. 
+ 
+fully confident in the potential of oilseeds, avril, with the support of its business units, is developing innovative, sustainable solutions designed to feed the planet and contribute to its decarbonization. building on the strength of this commitment, the group has chosen to assert its power to act, through its purpose, serving the earth. the ambition is to become, by 2030, the leader in plant processing serving the transitions in agriculture, food and the environment. 
+ 
+avril combines two complementary businesses that are key to the strength of its business model. a long-standing commitment as an investor, supporting the structuring of agricultural and food industry sectors, and a manufacturing business rooted in plant processing, from seed to finished product. with a presence in human food, animal nutrition and expertise, renewable energies, and green chemistry, avril boasts a portfolio of brands and business units that are leaders in their markets, both in france and internationally. 
+ 
+present in 19 countries with nearly 7, 400 employees spread across 73 industrial sites and sales offices, avril generated revenues of €9 billion in 2022.
+
+for further information : avril.com   twitter @avril\_group   linkedin avril
+
+job description :
+
+rattaché au directeur du category management, le responsable analyse et développement des ventes travaille aussi en étroite collaboration avec le directeur national des ventes. au coeur de la data, votre mission est de donner un sens stratégique aux informations que vous collectez. vous participez ainsi à la définition, au déploiement et au suivi des objectifs de la force de vente.
+
+votre quotidien et vos missions clés seront :
+-  analyser & assurer le suivi de l'activité des équipes force de vente (fdv) à travers un prisme enseignes & régions 
+-  coordonner et contribuer à l'alimentation des outils d'aide à la vente à destination de la fdv  
+-  assurer la gestion et l'administration du crm & la relation avec autres partenaires (nielsen)  
+-  compiler les données des différentes entités (lesieur, hari&co, italians do it better, soléou) afin de produire et partager des reporting et scorecards 
+-  manager un alternant (notamment dans le support du traitement de la data)
+
+plus en détails, vos missions se présenteront de la manière suivante :  
+ 
+business analyst fdv :  
+-  analyser les données (dn, linéaire, promotion) du crm & des données nielsen (pdm)  
+-  présenter mensuellement aux différentes parties prenantes des éléments clés à retenir sur le déploiement des 4p  
+-  proposer des plans d'action correctifs vs feuille de route sur les 4p  
+ 
+responsable des outils fdv : 
+-  administration & gestion du crm (solvnet) et de la base nielsen du parc visité  
+-  construire des outils de pilotage de l'activité force de vente pour les différentes entités  
+-  développer des nouveaux besoins & contribution aux analyses adhoc des différentes services  
+ 
+formation & outils d'aide à la vente :  
+-  coordonner & contribuer à la bonne alimentation des argumentaires d'aide à la vente pour la fdv  
+-   suivre les budgets (merch & animation) & les concours de la force de vente  
+-  former aux outils et accompagnement des nouveaux entrants
+
+job qualifications :
+
+pourquoi vous ?
+
+vous réussirez grâce à :
+-  une expérience terrain confirmée & complétée d'une expérience au siège idéalement sur la gestion du crm (solvnet)
+-  de bonnes connaissances des outils pack office (excel & ppt), idéalement de power bi
+-  de bonnes capacités d'analyses et de synthèse 
+-   une orientation business 
+-  la maîtrise des techniques de ventes  
+-  la capacité à travailler en équipe multifonctionnelle  
+-  des qualités en animation de réunion  
+-  votre leadership & votre capacité à travailler en transverse
+
+au-delà de vos compétences, votre personnalité et votre motivation feront également la différence ! 
+pourquoi choisir lesieur ? 
+chez lesieur : 
+-  vous aurez l'opportunité d'agir pour notre raison d'être servir la terre 
+-  votre sécurité et votre santé seront notre priorité n°1 
+-  vous évoluerez dans un environnement convivial : événements collectifs, locaux modernes avec restaurant d'entreprise, salle et cours de sport, hotline médicale, séance ostéo, etc. 
+ 
+vos avantages : 
+votre rémunération comprendra un salaire de base sur 13 mois + intéressement + prime de vacances de 1350€ bruts 
+vous aurez la possibilité d'ouvrir divers plans d'epargne (pee, peg et percol), tout en profitant des différents abondements de l'entreprise. 
+vous bénéficierez d'une mutuelle et d'une prévoyance santé.
+
+au forfait jour, vous bénéficierez de 28 jours de congés payés, mais également de 18 rtt. 
+notre accord vous  permettra de télétravailler jusqu'à 2 journées par semaine
+
+l'aventure vous tente ? n'hésitez plus ! 
+faites-vous connaître. envoyez-nous votre cv. 
+vous avez suscité notre curiosité ? un(e) chargé(e) de recrutement, vous contactera pour un 1er échange. 
+nous souhaitons poursuivre ensemble ? un entretien avec votre futur manager et votre rh vous attendent. 
+bienvenue ! notre collaboration va commencer, hâte de vous retrouver
+
+avril studies all applications with equal skills, including those of people with disabilities.",paris 1er - 75,https://www.hellowork.com/fr-fr/emplois/50820887.html
+8aebbddda63200d2b400f43d1a28ef17,hellowork,bpce solutions informatiques,2024-06-24,développeur - concepteur full stack paris ou lille h/f,cdi,télétravail partiel,,"entreprise humaine et engagée, notre politique de responsabilité sociale de l'entreprise porte des sujets clés comme la mixité, la diversité, le handicap, la qualité de vie au travail et le développement durable.
+
+plus de 80 métiers sont présents au sein de bpce si et plus de 50 technologies et langages de développement sont utilisés dans nos solutions bancaires !
+
+passionné(e) par l'informatique et envie de nouveaux challenges ? rejoignez nos équipes d'experts et intervenez sur nos projets innovants en utilisant les dernières tendances technologiques (ia générative, low code / no code, cloud, devops).
+
+alors, pour booster votre carrière et profiter de la diversité des terrains de jeux que proposent bpce solutions informatiques et le groupe bpce, rejoignez-nous !
+
+poste et missions
+
+au sein du domaine crédits immobiliers et gestion, le produit « vente et instruction crédits immobiliers mysys » gère la fabrication d'évolutions et la maintenance logicielle des applications permettant de commercialiser les crédits des caisses d'epargne et d'autres entités du groupe bpce.
+
+en tant que développeur - concepteur full stack (h/f), vous intégrerez une squad qui gère le build et le run des applications utilisées en agence et en middle/back office par plus de 20.000 utilisateurs dans 18 établissements. ce sont plus de 10.000 offres de crédits qui sont éditées chaque mois grâce à nos solutions, et plusieurs centaines de milliers de dossiers en cours d'instruction.
+
+nos dernières évolutions concernaient par exemple la mise en oeuvre du prêt à taux zéro et de l'eco prêt à taux zéro pour le 1er avril 2024.
+
+l'instruction des crédits couvre des composants ayant de nombreuses interactions avec les autres équipes de bpce-si :
+-  avec les autres produits crédit (crédits aux professionnels et aux entreprises, gestion des crédits)
+-  mais aussi avec les domaines liés à la connaissance client (personnes physiques et personnes morales), à la gestion des risques (calcul de délégation et d'indicateurs)
+-  sans oublier les assets transverses (data, signature électronique et contractualisation, gestion électronique de documents).
+
+en tant que développeur - concepteur full stack (h/f), vos principales missions seront les suivantes :
+
+-  etudier et analyser les besoins métiers et techniques en collaboration avec le product owner ou le business analyst
+-  analyser et participer à la conception (technique et fonctionnelle) en lien avec les tech leads et les concepteurs
+-  rédiger les spécifications détaillées,
+-  réaliser les développements et les tests unitaires.
+-  analyser les anomalies remontées par les utilisateurs et clients afin de garantir le bon fonctionnement des applications en production
+-  proposer des évolutions techniques pour optimiser le fonctionnement de l'application (temps de réponse, ressources utilisées...)
+
+autres particularités :
+
+-  méthodologie scrum / agilité à l'échelle
+
+la diversité des sujets tant techniques que fonctionnels vous permettra de découvrir et d'enrichir vos connaissances et compétences, et vous pourrez compter sur les autres membres de l'équipe pour vous accompagner dans votre parcours et votre progression.
+
+profil et compétences requises
+
+de formation supérieure en informatique (bac +3/5), vous justifiez d'une expérience d'au moins 4 ans en développement et en conception sur au moins une des technologies suivantes :.net/c#, angular, java.
+
+vous maitrisez les outils jira / confluence.
+
+vous êtes curieux(se), investi(e), à la fois passionné(e) par les sujets techniques et fonctionnels.
+
+vous aimez travailler en équipe dans un contexte agile, et vos capacités d'adaptation vous permettent d'appréhender des sujets variés.
+
+vous avez un bon relationnel qui vous permet d'interagir avec des interlocuteurs d'autres métiers, et d'autres produits.
+
+vous êtes à l'aise et autonome (travail à distance avec les équipiers) sur le développement dans les nouvelles technologies et vous avez capacité à monter rapidement en compétence sur un nouveau domaine fonctionnel.
+
+vous faites preuve de rigueur, vous avez le sens du service client et le sens du résultat, la qualité est un incontournable pour vous.
+
+autres informations :
+
+-  astreintes : occasionnelles
+-  déplacements : occasionnels
+
+informations complémentaires sur le poste
+
+notre processus de recrutement
+
+notre processus de recrutement se déroule en 3 phases :
+
+-  un échange téléphonique avec nos équipes rh afin de comprendre votre projet professionnel
+-  un échange en visio ou sur site avec nos équipes rh pour faire plus ample connaissance et présenter nos projets
+-  un échange en visio ou sur site avec le/la futur/e manager et éventuellement votre future équipe
+
+nos avantages ?
+
+bpce si, c'est un cadre de travail agréable avec un accompagnement de proximité, des formations, de multiples évolutions possibles au sein du groupe.
+
+un package de rémunération attrayant comprenant une part variable sur objectif individuel et une prime d'intéressement.
+
+70 % de prise en charge des frais de transports en commun !
+
+environ 9 semaines de congés annuels (congés et rtt)
+
+télétravail hybride ! 30 jours de télétravail par trimestre et flexibilité des horaires
+
+une politique familiale, des aides et une flexibilité pour les collaborateurs aidants, les parents et futurs parents.
+
+accès à un plan epargne entreprise avec abondement ! et un très bon niveau de protection sociale.
+
+un cse actif ! des locaux attractifs et des comités d'animations par site
+
+entreprise partenaire premium des jo2024 et engagée sportivement !
+
+et bien plus encore ! nous pourrons en discuter en entretien !
+
+a bientôt !
+
+l'équipe rh",villeneuve-d'ascq - 59,https://www.hellowork.com/fr-fr/emplois/50793399.html
+c7b6eb876e379ce7ccc02174023f916d,hellowork,groupe air liquide,2024-06-24,stage - siege social - chef de projet digital procurement h/f,stage,,,"quelle sera votre contribution et comment vous épanouir dans ce poste ?
+
+in the frame of the gym program, group procurement has defined its 2025 blueprint, mobilizing more than 100 people from procurement, operations, hr and finance across all air liquide businesses and geographies, in a co-construction approach. it laid out a clear end-state for the procurement function in 2025 and the associated transformation roadmap, building on learnings from past procurement transformations.
+
+the 2025 blueprint is structured around 7 strategic priorities, systematically strengthening the link between procurement and business.
+
+the transformation management office (tmo) team works hand-in-hand with group / hubs / wbus procurement teams, operations, hr and finance in a co-construction effort. in addition to the support of the blueprint deployment, the tmo is looking at other opportunities of optimization, in particular in the procure to pay processes, leveraging digital and organization changes. the p2p junior analyst will support the group p2p manager in the streamlining of the processes, the alignment of the tools and the implementation of automation initiatives on the procure to pay process. he/she will also establish a dashboard listing the issues met by the teams and the actions plans put in place to improve the procurement.
+
+with the support of our teams and your manager, you will carry out the following missions during your internship :
+
+1-procurement digitization :
+support the definition of the procure-to-pay tools roadmap :
+understand the needs of the procurement organization and the current situation and functions of each hubs/ world business units.
+compare functionalities and costs of several solutions.
+establish a matrix of internal customers needs vs satisfaction
+support the p2p manager in the establishment of the best to-be model in terms of p2p platform for the organization
+
+2-set up and follow up of kpis
+
+procure-to-pay activities must be monitored to ensure efficiency and compliance of the process.
+
+in order to achieve this, the main activities will be :
+understand the needs of the organization and design the p2p kpi accordingly.
+design of the p2p dashboard which will be a monitoring tool for the management and for the procurement teams in charge of p2p activities.
+subsequently work with local procurement team to make sure all master data are well prepared
+work closely with the p2p managers and the stakeholders to set up and track success kpis (key performance indicators) to follow the implementation and progress of the countries
+
+3 standardization of procurement processes
+
+through workshops with the stakeholders, the intern will help to establish the best in class process governing the p2p across the group.
+collect information about best practices in the procurement organization.
+support the p2p manager in the formalization of procurement processes for the air liquide procurement function.
+understand countries users pain points and use continuous improvement methodology and mindset to improve processes
+
+etes-vous la personne faite pour ce poste ?
+
+profile and competences
+
+for this position, we are looking for the following qualities :
+master's student in a business or engineering school, preferably with a purchasing specialization
+analytical mindset with interest in process analysis and continuous improvement
+prior experience appreciated
+candidate is able to work in a team but also independently
+great communication skills as the candidate will have to communicate with users in all geographies
+experts in google / microsoft suite notably with confidence and presentation skills.
+proficiency in english - other languages appreciated
+
+further information
+
+air liquide is labeled happy trainees.
+
+the internship takes place in the group's historic headquarters in the center of paris at quai d'orsay.
+geographical location : paris, france
+desired start date : july 2024
+- 
+duration : 6 months
+
+nos différences font notre performance
+
+chez air liquide, nous nous engageons à créer un environnement de travail collaboratif et inclusif qui reflète la diversité de nos collaborateurs, de nos clients, des patients et de nos parties prenantes ainsi que des cultures à travers le monde.
+
+nous accueillons et considérons les candidatures de tous les candidats qualifiés, quel que soit leur parcours. nous sommes convaincus qu'une organisation diversifiée permet à nos collaborateurs de révéler leur talent, à la fois individuellement et collectivement, et qu'elle contribue à renforcer notre capacité d'innovation en faisant vivre nos fondamentaux, en agissant pour le succès/la réussite du groupe et en créant un environnement engageant, dans un monde en mutation.",paris - 75,https://www.hellowork.com/fr-fr/emplois/50779963.html
+468d36b612a5b584f28cd4380d84c6b0,hellowork,dassault aviation,2024-06-24,apprenti assistant ingénieur de production falcon 10x h/f,alternance,,,"informations générales
+
+nous sommes à la recherche d'un(e) assistant(e) ingénieur de production pour rejoindre notre équipe de production dans le domaine de l'aéronautique. si vous êtes intéressé(e) par l'industrie et que vous souhaitez évoluer au coeur de la fabrication et de l'assemblage des avions, cette opportunité est pour vous. rejoignez-nous pour contribuer a la la mise en place de notre nouvelle unité de production.
+
+notre équipe dynamique se distingue par sa diversité d'entités (préparateur en fabrication, ingénieur...), combinant expertise, créativité et synergie pour atteindre un objectif commun : lancer la production d'un nouvel avion, le falcon 10x.
+
+dans le cadre des activités de la production des falcon 10x, vous prendrez en charge les missions suivantes :
+
+1 - coordination des activités d'implantation de la nouvelle unité de production :
+
+déploiement d'une approche lean visant à définir, l'implantation des moyens / machines / hommes / servis logistique,
+
+equilibrage des activités techniques au sein de chaque station,
+
+suivi de spécification / fabrication des outillages.
+
+2 - déploiement des process société d'excellence industrielle au seins de la nouvelle unité de production :
+
+déploiement des process société (qrqc / di / flash 5 et 30 / mifd / pde),
+
+pilotage par la donnée et organisation des datas de production pour aide opérationnelle à la décision,
+
+aide à la création de reporting innovant (coordination avec des profils type data scientist).
+
+3 - apprentissage au métier opérationnel d'ingénieur de production avion :
+
+suivi technique des assemblages avions,
+
+préparation / coordination chantiers de mise à niveau avion.
+
+dans le cadre de vos missions, vous travaillerez en étroite relation avec l'équipe de production, l'atelier, le service d'industrialisation ainsi que l'ensemble des intervenants extérieurs (qualité - bureau d'étude - achats - outillage - etc.).
+
+le poste et les missions ne nécessitent pas de déplacements.
+
+cette expérience sera pour vous une opportunité unique de participer a la construction d'une nouvelle unité de production et au lancement d'un nouvel avion.
+
+vous préparez une formation bac +5 de type master ou école d'ingénieur en lien avec le milieu industriel et recherchez dans ce cadre un contrat d'apprentissage de 2 ou 3 ans.
+
+vous possédez de bonnes connaissances sur les outils windows et bureautiques (excel, word, access, powerpoint, messagerie, agendas).
+
+vous bénéficierez de formations spécifiques et complémentaires pour sap, documentum...
+
+des compétences dans le domaine ""data scientist / analyst"", une appétence pour les analyses complexes de données et des compétences en powerbi seraient un plus.
+
+de nature organisé, autonome et rigoureux, vous avez le sens du service et aimez travailler en équipe.
+
+vous possédez une bonne communication écrite et orale en français et votre anglais est correct.
+
+si vous vous reconnaissez dans cette description, n'hésitez plus et postulez !
+
+prenez votre envol ! rejoignez-nous !
+
+#ensembleplusloin
+
+localisation : france, nouvelle aquitaine, 33 - mérignac
+
+domaine professionnel / métier : ingénierie industrielle
+
+type de contrat : c. apprentissage
+
+durée du contrat : 2 ans / 3 ans
+
+langues : anglais b2 intermédiaire - avancé
+
+compétences : gestion de fabrication, méthodes de production, production
+
+référence de l'offre : 2024-12717
+
+nombre de postes : 1
+
+merci de postuler :  https://aviationjobs.fr/consult.php?offre=bee417163816213688&job=753",mérignac - 33,https://www.hellowork.com/fr-fr/emplois/50792345.html
+13c9ef7f9492e1c6adf2b82a8ac59381,hellowork,adecco,2024-06-24,chargé du planning h/f,intérim,,,"votre mission
+
+l'agence adecco recrute pour son client, spécialisé dans le domaine de la formulation et conditionnement d'aérosols ménagers, produits liquides et moussants, cosmétiques ou ménagers. et basé à bernay (27300), en cdi un technicien planification (h/f). 
+
+notre client, leader dans le secteur de la formulation et conditionnement d'aérosols ménagers, produits liquides et moussants, cosmétiques ou ménagers., est à la recherche d'un technicien planification (h/f) pour rejoindre son équipe à bernay. titulaire d'un bac +2 / bac +3 en supply chain, logistique ou assistanat commercial, vous avez idéalement une première expérience dans un milieu industriel. la maîtrise d'excel est exigée, ainsi qu'une aisance téléphonique. 
+
+votre rôle consiste à assurer la planification des opérations de production, en veillant à la disponibilité des ressources nécessaires et en respectant les délais fixés. vous serez également en charge de l'analyse des données de production, de l'identification des problèmes éventuels et de la proposition de solutions. vous travaillerez en étroite collaboration avec les différents services de l'entreprise pour assurer une coordination optimale des activités. 
+
+les tâches proposées : 
+
+·        gestion et suivi des commandes clients : vérification puis enregistrement  
+·        ordonnancement et programmation de la production 
+·        lancement des of des demandes d'approvisionnement 
+·        participe à la gestion des charges de travail en production, et garanti la réalisation des plannings en optimisant les délais et les coûts de production 
+·        garanti avec le service approvisionnement la mise à disposition des matières premières  
+·        met en place des scénarios de charge et préconise un ou plusieurs choix 
+·        contrôle les écarts quotidiens et ajuste les plannings  
+·        suivi des stocks
+
+votre profil
+
+profil : 
+-  expérience d'au moins 1 an dans un poste similaire 
+-  diplôme de niveau bac +2 / bac +3 
+-  bonne connaissance des outils de planification 
+-  maîtrise des méthodes de gestion de projet 
+-  compétences en analyse et en résolution de problèmes 
+-  maîtrise des logiciels de planification 
+-  connaissance des normes de la planification 
+
+en rejoignant notre client, vous bénéficierez de nombreux avantages tels que la prime d'assiduité, la prime d'ancienneté et une mutuelle prise en charge à 100% par l'employeur. le salaire proposé se situe entre  2200€ et 2500€ brut par mois, sans compter les avantages. 
+
+le poste est à pourvoir dès que possible. vous serez contacté pour un entretien téléphonique afin d'évaluer votre candidature. 
+
+vous vous reconnaissez dans ce profil et souhaitez postuler ? vous souhaitez rejoindre une entreprise engagée ? n'attendez plus, on vous attend ! 
+
+postuler sur adecco&moi
+
+a propos de nous
+
+premier réseau d'agences d'emploi en france, adecco a développé un savoir-faire unique de proximité et met toutes ses compétences à votre service. 
+nos équipes sont présentes sur tout le territoire, avec plus de 900 agences. quel que soit le contrat que vous cherchez : cdi, cdd, intérim, cdi intérimaire, cdi apprenant ou alternance, nos experts travaillent chaque jour, pour vous guider vers ce qui vous correspond. dès maintenant, devenez acteur de votre vie !",bernay - 27,https://www.hellowork.com/fr-fr/emplois/52444303.html
+a7281fbb128e7fcf313b089c141ef664,hellowork,papernest,2024-06-24,data engineer lead - cdi - paris h/f,cdi,télétravail partiel,,"tes futures missions :
+-   être garant et référent de l'évolution des systèmes data engineer en cohérence avec l'infrastructure générale papernest
+-  définition des besoins métiers en étant l'interlocuteur privilégié de l'équipe data analyst en collaboration avec l'équipe produit
+-  mobiliser les ressources de l'équipe et encadrer la gestion des projets propres à ton pôle data
+-  participation à l'élaboration de la roadmap quarter
+-  effectuer un reporting quotidien de la qualité de tous les événements clients et internes de papernest
+-  maintenir et faire évoluer la stack basée sur python/airflow/docker hébergée sur aws et bigquery.
+-  assurer le développement technique et fonctionnel des outils de data engineering (elt, data lineage,...) et la ci/cd
+-  partager la connaissance au public interne et externe à l'équipe data engineer des besoins et solutions mises en place à destination des utilisateurs data analyst et business
+
+ton profil :
+-  diplômé(e) d´école d´ingénieur en informatique.
+-  a minima 3 ans d'expérience en tant que data engineer, avec une stack python (poo).
+-  justifier d'expériences sur des projets en production et en gestion de projets agiles.
+-  bonne connaissance en sql sur data warehouse (bigquery est un plus).
+-  une expérience précédente en tant que data analyst est un plus.
+-  français et anglais courant est requis.
+
+ce que nous t'offrons :en rejoignant papernest tu bénéficieras d'un package composé de :
+-  stock options (bspce)
+-  bonus sur okr
+-  mutuelle alan, pour une gestion des frais de santé ultra simple et sans paperasse
+-  tickets restaurants swile
+
+... et tu évolueras dans un environnement de travail :
+flexible grâce à une politique remote friendly (2 jours de télétravail possibles par semaine)
+inclusif, tout le monde à sa place chez papernest, et avec plus de 46 nationalités différentes, chez nous il n'est pas rare de commencer sa phrase en français and finish it in english o en español ¡
+favorisant la cohésion d'équipe avec des événements et des team buildings réguliers
+excitant et challengeant où tu trouveras les ressources nécessaires pour développer ta carrière grâce notamment à notre politique de mobilité interne
+- 
+gourmand : petit déjeuner offert tous les mardis ainsi qu'un réfrigérateur ideel garden connecté pour des déjeuners sains et équilibrés !
+
+processus de recrutement :
+-  un premier appel avec julie, senior ta specialist
+-  un premier entretien avec alexandre, head of data engineer.
+-  un test technique suivi d'un code review.
+-  un dernier entretien avec cyril, cto.
+
+si ce challenge est le tien, n'hésite pas une seconde ! nous avons hâte de te rencontrer et cela peu importe ton âge, ton sexe, tes origines, ta religion, ton orientation sexuelle, ou ton handicap. nos processus de sélection ainsi que notre environnement de travail sont adaptés à tous.
+
+mesdames, nous vous encourageons vivement à postuler ! en effet, même si vous estimez ne pas répondre à la totalité des critères mentionnés dans cette offre, sachez qu'ils sont à titre indicatifs. nous étudierons avec grand intérêt votre candidature. la parité et la diversité sont un atout pour nos équipes !",paris 1er - 75,https://www.hellowork.com/fr-fr/emplois/49417897.html
+848ed5ed6a6c0e55bfa5740118bf55e2,hellowork,malakoff humanis,2024-06-24,alternance - assistant ia product manager h/f,alternance,,"ce poste est fait pour toi si :
+
+tu prépares un bac +5, en école d'ingénieur ou de commerce
+
+tu as une appétence pour la gestion de projets et les sujets liés aux données, l'éthique, la réglementation...
+
+tu es à l'aise avec le pack office notamment excel et powerpoint
+
+ta rigueur et ton esprit de logique, alliés à ta curiosité et ton goût pour le travail en équipe, te permettront de mener à bien ta mission
+
+tu es autonome
+
+tu as une appétence au monde de la data
+
+tu es curieux et fais preuve de force de proposition
+
+tu as une forte capacité d'analyse, de synthèse et de formalisation
+
+une expérience en analyse de données est appréciée
+
+ton accompagnement en intégrant malakoff humanis :
+
+tu suivras un plan d'accompagnement adapté lors de ta prise de poste.
+
+tout au long de ton parcours professionnel, tu pourras bénéficier de différents dispositifs de formation et évoluer au sein du groupe grâce à nos opportunités en mobilité interne.
+
+envie d'en savoir plus sur qui nous sommes chez malakoff humanis ? « quand on pousse la porte de malakoff humanis »
+
+alors prêt(e) à nous rejoindre ?","quelles seront tes missions ?
+
+alimenter le vivier de cas d'usage ia du groupe pour l'ensemble des directions métiers autour des thématiques ia documentaire et analyse du langage
+
+accompagner plus spécifiquement le data project manager en charge des cas d'usage ia documentaire et du langage :
+reprendre les tâches de pilotage transverses (vivier, point bimestriel, etc.)
+
+accompagner l'opérationnel auprès des data analyst/scientists dans le cadre de nos cas d'usage
+
+assurer le suivi et la mesure de l'impact des cas d'usage pour nos métiers et nos clients.
+
+participer à la veille technologique sur les thématiques ia
+
+où vas-tu travailler ?
+
+le site est situé au 173 rue du chevaleret, 75013 paris (metro 6)",paris 13e - 75,https://www.hellowork.com/fr-fr/emplois/49457731.html
+2a5fe06da5b1b3d59a3c66d089f98855,hellowork,iliad,2024-06-24,développeur php symfony h/f,cdi,,"-   la fierté d'appartenance : 97% de nos collaborateurs se disent fiers de travailler pour le groupe iliad
+-   le sens au travail : 94% sont conscients de ce que leur travail apporte à l'entreprise
+-   l'intérêt du travail : 95% apprécient leur travail et les missions qui leur sont données
+-   l'équilibre vie privée/vie professionnelle : 91% estiment que leur travail permet un bon équilibre
+
+
+
+compétences recherchées
+-   programmer dans un langage informatique spécifique
+-   php natif
+-   symfony
+
+éléments nécessaires pour postuler
+
+pour valider votre candidature, nous vous demandons de fournir les éléments suivants, vous devrez télécharger les pièces demandées directement lors de votre inscription.
+
+toute candidature incomplète ne sera pas traitée par nos services.
+
+document(s) :
+-  
+curriculum vitæ","le poste
+
+vous rejoignez l'équipe s.i. de brendan actuellement composée de 14 personnes : 7 développeurs dont 1 lead dev, 2 product owners, 1 data analyst, 2 techniciens supports applicatifs et 2 chargées de déclaratif règlementaire.
+
+cette équipe contribue au déploiement du réseau free mobile en développant en interne les outils métiers qui aident au quotidien nos équipes terrains (négociateurs, conducteurs de travaux, etc.).
+
+vos principales missions seront :
+-  vous développez vous-même les nouvelles solutions utilisées par nos équipes et continuez à améliorer celles déjà en place. vous intervenez pendant toutes les étapes allant du recueil des besoins jusqu'au développement des solutions les plus adaptées (principalement back-end).
+-  vous concevez et gérez les bases de données.
+-  vous supervisez et contrôlez les processus automatisés (commandes, reportings, batch automatiques) notamment le bon fonctionnement des etl et webservices.
+-  vous avez envie que vos travaux aient un impact direct et soient utiles tous les jours ? vous serez amené à travailler sur un serveur web de production sur lequel se connecte des centaines d'utilisateurs.
+
+pour valider votre période d'essai vous serez évalué sur les critères suivant :
+-  votre autonomie d'un point de vue technique et votre capacité à comprendre le fonctionnement de l'entreprise.
+-  amener de nouvelles idées en proposant des améliorations.
+-  et votre capacité à évoluer de manière flexible sur les différentes missions (développement, systèmes...)
+
+au cours de votre intégration, vous serez formé.e à nos pratiques pour s'assurer que vous soyez dans les meilleures dispositions pour réussir sur ce poste. nous avons parlé de free mobile, ainsi que des missions et attentes du poste, mais il nous manque le principal... vous.",paris 15e - 75,https://www.hellowork.com/fr-fr/emplois/52444061.html
+34845733f30dc73b84ac41e1ed1486d0,hellowork,datadome,2024-06-24,cyber security analyst w - m h/f,cdi,,,"we deploy on aws, scaleway and gcp, using docker, ansible and terraform, and monitor with grafana and prometheus. we handle an average of  8 billion requests per day and manage more than 300 tb of data per month.
+
+when it comes to our stack, we run real-time detection layer in java, low latency stream engine running on flink in scala, elasticsearch for storage, kafka for communication between layers, haproxy for load balancing, symfony & angular for our dashboards. we use slack, github for teams. while previous experience in cyber is not a must, we'll pair you with mentors who will help you bridge the gaps. as #growth is part of our dna, we'll give you the resources and support you need to develop mastery.
+
+we are looking for a cyber security analyst w/m who will be in charge of analyzing the bot traffic collected by our detection platform, creating dedicated data visualizations, helping our customers to decide how to act when they are encounter bot attacks.
+
+you will be more specifically in charge of :
+-  be part of our threat research team, collaborate with threat researches and data scientists to challenge our detection engine on a daily basis
+-  analyzing huge web traffic data sets (across more than 100 billions documents) to identify and block malicious traffic
+-  creating automates/scripts to detect outliers in our global traffic
+-  contributing to support by analyzing past attacks to strenghten our detection !
+-  identifying potential attacks and add new alerts to our detection platform
+
+what we look for :
+-  bachelors degree required in a relevant field
+-  have a previous experience in (web) cyber security
+-  have a real passion for data and automated attacks mitigation
+-  have expertise on network or web infrastructure
+
+bonus points
+-  you implement bots during your spare time
+-  you have already used kibana
+-  you have worked with dbs like elasticsearch
+what's in it for you?- flex life : flexible remote, hybrid or in office options, including working from our paris office, located next to the opera garnier + 500€ stipend to help you set up your ideal workspace.
+-  generous health benefits : leading healthcare providers for each eu country (e.g. alan in france).
+-  professional development : #growth is part of our dna, therefore we provide an annual stipend to invest in yourself.
+-  events & teambuilding : feel the #teamspirit both virtually & onsite, with several events & workshops planned throughout the year, including two annual offsite events, summer & winter parties, lunch & learns, & much more.
+-  perks : we prefer to adapt to what works best for you. some prefer lunch on us, others prefer sports with friends, therefore we believe botbusters should decide what works best for them.
+-  parent care : gift & care packages for parents.
+-  pto : based on the country you are based from (e.g. 25 days in france).
+
+what are the next steps?
+-  talent acquisition manager will contact you for a first chat
+-  you will then meet with céline
+-  you will complete case study
+-  the final step will be a one-on-one meeting with gilles our cto
+-  welcome to datadome !
+
+datadome's bot and online fraud protection detects and mitigates attacks with unparalleled accuracy and zero compromise. our machine learning solution analyzes 3 trillion signals per day to adapt to new threats in real time. hundreds of enterprises worldwide-including reddit, patreon, and angellist-trust datadome's solution and 24/7 soc experts to protect their mobile apps, websites, and apis against online fraud, ato, carding, scraping, layer 7 ddos, credential stuffing, and more.
+
+a force multiplier for it and security teams, datadome is fully transparent, easy to deploy, and frictionless for consumers. we offer the only secure, user-friendly, and privacy compliant captcha integrated with our complete 360° bot detection solution. with 25+ regional pops and autoscaling technology, datadome responds to requests with zero latency and no impact on the speed of protected platforms.
+
+in 2022, datadome was ranked the top g2 leader in bot detection & mitigation, named a strong performer in the forrester wave : bot management, and placed 21st in cybersecurity on the inc. 5000. certified a great place to work in the us and france, datadome's dedicated team of botbusters spans the globe as far as its high-profile customer base.
+
+datadome is an equal opportunity employer, and proud to be committed to diversity and inclusion. we will consider all qualified applicants without regard to race, color, nationality, gender, gender identity or expression, sexual orientation, religion, disability or age.",paris 1er - 75,https://www.hellowork.com/fr-fr/emplois/50809744.html
