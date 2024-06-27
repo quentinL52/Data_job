@@ -43,7 +43,7 @@ def nb_pages(url):
 def multi_page_wtj(url, nb_pages):
     
     list_href_list = []    
-    for page in tqdm(range(1, nb_pages + 1),desc="Pages"):
+    for page in tqdm(range(1, nb_pages + 1),desc="Pages WTTJ"):
         driver.get(url + str(page) + "&sortBy=mostRecent&searchTitle=true")
         
         WebDriverWait(driver, 10).until(
@@ -67,7 +67,7 @@ def multi_page_wtj(url, nb_pages):
 
 def api_hide_wtj(href_list):
     df = pd.DataFrame()
-    for href in tqdm(href_list,desc="Annonces"):
+    for href in tqdm(href_list,desc="Annonces WTTJ"):
         request = requests.get(href)
         job_data = request.json()['job']
         job_df = pd.json_normalize(job_data)

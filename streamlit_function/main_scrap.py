@@ -1,6 +1,8 @@
 import sqlite3
 from apec_scrap import main_apec
 from wttj_scrap import main_wttj
+from cadreemploi_scrap import main_cadreemploi
+from hellowork_scrap import main_hellowork
 
 def db_file_storage(db_name, table_name, df):
 
@@ -23,10 +25,24 @@ def update():
         pass
 
     try:
-        df_wttj = main_wttj
+        df_wttj = main_wttj()
         db_file_storage('wttj', 'df_clean', df_wttj)
     except:
         print("Error WTTJ")
+        pass
+
+    try:
+        df_cadreemploi = main_cadreemploi()
+        db_file_storage('cadreemploi', 'df_clean', df_cadreemploi)
+    except:
+        print("Error cadreemploi")
+        pass
+
+    try:
+        df_hellowork = main_hellowork()
+        db_file_storage('hellowork', 'df_clean', df_hellowork)
+    except:
+        print("Error hellowork")
         pass
 
 

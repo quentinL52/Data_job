@@ -61,7 +61,7 @@ def multi_page_apec(nb_page_max, url):
 
     list_href_list = []
     
-    for page in tqdm(range(nb_page_max), desc='Pages'):
+    for page in tqdm(range(nb_page_max), desc='Pages Apec'):
         
         driver.get(url + str(page))
         
@@ -85,7 +85,7 @@ def api_hide_apec(href_list):
 
     df = pd.DataFrame()
         
-    for href in tqdm(href_list, desc='Annonces'):
+    for href in tqdm(href_list, desc='Annonces Apec'):
         
         id = re.findall(r'\/([0-9]+[A-Z]+)\?', href)[0]
         link = f"https://www.apec.fr/cms/webservices/offre/public?numeroOffre={id}"

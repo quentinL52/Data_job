@@ -28,7 +28,7 @@ elif st.session_state["authentication_status"] is None:
 scheduler = BackgroundScheduler()
 
 # Planifier la tâche pour s'exécuter tous les jours à minuit
-scheduler.add_job(update, 'cron', hour=20, minute=0)
+scheduler.add_job(update, 'cron', hour=20, minute=00)
 
 # Démarrer le scheduler
 scheduler.start()
