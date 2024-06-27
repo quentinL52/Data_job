@@ -1,8 +1,8 @@
 import sqlite3
-from apec_scrap import main_apec
-from wttj_scrap import main_wttj
-from cadreemploi_scrap import main_cadreemploi
-from hellowork_scrap import main_hellowork
+from scraping.apec_scrap import main_apec
+from scraping.wttj_scrap import main_wttj
+from scraping.cadreemploi_scrap import main_cadreemploi
+from scraping.hellowork_scrap import main_hellowork
 
 def db_file_storage(db_name, table_name, df):
 
