@@ -2,7 +2,7 @@ import streamlit as st
 from file_python.manage_log import login_page, reset_password
 from file_python.yaml_config import yaml_config
 from apscheduler.schedulers.background import BackgroundScheduler
-from scraping.main_scrap import update
+from streamlit_function.scraping.main_scrap import update
 
 
 
