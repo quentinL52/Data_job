@@ -3,6 +3,7 @@ from streamlit_function.scraping.apec_scrap import main_apec
 from streamlit_function.scraping.wttj_scrap import main_wttj
 from streamlit_function.scraping.cadreemploi_scrap import main_cadreemploi
 from streamlit_function.scraping.hellowork_scrap import main_hellowork
+from streamlit_function.scraping.freework_scrap import main_freework
 
 def db_file_storage(db_name, table_name, df):
 
@@ -43,6 +44,13 @@ def update():
         db_file_storage('hellowork', 'df_clean', df_hellowork)
     except:
         print("Error hellowork")
+        pass
+
+    try:
+        df_freework = main_freework()
+        db_file_storage('freework', 'df_clean', df_freework)
+    except:
+        print("Error freework")
         pass
 
 

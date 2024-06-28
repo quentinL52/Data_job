@@ -3,11 +3,11 @@ from bs4 import BeautifulSoup
 import time
 import re
 from tqdm import tqdm
-from selenium import webdriver
 import requests
 import warnings
 import numpy as np
 import hashlib
+from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -215,4 +215,3 @@ def main_apec():
     df_not_clean = api_hide_apec(href_list)
     
     return clean_df_apec(df_not_clean)
-    
