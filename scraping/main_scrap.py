@@ -1,9 +1,9 @@
 import sqlite3
-from streamlit_function.scraping.apec_scrap import main_apec
-from streamlit_function.scraping.wttj_scrap import main_wttj
-from streamlit_function.scraping.cadreemploi_scrap import main_cadreemploi
-from streamlit_function.scraping.hellowork_scrap import main_hellowork
-from streamlit_function.scraping.freework_scrap import main_freework
+from scraping.apec_scrap import main_apec
+from scraping.wttj_scrap import main_wttj
+from scraping.cadreemploi_scrap import main_cadreemploi
+from scraping.hellowork_scrap import main_hellowork
+from scraping.freework_scrap import main_freework
 
 def db_file_storage(db_name, table_name, df):
 
