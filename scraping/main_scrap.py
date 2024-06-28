@@ -9,7 +9,7 @@ import pandas as pd
 def db_file_storage(db_name, table_name, df):
 
     # Connexion à la base de données SQLite
-    conn = sqlite3.connect(f"./data/{db_name}.db")
+    conn = sqlite3.connect(f"./data/backup/{db_name}.db")
     
     # Enregistrer le DataFrame dans la base de données
     df.to_sql(name=table_name, con=conn, if_exists='append', index=False)
@@ -19,7 +19,7 @@ def db_file_storage(db_name, table_name, df):
 
 def connect_db(file, table):
     # Connectez-vous à la base de données
-    conn = sqlite3.connect(f"./data/{file}.db")
+    conn = sqlite3.connect(f"./data/backup/{file}.db")
     
     # Supposez que vous voulez lire une table nommée 'nom_table'
     table_name = table
