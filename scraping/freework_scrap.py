@@ -103,10 +103,7 @@ def clean_data(df):
   df['durationValue'] = df['durationValue'].astype(int)
 
 # calcul de la moyenne salaire avec création de la colonne
-  df['averageDailySalary'] = df[['minDailySalary', 'maxDailySalary']].mean(axis=1)
-
-# Convertir la colonne averageDailySalary de float en int
-  df['averageDailySalary'] = df['averageDailySalary'].astype(int)
+  df['averageDailySalary'] = df[['minDailySalary', 'maxDailySalary']].mean(axis=1).round(2)
 
 # convertir update en date .dt.strftime('%d-%m-%Y')
   df['updatedAt'] = pd.to_datetime(df['updatedAt'])  # Conversion en datetime
@@ -157,10 +154,6 @@ def clean_data(df):
   df[['poste', 'teletravail','competences','profil','description']] = df[['poste', 'teletravail','competences','profil','description']].apply(lambda x: x.str.lower())
   df['ville'] = df['ville'].str.lower()
 
-
-# Créer une colonne id avec UUID
-  #df['id'] = df[['entreprise', 'poste', 'contrat', 'ville']].apply(lambda _: uuid.uuid4(), axis=1)
-
 #  créer un id
   def generate_id(row, columns):
     # Concaténer les valeurs des colonnes sélectionnées en une seule chaîne
@@ -188,10 +181,6 @@ def clean_data(df):
   df['profil'] = df['profil'].apply(lambda x: BeautifulSoup(x, 'html.parser').text)
   df['competences'] = df['competences'].apply(lambda x: BeautifulSoup(x, 'html.parser').text)
   df['description'] = df['description'].apply(lambda x: BeautifulSoup(x, 'html.parser').text)
-
-
-  # save as csv
-  df.to_csv("freeworker.csv", index=False)
   return df
 
 

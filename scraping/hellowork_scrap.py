@@ -64,8 +64,7 @@ def generate_id(row, columns):
 
 def clean(df):
     df['site_annonce'] = 'hellowork'
-    df['publication'] = pd.to_datetime(df['publication'],dayfirst=True, errors='coerce')
-    df['publication'] = df['publication'].dt.strftime('%d-%m-%Y')
+    df['publication'] = pd.to_datetime(df['publication'],dayfirst=True).dt.strftime('%d-%m-%Y')
     df = df.apply(lambda x: x.str.lower() if x.name != 'publication' else x, axis=1)
     df['id'] = df.apply(lambda row: generate_id(row, ["entreprise", "poste" , "contrat" , "ville"]), axis=1)
     colonnes_finales = [
@@ -74,13 +73,9 @@ def clean(df):
             'profil','description', 'ville','lien'
         ]
     df = df.reindex(columns=colonnes_finales)
-    df['publication'] = pd.to_datetime(df['publication'],dayfirst=True)
 
     return df
 
 def main_hellowork():
     df = api_helloworld()
     return clean(df)
-
-
-  

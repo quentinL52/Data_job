@@ -12,7 +12,7 @@ def get_all_links(base_url, num_pages):
     data = []
     domain = "https://www.cadremploi.fr"
 
-    for page_num in tqdm(range(1, num_pages + 1,desc="Pages cadreemploi")):
+    for page_num in tqdm(range(1, num_pages + 1),desc="Pages cadreemploi"):
         url = f"{base_url}{page_num}"
         response = requests.get(url)
 
@@ -44,12 +44,9 @@ def annonces_moins_de_24h(df):
 
 # recuperer les infos des offres de moins de 24h
 def scrape_pages(df_jobs):
-    data = []
     site_annonce = "cadre emploi"
-    compteur_merge = 0
     df_merged = pd.DataFrame()
-    for index, row in tqdm(df_jobs.iterrows(), total=len(df_jobs), desc="Annonce cadreemploi"):
-        url = row['url']
+    for url in tqdm(df_jobs['url'], desc="Annonce cadreemploi"):
         try:
             response = requests.get(url)
             if response.status_code == 200:
@@ -75,12 +72,17 @@ def scrape_pages(df_jobs):
                     'ville': ville,
                     'url': url
                 }
+                data = pd.json_normalize(entry)
 
-                data.append(entry)
+                if data['poste'].str.lower().str.contains('data').all():
+                    df_merged = pd.concat([df_merged, data], axis=0, ignore_index=True)
+                else :
+                    pass
+                
         except:
             pass
-        df = pd.DataFrame(data)
-    return df
+
+    return df_merged
 
 # generer une colonne id
 def generate_id(row, columns):
@@ -92,9 +94,8 @@ def generate_id(row, columns):
 # nettoyer et filtrer le csv
 def clean_data(df):
     df = df.apply(lambda x: x.str.lower())
-    df = df[df.poste.str.contains("data")]
     df = df.drop_duplicates(subset=['url'])
-    df['poste'] = df.poste.str.replace(r'\s+nouveau$', '', regex=True)
+    df['poste'] = df['poste'].str.replace(r'\s+nouveau$', '', regex=True)
     df['contrat'] = df['contrat'].str.replace(r'^apprentissage/alternance', 'alternance', regex=True)
     df['id'] = df.apply(lambda row: generate_id(row, ["entreprise", "poste" , "contrat" , "ville"]), axis=1)
     ordre_final = [ 'id','site_annonce','entreprise', 'publication', 'poste', 'contrat', 'profil', 'description', 'ville', 'url']
@@ -110,5 +111,3 @@ def main_cadreemploi():
     df_all_jobs = scrape_pages(cadremploi_24h)
 
     return clean_data(df_all_jobs)
-
-

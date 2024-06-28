@@ -94,7 +94,10 @@ def api_hide_apec(href_list):
         job_df = pd.json_normalize(job_data)
         job_df = job_df.applymap(lambda x: x.lower() if isinstance(x, str) else x)
         job_df['link'] = href
-        df = pd.concat([df, job_df], axis=0, ignore_index=True)
+        if job_df['intitule'].str.lower().str.contains('data').all():
+            df = pd.concat([df, job_df], axis=0, ignore_index=True)
+        else :
+            pass
     return df
 
 # Nettoyage des données
@@ -186,8 +189,7 @@ def clean_df_apec(df):
     df = df.apply(lambda x: x.replace({k: v for k, v in dico_id.get(x.name, {}).items()}))
     df['audit.dateModification'] = pd.to_datetime(df['audit.dateModification']).dt.strftime('%d-%m-%Y')
     df['texteHtml'] = df['texteHtml'].apply(lambda x: BeautifulSoup(x, "html.parser").text)
-    df['texteHtmlProfil'] = df['texteHtml'].apply(lambda x: BeautifulSoup(x, "html.parser").text)
-    df['texteHtmlEntreprise'] = df['texteHtml'].apply(lambda x: BeautifulSoup(x, "html.parser").text)
+    df['texteHtmlProfil'] = df['texteHtmlProfil'].apply(lambda x: BeautifulSoup(x, "html.parser").text)
     df['competences'] = df['competences'].apply(lambda x: [ x if not x else item['libelle'] for item in x])
     df['competences'] = df['competences'].apply(lambda x: list(set(x)))
     df['competences'] = df['competences'].apply(lambda x: ' '.join([skill.replace(" ", "-") for skill in x]))
@@ -200,7 +202,6 @@ def clean_df_apec(df):
     df['periode_salaire'] = df['periode_salaire'].str.replace('annuel', 'annee')    
     df['valeur_duree_contrat'] = df.apply(lambda row: row['dureeContrat'] if 'dureeContrat' in row.index else np.nan, axis=1)
     df['type_duree_contrat'] = df.apply(lambda row: 'mensuel' if 'dureeContrat' in row.index else np.nan, axis=1)
-    df = df[df['intitule'].str.contains('data')]
     filtre_columns = [v for k,v in rename_dico.items()]
     df = df.rename(columns=rename_dico)[filtre_columns]
     df = df.fillna(value=dico_nan)
