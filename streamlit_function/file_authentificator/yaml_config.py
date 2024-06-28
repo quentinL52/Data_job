@@ -19,5 +19,5 @@ def yaml_config():
     )
     
     # Saving config file
-    with open('./users.yaml', 'w', encoding='utf-8') as file:
+    with open('./streamlit_function/file_authentificator/users.yaml', 'w', encoding='utf-8') as file:
         yaml.dump(st.session_state.config, file, default_flow_style=False)

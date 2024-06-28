@@ -1,26 +1,8 @@
 import pandas as pd
-import numpy as np
 import requests
 import hashlib
-
-# import regex
-import re
-
-# import scrapping
 from bs4 import BeautifulSoup
-from urllib.request import urlopen
-
-
-from pprint import pprint
-
-# import ID
-import uuid
-
-# import pour voir l'avancement du chargement
 from tqdm import tqdm
-
-# import pour base de donnée
-import sqlite3
 
 
 def api_freework():
@@ -40,7 +22,7 @@ def api_freework():
           df = pd.DataFrame(data)
           l_df.append(df)
       else:
-          pprint(f"Échec de la requête avec le statut: {response.status_code}")
+          print(f"Échec de la requête avec le statut: {response.status_code}")
 
 
   df = pd.concat(l_df)

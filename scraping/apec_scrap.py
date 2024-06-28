@@ -22,6 +22,7 @@ options = webdriver.ChromeOptions()
 options.add_argument("--headless")  # Mode sans affichage
 options.add_argument("--incognito")  # Mode incognito
 options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")  # Agent utilisateur
+options.binary_location = "/usr/bin/chromium-browser"
 
 service = webdriver.chrome.service.Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=options)
