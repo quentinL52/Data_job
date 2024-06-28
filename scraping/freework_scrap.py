@@ -120,7 +120,7 @@ def clean_data(df):
         'durationValue': 'valeur_duree_contrat',
         'durationPeriod': 'type_duree_contrat',
         'remoteMode': 'teletravail',
-        'averageDailySalary': 'valeur salaire',
+        'averageDailySalary': 'valeur_salaire',
         'currency': 'devise_salaire',
         'companyDescription': 'competences',
         'candidateProfile': 'profil',
@@ -167,7 +167,7 @@ def clean_data(df):
   colonnes_finales = [
         'id', 'site_annonce', 'entreprise', 'publication', 'poste', 'experience',
         'contrat', 'valeur_duree_contrat', 'type_duree_contrat', 'teletravail',
-        'valeur salaire', 'devise_salaire', 'competences', 'profil', 'description', 'ville','lien'
+        'valeur_salaire', 'devise_salaire', 'competences', 'profil', 'description', 'ville','lien'
     ]
 
 # Vérifier et supprimer les colonnes en double

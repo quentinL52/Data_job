@@ -25,7 +25,7 @@ def get_all_links(base_url, num_pages):
                 date_text = date_block.get_text().strip()
 
                 entry = {
-                    'url': href,
+                    'lien': href,
                     'publication': date_text
                 }
                 data.append(entry)
@@ -46,7 +46,7 @@ def annonces_moins_de_24h(df):
 def scrape_pages(df_jobs):
     site_annonce = "cadre emploi"
     df_merged = pd.DataFrame()
-    for url in tqdm(df_jobs['url'], desc="Annonce cadreemploi"):
+    for url in tqdm(df_jobs['lien'], desc="Annonce cadreemploi"):
         try:
             response = requests.get(url)
             if response.status_code == 200:
@@ -70,7 +70,7 @@ def scrape_pages(df_jobs):
                     'profil': profil,
                     'description': description,
                     'ville': ville,
-                    'url': url
+                    'lien': url
                 }
                 data = pd.json_normalize(entry)
 
@@ -94,11 +94,11 @@ def generate_id(row, columns):
 # nettoyer et filtrer le csv
 def clean_data(df):
     df = df.apply(lambda x: x.str.lower())
-    df = df.drop_duplicates(subset=['url'])
+    df = df.drop_duplicates(subset=['lien'])
     df['poste'] = df['poste'].str.replace(r'\s+nouveau$', '', regex=True)
     df['contrat'] = df['contrat'].str.replace(r'^apprentissage/alternance', 'alternance', regex=True)
     df['id'] = df.apply(lambda row: generate_id(row, ["entreprise", "poste" , "contrat" , "ville"]), axis=1)
-    ordre_final = [ 'id','site_annonce','entreprise', 'publication', 'poste', 'contrat', 'profil', 'description', 'ville', 'url']
+    ordre_final = [ 'id','site_annonce','entreprise', 'publication', 'poste', 'contrat', 'profil', 'description', 'ville', 'lien']
     df = df[ordre_final]
     df['publication'] = pd.to_datetime(df['publication'],dayfirst=True)
     return df
