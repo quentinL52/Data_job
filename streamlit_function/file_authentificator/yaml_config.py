@@ -6,7 +6,7 @@ import streamlit_authenticator as stauth
 
 def yaml_config():
     # Loading config file
-    with open('./users.yaml', 'r', encoding='utf-8') as file:
+    with open('./streamlit_function/file_authentificator/users.yaml', 'r', encoding='utf-8') as file:
             st.session_state.config = yaml.load(file, Loader=SafeLoader)
 
     # Creating the authenticator object

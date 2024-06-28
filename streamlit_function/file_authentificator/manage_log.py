@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_authenticator.utilities.exceptions import CredentialsError, ForgotError, LoginError, RegisterError, ResetError, UpdateError 
-from file_python.send_email import send_email
+from streamlit_function.file_authentificator.send_email import send_email
 
 
 def login_page():
