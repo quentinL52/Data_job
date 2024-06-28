@@ -3,6 +3,7 @@ import re
 from tqdm import tqdm
 import requests
 import hashlib
+import numpy as np
 
 def api_helloworld(periode="h", local="france", keyword="Data Analyst"):
     results = []
@@ -63,6 +64,26 @@ def generate_id(row, columns):
     return hashlib.md5(value.encode()).hexdigest()
 
 def clean(df):
+
+    dico_nan = {
+    
+        "entreprise" : "inconnu",
+        "publication" : np.nan,
+        "poste" : "inconnu",
+        "experience" : "inconnu",
+        "contrat" : "inconnu",
+        "valeur_duree_contrat" : np.nan,
+        "type_duree_contrat" : "inconnu",
+        "teletravail" : "inconnu",
+        "valeur_salaire" : np.nan,
+        "devise_salaire" : "inconnu",
+        "periode_salaire" : "inconnu",
+        "competences" : "inconnu",
+        "profil" : "inconnu",
+        "description" : "inconnu",
+        "ville" : "inconnu",
+    }
+
     df['site_annonce'] = 'hellowork'
     df['publication'] = pd.to_datetime(df['publication'],dayfirst=True).dt.strftime('%d-%m-%Y')
     df = df.apply(lambda x: x.str.lower() if x.name != 'publication' else x, axis=1)
@@ -73,7 +94,7 @@ def clean(df):
             'profil','description', 'ville','lien'
         ]
     df = df.reindex(columns=colonnes_finales)
-
+    df = df.fillna(value=dico_nan)
     return df
 
 def main_hellowork():

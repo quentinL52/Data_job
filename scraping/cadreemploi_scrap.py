@@ -5,6 +5,7 @@ from urllib.parse import urljoin
 from tqdm import tqdm
 from datetime import datetime
 import hashlib
+import numpy as np
 
 
 # urls des annonces des 30 premieres pages
@@ -93,6 +94,26 @@ def generate_id(row, columns):
 
 # nettoyer et filtrer le csv
 def clean_data(df):
+
+    dico_nan = {
+    
+        "entreprise" : "inconnu",
+        "publication" : np.nan,
+        "poste" : "inconnu",
+        "experience" : "inconnu",
+        "contrat" : "inconnu",
+        "valeur_duree_contrat" : np.nan,
+        "type_duree_contrat" : "inconnu",
+        "teletravail" : "inconnu",
+        "valeur_salaire" : np.nan,
+        "devise_salaire" : "inconnu",
+        "periode_salaire" : "inconnu",
+        "competences" : "inconnu",
+        "profil" : "inconnu",
+        "description" : "inconnu",
+        "ville" : "inconnu",
+    }
+
     df = df.apply(lambda x: x.str.lower())
     df = df.drop_duplicates(subset=['lien'])
     df['poste'] = df['poste'].str.replace(r'\s+nouveau$', '', regex=True)
@@ -101,6 +122,7 @@ def clean_data(df):
     ordre_final = [ 'id','site_annonce','entreprise', 'publication', 'poste', 'contrat', 'profil', 'description', 'ville', 'lien']
     df = df[ordre_final]
     df['publication'] = pd.to_datetime(df['publication'],dayfirst=True)
+    df = df.fillna(value=dico_nan)
     return df
 
 
