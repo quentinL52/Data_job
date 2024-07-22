@@ -9,7 +9,7 @@ import pandas as pd
 def db_file_storage(db_name, table_name, df):
 
     # Connexion à la base de données SQLite
-    conn = sqlite3.connect(f"./data/backup/{db_name}.db")
+    conn = sqlite3.connect(f"./data/{db_name}.db")
     
     # Enregistrer le DataFrame dans la base de données
     df.to_sql(name=table_name, con=conn, if_exists='append', index=False)
@@ -19,7 +19,7 @@ def db_file_storage(db_name, table_name, df):
 
 def connect_db(file, table):
     # Connectez-vous à la base de données
-    conn = sqlite3.connect(f"./data/{file}.db")
+    conn = sqlite3.connect(f"./data/backup/{file}.db")
     
     # Supposez que vous voulez lire une table nommée 'nom_table'
     table_name = table
@@ -30,19 +30,19 @@ def connect_db(file, table):
 def update():
 
     df_apec = main_apec()
-    db_file_storage('backup/' + 'apec', 'df_clean', df_apec)
+    db_file_storage('apec', 'df_clean', df_apec)
 
     df_wttj = main_wttj()
-    db_file_storage('backup/' + 'wttj', 'df_clean', df_wttj)
+    db_file_storage('wttj', 'df_clean', df_wttj)
 
     df_cadreemploi = main_cadreemploi()
-    db_file_storage('backup/' + 'cadreemploi', 'df_clean', df_cadreemploi)
+    db_file_storage('cadreemploi', 'df_clean', df_cadreemploi)
 
     df_hellowork = main_hellowork()
-    db_file_storage('backup/' + 'hellowork', 'df_clean', df_hellowork)
+    db_file_storage('hellowork', 'df_clean', df_hellowork)
 
     df_freework = main_freework()
-    db_file_storage('backup/' + 'freework', 'df_clean', df_freework)
+    db_file_storage('freework', 'df_clean', df_freework)
 
 
 
@@ -56,3 +56,6 @@ def concat_all_df():
     df_all = pd.concat([df_apec, df_wttj, df_cadreemploi, df_hellowork, df_freework]).reset_index(drop=True)
     db_file_storage('database', 'df_all', df_all)
     df_all.to_csv('./data/database.csv', index = False)
+
+update()
+concat_all_df()

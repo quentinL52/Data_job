@@ -1,0 +1,43 @@
+cookie:
+  expiry_days: 0
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    nissou:
+      Forgot: false
+      email: kacem.anissa@gmal.com
+      failed_login_attempts: 0
+      hardskills: {}
+      logged_in: true
+      name: nissou
+      password: $2b$12$4T5UnmWVKheQNRxPjVYwX.GXA.zQgOt4Rss716GQLpsbHVHVNBjbq
+    quentin:
+      Forgot: false
+      email: q.loumeau@googlemail.com
+      failed_login_attempts: 0
+      hardskills: {}
+      logged_in: true
+      name: quentin
+      password: $2b$12$eA/BFYq0Wa6I.7CADARqmuqdza5Lnqcc23hm0wXezegQIzDuEFd6C
+    tecor:
+      Forgot: false
+      contrat: CDI
+      diplome: Doctorat (PhD)
+      email: cornelusse.terry@gmail.com
+      failed_login_attempts: 0
+      hardskills:
+        python: []
+        sql: []
+      logged_in: true
+      name: terry
+      niveau: SENIOR
+      password: $2b$12$pkd1xRnmaq/94x08KzOwHOjlVdNZLjb1mFT1IN9OPQwHqWrinqcvy
+      softskills:
+      - Analyse Critique
+      - "Adaptabilit\xE9"
+      - Gestion du Temps
+      ville: Paris
+pre-authorized:
+  emails:
+  - melsby@gmail.com

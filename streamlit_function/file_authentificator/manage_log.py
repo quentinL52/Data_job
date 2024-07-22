@@ -24,6 +24,9 @@ def login_page():
                 username_of_registered_user,
                 name_of_registered_user) = st.session_state.authenticator.register_user(pre_authorization=False)
             if email_of_registered_user:
+                st.session_state.config['credentials']['usernames'][st.session_state["username"]]["Forgot"] = False
+                st.session_state.config['credentials']['usernames'][st.session_state["username"]]["hardskills"] = {}
+                st.session_state.config['credentials']['usernames'][st.session_state["username"]]["softskills"] = {}
                 st.success('User registered successfully')
         except RegisterError as e:
             st.error(e)
@@ -64,6 +67,7 @@ def reset_password():
         if st.session_state.authenticator.reset_password(st.session_state["username"]):
             st.success('Password modified successfully')
             st.session_state.config['credentials']['usernames'][st.session_state["username"]]["Forgot"] = False
+
     except ResetError as e:
         st.error(e)
     except CredentialsError as e:
