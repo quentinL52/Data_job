@@ -24,7 +24,6 @@ load_dotenv()
 pinecone_api_key = os.getenv("PINECONE_API_KEY")
 
 from langchain_huggingface import HuggingFaceEmbeddings
-from pinecone import Pinecone
 from langchain_pinecone import PineconeVectorStore
 
 embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/LaBSE')

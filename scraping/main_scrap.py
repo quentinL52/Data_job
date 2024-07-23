@@ -19,7 +19,7 @@ def db_file_storage(db_name, table_name, df):
 
 def connect_db(file, table):
     # Connectez-vous à la base de données
-    conn = sqlite3.connect(f"./data/backup/{file}.db")
+    conn = sqlite3.connect(f"./data/{file}.db")
     
     # Supposez que vous voulez lire une table nommée 'nom_table'
     table_name = table
@@ -57,5 +57,4 @@ def concat_all_df():
     db_file_storage('database', 'df_all', df_all)
     df_all.to_csv('./data/database.csv', index = False)
 
-update()
 concat_all_df()

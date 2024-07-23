@@ -1,8 +1,10 @@
 from pinecone import Pinecone as PineconeClient
 from pinecone import Pinecone, ServerlessSpec
 import time
-from api import clef_api_pinecone
-api_pinecone = clef_api_pinecone()
+import os
+
+
+api_pinecone = os.getenv("PINECONE_API_KEY")
 pc = Pinecone(api_key=api_pinecone)
 
 
