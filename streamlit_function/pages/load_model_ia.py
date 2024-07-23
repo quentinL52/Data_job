@@ -8,7 +8,6 @@ from langchain_core.runnables import RunnableSequence
 from langchain_core.prompts import PromptTemplate
 from dotenv import load_dotenv
 import os
-import json
 
 
 @st.cache_resource
