@@ -57,4 +57,3 @@ def concat_all_df():
     db_file_storage('database', 'df_all', df_all)
     df_all.to_csv('./data/database.csv', index = False)
 
-concat_all_df()

@@ -1,8 +1,8 @@
 import streamlit as st
 from streamlit_function.pages.profil import profil
 import json
-from streamlit_function.pages.reco_job import reco_annonce_job
-
+from streamlit_function.pages.load_model_ia import reco_annonce_job
+from streamlit_function.pages.chat import chat
 
 def ap_auth():
 
@@ -20,17 +20,25 @@ def ap_auth():
     with profil_page:
         profil()
 
+    with reco_page:
+        chat()
+
     with annonces_page:
         json_str = json.dumps(st.session_state["config"]["credentials"]["usernames"][st.session_state["username"]])
         json_reco = reco_annonce_job(json_str)
 
         for dico in json_reco:
-            st.header(f"{dico["poste"]}")
 
-            st.subheader(f"Contrat : {dico['contract']}")
-            st.subheader(f"Skills : {dico['skill']}")
+            st.markdown(f"""
+            # {dico["entreprise"]}
+            ## {dico["poste"]}
 
-            st.markdown(f"[{"Lien de l'annonce"}]({dico['link']})")
+            ### Contrat : {dico['contract']}
+            ### Skills : {dico['skill']}
+            ### [{"Lien de l'annonce"}]({dico['link']})
+
+            ---
+            """)
 
 
 

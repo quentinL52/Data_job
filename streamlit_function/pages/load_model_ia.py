@@ -1,3 +1,4 @@
+import streamlit as st
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_pinecone import PineconeVectorStore
 from langchain_core.output_parsers import JsonOutputParser
@@ -9,12 +10,20 @@ from dotenv import load_dotenv
 import os
 import json
 
-embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/LaBSE')
+
+@st.cache_resource
+def load_embeddings():
+    embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/LaBSE')
+    return embeddings
+
+embeddings = load_embeddings()
+load_dotenv()
 vectorstore = PineconeVectorStore(index_name='jobsdata', embedding=embeddings)
 
 
 def reco_annonce_job(json_profile):
     class Job(BaseModel):
+        entreprise: str = Field(description="the name of the entreprise")
         poste: str = Field(description="the name of the job position")
         contract: str = Field(description="the contract type")
         salary: str = Field(description="the salary for the job")
@@ -32,7 +41,7 @@ def reco_annonce_job(json_profile):
     def read_system_prompt(file_path):
         with open(file_path, 'r', encoding='utf-8') as file:
             return file.read()
-    file_path = './rag/prompt_tool_reco_job.txt'
+    file_path = './streamlit_function/pages/prompt_tool_reco_job.txt'
     system_prompt = read_system_prompt(file_path)
 
     prompt = PromptTemplate(
