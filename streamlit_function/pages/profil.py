@@ -115,6 +115,10 @@ def profil():
 
     if "uploaded_files" not in st.session_state:
         st.session_state.uploaded_files = []
+    if "hardskills" not in st.session_state.config['credentials']['usernames'][st.session_state["username"]]:
+        st.session_state.config['credentials']['usernames'][st.session_state["username"]]["hardskills"] = {"dashboard" : [],"python" : [],"sql" : []}
+    if "softskills" not in st.session_state.config['credentials']['usernames'][st.session_state["username"]]:
+        st.session_state.config['credentials']['usernames'][st.session_state["username"]]["softskills"] = []
 
     # Création du fichier uploader avec les paramètres spécifiés
     uploaded_file = st.file_uploader(
@@ -131,7 +135,6 @@ def profil():
         st.write(uploaded_file.name)  # Afficher le nom du fichier téléchargé
         docu_pdf = pdf_loader(uploaded_file)
         result_json = transform_text_to_json(docu_pdf)
-        st.write(result_json)
 
         profil_authen["contrat"] = [element for element in list_contrat if element in result_json["contrat"]]
         profil_authen["ville"] = result_json["ville"]

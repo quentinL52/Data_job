@@ -1,15 +1,11 @@
-import os
-from dotenv import load_dotenv
-import json
-import fitz  # PyMuPDF
+import streamlit as st
+import fitz
 import warnings
 warnings.filterwarnings('ignore')
 
 from langchain_core.output_parsers import JsonOutputParser
 from langchain_core.pydantic_v1 import BaseModel, Field
 from langchain_groq import ChatGroq
-from langchain.prompts import ChatPromptTemplate
-from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.chains import LLMChain
 from langchain_core.prompts import PromptTemplate
 
@@ -134,8 +130,8 @@ def transform_text_to_json(text):
 
     Si tu trouve pas je souhaite que tu renvoi une liste vide
     """
-    load_dotenv()
-    model = ChatGroq(temperature=0, model_name="llama3-70b-8192", groq_api_key=os.getenv('GROQ_API_KEY'))
+
+    model = ChatGroq(temperature=0, model_name="llama3-70b-8192", groq_api_key=st.secrets['GROQ_API_KEY'])
     parser = CVJsonOutputParser()
     
     # Créez le modèle de prompt

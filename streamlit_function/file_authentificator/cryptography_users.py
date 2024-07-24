@@ -1,11 +1,14 @@
+import streamlit as st
 import yaml
+from yaml.loader import SafeLoader
 from cryptography.fernet import Fernet
-from streamlit_function.file_authentificator.auto_register_yaml import update_file_content, get_file_content
 
-def decrypt_yaml(key):
+def decrypt_yaml(file_path, key):
     cipher_suite = Fernet(key)
     
-    cipher_text = get_file_content()
+    # Charger les données chiffrées
+    with open(file_path, 'rb') as enc_file:
+        cipher_text = enc_file.read()
 
     # Déchiffrer les données
     decrypted_bytes = cipher_suite.decrypt(cipher_text)
@@ -19,7 +22,7 @@ def decrypt_yaml(key):
 
 
 
-def encrypt_yaml(data, key):
+def encrypt_yaml(data, file_path, key):
     cipher_suite = Fernet(key)
     
     # Convertir les données YAML en une chaîne de caractères et encoder en bytes
@@ -30,6 +33,6 @@ def encrypt_yaml(data, key):
     cipher_text = cipher_suite.encrypt(yaml_bytes)
 
     # Enregistrer les données chiffrées dans un fichier
-    update_file_content(cipher_text)
-    
+    with open(file_path, 'wb') as enc_file:
+        enc_file.write(cipher_text)
 
