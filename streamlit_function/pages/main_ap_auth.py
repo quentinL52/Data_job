@@ -3,10 +3,11 @@ from streamlit_function.pages.profil import profil
 import json
 from streamlit_function.pages.load_model_ia import reco_annonce_job
 from streamlit_function.pages.chat import chat
+from streamlit_function.file_authentificator.manage_log import reset_password
 
 def ap_auth():
 
-    acceuil_page, profil_page, reco_page, annonces_page ,reset_password= st.tabs(['Acceuil','Profil','Recommandation IA','Annonces','Nouveau mot de passe'])
+    acceuil_page, profil_page, reco_page, annonces_page ,reset_password_users= st.tabs(['Acceuil','Profil','Recommandation IA','Annonces','Nouveau mot de passe'])
 
     with acceuil_page:
         st.markdown(f'# Bonjour {st.session_state["name"]} !')
@@ -39,7 +40,7 @@ def ap_auth():
 
             ---
             """)
-    with reset_password:
+    with reset_password_users:
         reset_password()
 
 

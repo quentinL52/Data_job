@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_function.file_authentificator.manage_log import login_page, reset_password
+from streamlit_function.file_authentificator.manage_log import login_page
 from streamlit_function.background_image import background_image
 from streamlit_function.pages.main_ap_auth import ap_auth
 import yaml
