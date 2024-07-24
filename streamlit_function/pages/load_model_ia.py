@@ -6,6 +6,8 @@ from langchain_core.pydantic_v1 import BaseModel, Field
 from langchain_groq import ChatGroq
 from langchain_core.runnables import RunnableSequence
 from langchain_core.prompts import PromptTemplate
+from dotenv import load_dotenv
+import os
 
 
 @st.cache_resource
@@ -14,7 +16,8 @@ def load_embeddings():
     return embeddings
 
 embeddings = load_embeddings()
-vectorstore = PineconeVectorStore(index_name='jobsdata', embedding=embeddings, pinecone_api_key=st.secrets['PINECONE_API_KEY'])
+load_dotenv()
+vectorstore = PineconeVectorStore(index_name='jobsdata', embedding=embeddings)
 
 
 def reco_annonce_job(json_profile):
@@ -31,7 +34,8 @@ def reco_annonce_job(json_profile):
     retriever = vectorstore.as_retriever()
 
 
-    model = ChatGroq(temperature=0, model_name="llama3-70b-8192", groq_api_key=st.secrets['GROQ_API_KEY'])
+    load_dotenv()
+    model = ChatGroq(temperature=0, model_name="llama3-70b-8192", groq_api_key=os.getenv('GROQ_API_KEY'))
 
     def read_system_prompt(file_path):
         with open(file_path, 'r', encoding='utf-8') as file:

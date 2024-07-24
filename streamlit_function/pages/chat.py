@@ -1,6 +1,8 @@
 import streamlit as st
 from typing import Generator
 from groq import Groq
+from dotenv import load_dotenv
+import os
 import json
 
 
@@ -17,8 +19,10 @@ def chat():
 
     profile_str = json.dumps(profil_authen, ensure_ascii=False, indent=4)
 
+    load_dotenv()
+
     client = Groq(
-        api_key=st.secrets['GROQ_API_KEY'],
+        api_key=os.getenv('GROQ_API_KEY'),
     )
 
     machine_prompt = {
@@ -125,5 +129,5 @@ def chat():
             combined_response = "\n".join(str(item) for item in full_response)
             st.session_state.messages.append(
                 {"role": "assistant", "content": combined_response})
-        
+        st.experimental_rerun()
 
