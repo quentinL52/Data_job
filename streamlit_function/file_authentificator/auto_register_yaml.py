@@ -19,7 +19,7 @@ def get_file_content():
     file_content = base64.b64decode(content['content']).decode('utf-8')
     return yaml.safe_load(file_content)
 
-def update_file_content(new_content):
+def update_file_content(new_content,file_path):
     """Mettre à jour le contenu du fichier YAML sur GitHub."""
     response = requests.get(GITHUB_API_URL, headers={'Authorization': f'token {GITHUB_TOKEN}'})
     response.raise_for_status()
