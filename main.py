@@ -14,7 +14,7 @@ background_image()
 key = st.secrets['ENCRYPTED_YAML']
 
 # Charger et déchiffrer le fichier YAML
-st.session_state.config = decrypt_yaml('users.yaml', key)
+st.session_state.config = decrypt_yaml(key)
         
 # Creating the authenticator object
 st.session_state.authenticator = stauth.Authenticate(
@@ -41,6 +41,6 @@ elif st.session_state["authentication_status"] is None:
     st.warning('Please enter your username and password')
 
 # Chiffrer et enregistrer les nouvelles données dans le fichier YAML
-encrypt_yaml(st.session_state.config, 'users.yaml', key)
+encrypt_yaml(st.session_state.config, key)
 
 
