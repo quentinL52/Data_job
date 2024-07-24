@@ -1,6 +1,6 @@
 import yaml
 from cryptography.fernet import Fernet
-from file_authentificator.auto_register_yaml import update_file_content
+from streamlit_function.file_authentificator.auto_register_yaml import update_file_content
 
 def decrypt_yaml(file_path, key):
     cipher_suite = Fernet(key)
