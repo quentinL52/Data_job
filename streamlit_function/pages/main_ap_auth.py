@@ -30,12 +30,12 @@ def ap_auth():
         for dico in json_reco:
 
             st.markdown(f"""
-            # {dico["entreprise"]}
-            ## {dico["poste"]}
+            ## {dico["entreprise"]}
+            ### {dico["poste"]}
 
-            ### Contrat : {dico['contract']}
-            ### Skills : {dico['skill']}
-            ### [{"Lien de l'annonce"}]({dico['link']})
+            #### Contrat : {dico['contract']}
+            #### Skills : {dico['skill']}
+            #### [{"Lien de l'annonce"}]({dico['link']})
 
             ---
             """)

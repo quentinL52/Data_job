@@ -131,7 +131,6 @@ def profil():
         st.write(uploaded_file.name)  # Afficher le nom du fichier téléchargé
         docu_pdf = pdf_loader(uploaded_file)
         result_json = transform_text_to_json(docu_pdf)
-        st.write(result_json)
 
         profil_authen["contrat"] = [element for element in list_contrat if element in result_json["contrat"]]
         profil_authen["ville"] = result_json["ville"]
