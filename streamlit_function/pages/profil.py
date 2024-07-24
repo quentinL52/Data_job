@@ -115,6 +115,10 @@ def profil():
 
     if "uploaded_files" not in st.session_state:
         st.session_state.uploaded_files = []
+    if "hardskills" not in st.session_state.config['credentials']['usernames'][st.session_state["username"]]:
+        st.session_state.config['credentials']['usernames'][st.session_state["username"]]["hardskills"] = {}
+    if "softskills" not in st.session_state.config['credentials']['usernames'][st.session_state["username"]]:
+        st.session_state.config['credentials']['usernames'][st.session_state["username"]]["softskills"] = {}
 
     # Création du fichier uploader avec les paramètres spécifiés
     uploaded_file = st.file_uploader(
