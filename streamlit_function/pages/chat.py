@@ -125,5 +125,5 @@ def chat():
             combined_response = "\n".join(str(item) for item in full_response)
             st.session_state.messages.append(
                 {"role": "assistant", "content": combined_response})
-        st.experimental_rerun()
+        
 
