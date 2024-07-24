@@ -4,15 +4,13 @@ from streamlit_function.background_image import background_image
 from streamlit_function.pages.main_ap_auth import ap_auth
 import streamlit_authenticator as stauth
 from streamlit_function.file_authentificator.cryptography_users import decrypt_yaml, encrypt_yaml
+import yaml
 
 
 background_image()
 
-# Charger la clé de chiffrement
-key = st.secrets['ENCRYPTED_YAML']
-
-# Charger et déchiffrer le fichier YAML
-st.session_state.config = decrypt_yaml(key)
+with open("users.yaml", 'r') as file:
+    data = yaml.safe_load(file)
         
 # Creating the authenticator object
 st.session_state.authenticator = stauth.Authenticate(
@@ -38,7 +36,7 @@ elif st.session_state["authentication_status"] is False:
 elif st.session_state["authentication_status"] is None:
     st.warning('Please enter your username and password')
 
-# Chiffrer et enregistrer les nouvelles données dans le fichier YAML
-encrypt_yaml(st.session_state.config, key)
+with open("users.yaml", 'w') as file:
+    yaml.dump(st.session_state.config, file, default_flow_style=False, allow_unicode=True)
 
 
