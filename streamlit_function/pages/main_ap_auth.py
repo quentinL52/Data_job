@@ -1,6 +1,6 @@
 import streamlit as st
-import json
 from streamlit_function.pages.profil import profil
+import json
 from streamlit_function.pages.load_model_ia import reco_annonce_job
 from streamlit_function.pages.chat import chat
 from streamlit_function.file_authentificator.manage_log import reset_password
