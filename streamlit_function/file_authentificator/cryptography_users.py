@@ -32,6 +32,6 @@ def encrypt_yaml(data, file_path, key):
     cipher_text = cipher_suite.encrypt(yaml_bytes)
 
     # Enregistrer les données chiffrées dans un fichier
-    update_file_content(cipher_text)
+    update_file_content(cipher_text,file_path)
     
 
