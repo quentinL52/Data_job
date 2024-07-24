@@ -1,6 +1,4 @@
-import streamlit as st
 import yaml
-from yaml.loader import SafeLoader
 from cryptography.fernet import Fernet
 
 def decrypt_yaml(file_path, key):
