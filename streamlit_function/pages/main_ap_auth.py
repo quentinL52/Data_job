@@ -3,7 +3,6 @@ from streamlit_function.pages.profil import profil
 import json
 from streamlit_function.pages.load_model_ia import reco_annonce_job
 from streamlit_function.pages.chat import chat
-from streamlit_function.file_authentificator.manage_log import reset_password
 
 def ap_auth():
 
@@ -19,11 +18,7 @@ def ap_auth():
         st.markdown(markdown_text)
 
     with profil_page:
-        info_perso, reset_passwords= st.tabs(['Informations Personelle','Nouveau mot de passe'])
-        with info_perso:
-            profil()
-        with reset_passwords:
-            reset_password()
+        profil()
 
     with reco_page:
         chat()
