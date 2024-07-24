@@ -6,7 +6,7 @@ from streamlit_function.pages.chat import chat
 
 def ap_auth():
 
-    acceuil_page, profil_page, reco_page, annonces_page = st.tabs(['Acceuil','Profil','Recommandation IA','Annonces'])
+    acceuil_page, profil_page, reco_page, annonces_page ,reset_password= st.tabs(['Acceuil','Profil','Recommandation IA','Annonces','Nouveau mot de passe'])
 
     with acceuil_page:
         st.markdown(f'# Bonjour {st.session_state["name"]} !')
@@ -39,6 +39,8 @@ def ap_auth():
 
             ---
             """)
+    with reset_password:
+        reset_password()
 
 
 

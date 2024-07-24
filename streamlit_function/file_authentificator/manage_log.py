@@ -24,7 +24,6 @@ def login_page():
                 username_of_registered_user,
                 name_of_registered_user) = st.session_state.authenticator.register_user(pre_authorization=False)
             if email_of_registered_user:
-                st.session_state.config['credentials']['usernames'][st.session_state["username"]]["Forgot"] = False
                 st.session_state.config['credentials']['usernames'][st.session_state["username"]]["hardskills"] = {}
                 st.session_state.config['credentials']['usernames'][st.session_state["username"]]["softskills"] = {}
                 st.success('User registered successfully')

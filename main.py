@@ -32,10 +32,6 @@ if not st.session_state["authentication_status"]:
 elif st.session_state["authentication_status"]: 
     #lieu personnel utilisateur
     ap_auth()
-
-
-    if st.session_state.config['credentials']['usernames'][st.session_state["username"]]["Forgot"] :
-        reset_password()
         
 
 elif st.session_state["authentication_status"] is False:
